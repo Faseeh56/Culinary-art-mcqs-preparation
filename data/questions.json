@@ -1,0 +1,7448 @@
+{
+ "chapters": [
+  {
+   "id": "ch1",
+   "title": "The Professional Kitchen",
+   "from": 1,
+   "to": 15
+  },
+  {
+   "id": "ch3",
+   "title": "Heat Transfer & Cooking Methods",
+   "from": 16,
+   "to": 47
+  },
+  {
+   "id": "ch4",
+   "title": "Knives, Tools & Equipment",
+   "from": 48,
+   "to": 64
+  },
+  {
+   "id": "ch5",
+   "title": "Stocks, Sauces & Soups",
+   "from": 65,
+   "to": 105
+  },
+  {
+   "id": "ch6",
+   "title": "Vegetables & Legumes",
+   "from": 106,
+   "to": 129
+  },
+  {
+   "id": "ch11",
+   "title": "Fish & Shellfish",
+   "from": 130,
+   "to": 160
+  },
+  {
+   "id": "ch12",
+   "title": "Produce, Grains, Dairy & Food Safety",
+   "from": 161,
+   "to": 250
+  },
+  {
+   "id": "rapid",
+   "title": "Rapid-Fire Class Notes",
+   "from": 251,
+   "to": 285
+  }
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "The term \"chef\" is French for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cook"
+    },
+    {
+     "label": "B",
+     "text": "Chief"
+    },
+    {
+     "label": "C",
+     "text": "Baker"
+    },
+    {
+     "label": "D",
+     "text": "Server"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 2
+  },
+  {
+   "id": 2,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "Auguste Escoffier is best known for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Inventing refrigeration"
+    },
+    {
+     "label": "B",
+     "text": "Simplifying and modernizing the classical brigade system"
+    },
+    {
+     "label": "C",
+     "text": "Molecular gastronomy"
+    },
+    {
+     "label": "D",
+     "text": "Fast food"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 2
+  },
+  {
+   "id": 3,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "The brigade system was developed to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Reduce food cost"
+    },
+    {
+     "label": "B",
+     "text": "Create order, efficiency and clear lines of authority"
+    },
+    {
+     "label": "C",
+     "text": "Increase portions"
+    },
+    {
+     "label": "D",
+     "text": "Eliminate waste"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 2
+  },
+  {
+   "id": 4,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "A Chef de Cuisine is responsible for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Waiting tables"
+    },
+    {
+     "label": "B",
+     "text": "Overall kitchen operations and management"
+    },
+    {
+     "label": "C",
+     "text": "Washing dishes"
+    },
+    {
+     "label": "D",
+     "text": "Purchasing only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 2
+  },
+  {
+   "id": 5,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "\"Sous Chef\" literally means:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Head chef"
+    },
+    {
+     "label": "B",
+     "text": "Under chef / second in command"
+    },
+    {
+     "label": "C",
+     "text": "Pastry chef"
+    },
+    {
+     "label": "D",
+     "text": "Line cook"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 2
+  },
+  {
+   "id": 6,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "Which position is part of the classical brigade?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Garde Manger"
+    },
+    {
+     "label": "B",
+     "text": "Sommelier"
+    },
+    {
+     "label": "C",
+     "text": "Maître d'Hôtel"
+    },
+    {
+     "label": "D",
+     "text": "All of the above"
+    }
+   ],
+   "correctOption": "D",
+   "sourcePage": 2
+  },
+  {
+   "id": 7,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "The Garde Manger (cold kitchen chef) prepares:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Grilled items"
+    },
+    {
+     "label": "B",
+     "text": "Cold foods — salads, charcuterie, canapés, buffet"
+    },
+    {
+     "label": "C",
+     "text": "Sauces"
+    },
+    {
+     "label": "D",
+     "text": "Roasts"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 2
+  },
+  {
+   "id": 8,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "The Pâtissier is in charge of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fish"
+    },
+    {
+     "label": "B",
+     "text": "Pastries, desserts and baked goods"
+    },
+    {
+     "label": "C",
+     "text": "Vegetables"
+    },
+    {
+     "label": "D",
+     "text": "Stocks"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 2
+  },
+  {
+   "id": 9,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "The baker in the brigade is called:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Saucier"
+    },
+    {
+     "label": "B",
+     "text": "Boulanger"
+    },
+    {
+     "label": "C",
+     "text": "Tournant"
+    },
+    {
+     "label": "D",
+     "text": "Entremetier"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 2
+  },
+  {
+   "id": 10,
+   "chapterId": "ch1",
+   "subtopic": "Brigade & Positions",
+   "question": "CDP (Chef de Partie) is the:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Head chef"
+    },
+    {
+     "label": "B",
+     "text": "Section in-charge (station chef)"
+    },
+    {
+     "label": "C",
+     "text": "Steward"
+    },
+    {
+     "label": "D",
+     "text": "Manager"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 3
+  },
+  {
+   "id": 11,
+   "chapterId": "ch1",
+   "subtopic": "Professionalism & Hygiene",
+   "question": "Professionalism includes all EXCEPT:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Punctuality"
+    },
+    {
+     "label": "B",
+     "text": "Respect"
+    },
+    {
+     "label": "C",
+     "text": "Gossiping in the kitchen"
+    },
+    {
+     "label": "D",
+     "text": "Positive attitude"
+    }
+   ],
+   "correctOption": "C",
+   "sourcePage": 3
+  },
+  {
+   "id": 12,
+   "chapterId": "ch1",
+   "subtopic": "Professionalism & Hygiene",
+   "question": "Mise en place means:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Everything in its place"
+    },
+    {
+     "label": "B",
+     "text": "Clean as you go"
+    },
+    {
+     "label": "C",
+     "text": "First in, first out"
+    },
+    {
+     "label": "D",
+     "text": "Time-temperature control"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 3
+  },
+  {
+   "id": 13,
+   "chapterId": "ch1",
+   "subtopic": "Professionalism & Hygiene",
+   "question": "The most important habit to prevent foodborne illness:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wearing a hat"
+    },
+    {
+     "label": "B",
+     "text": "Proper handwashing"
+    },
+    {
+     "label": "C",
+     "text": "Gloves only"
+    },
+    {
+     "label": "D",
+     "text": "Mopping"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 3
+  },
+  {
+   "id": 14,
+   "chapterId": "ch1",
+   "subtopic": "Professionalism & Hygiene",
+   "question": "Hands should be washed for at least:",
+   "options": [
+    {
+     "label": "A",
+     "text": "5 sec"
+    },
+    {
+     "label": "B",
+     "text": "10 sec"
+    },
+    {
+     "label": "C",
+     "text": "20 sec"
+    },
+    {
+     "label": "D",
+     "text": "2 sec"
+    }
+   ],
+   "correctOption": "C",
+   "sourcePage": 3
+  },
+  {
+   "id": 15,
+   "chapterId": "ch1",
+   "subtopic": "Professionalism & Hygiene",
+   "question": "Cross-contamination is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Proper cooking"
+    },
+    {
+     "label": "B",
+     "text": "Transfer of harmful bacteria from one food/surface to another"
+    },
+    {
+     "label": "C",
+     "text": "Freezing"
+    },
+    {
+     "label": "D",
+     "text": "Chilling"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 3
+  },
+  {
+   "id": 16,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "Heat transfer is the movement of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cold"
+    },
+    {
+     "label": "B",
+     "text": "Energy from a heat source to food"
+    },
+    {
+     "label": "C",
+     "text": "Water"
+    },
+    {
+     "label": "D",
+     "text": "Air only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 17,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "Conduction is heat transfer by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Air currents"
+    },
+    {
+     "label": "B",
+     "text": "Direct contact (pan → food)"
+    },
+    {
+     "label": "C",
+     "text": "Waves"
+    },
+    {
+     "label": "D",
+     "text": "Steam only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 18,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "Convection is heat transfer by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Direct contact"
+    },
+    {
+     "label": "B",
+     "text": "Movement of liquids or gases (hot air/water circulating)"
+    },
+    {
+     "label": "C",
+     "text": "Infrared waves"
+    },
+    {
+     "label": "D",
+     "text": "Metal only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 19,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "Natural convection occurs when:",
+   "options": [
+    {
+     "label": "A",
+     "text": "A fan forces air"
+    },
+    {
+     "label": "B",
+     "text": "Hot liquid/gas rises and cooler sinks"
+    },
+    {
+     "label": "C",
+     "text": "Food touches metal"
+    },
+    {
+     "label": "D",
+     "text": "No movement"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 20,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "Mechanical (forced) convection happens in a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Stockpot"
+    },
+    {
+     "label": "B",
+     "text": "Convection oven (fan circulates hot air)"
+    },
+    {
+     "label": "C",
+     "text": "Griddle"
+    },
+    {
+     "label": "D",
+     "text": "Sauté pan"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 21,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "Radiation is heat transfer by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Contact"
+    },
+    {
+     "label": "B",
+     "text": "Electromagnetic (infrared) waves without contact"
+    },
+    {
+     "label": "C",
+     "text": "Water movement"
+    },
+    {
+     "label": "D",
+     "text": "Metal only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 22,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "Radiant-heat cooking examples:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Boiling"
+    },
+    {
+     "label": "B",
+     "text": "Broiling, grilling, toasting"
+    },
+    {
+     "label": "C",
+     "text": "Poaching"
+    },
+    {
+     "label": "D",
+     "text": "Braising"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 23,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "Induction cooking works by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Heating air"
+    },
+    {
+     "label": "B",
+     "text": "Magnetic field that heats the pan directly"
+    },
+    {
+     "label": "C",
+     "text": "Radiant coils"
+    },
+    {
+     "label": "D",
+     "text": "Gas flame"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 24,
+   "chapterId": "ch3",
+   "subtopic": "Heat Transfer",
+   "question": "The most energy-efficient heat source listed:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Gas"
+    },
+    {
+     "label": "B",
+     "text": "Induction"
+    },
+    {
+     "label": "C",
+     "text": "Electric coil"
+    },
+    {
+     "label": "D",
+     "text": "Charcoal"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 4
+  },
+  {
+   "id": 25,
+   "chapterId": "ch3",
+   "subtopic": "Browning Reactions",
+   "question": "Caramelization is the browning of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Sugar"
+    },
+    {
+     "label": "B",
+     "text": "Protein"
+    },
+    {
+     "label": "C",
+     "text": "Starch"
+    },
+    {
+     "label": "D",
+     "text": "Fat"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 5
+  },
+  {
+   "id": 26,
+   "chapterId": "ch3",
+   "subtopic": "Browning Reactions",
+   "question": "The Maillard reaction is browning of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Pure sugar"
+    },
+    {
+     "label": "B",
+     "text": "Proteins/amino acids + carbohydrates (e.g., roasted meat surface)"
+    },
+    {
+     "label": "C",
+     "text": "Only fat"
+    },
+    {
+     "label": "D",
+     "text": "Water"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 5
+  },
+  {
+   "id": 27,
+   "chapterId": "ch3",
+   "subtopic": "Browning Reactions",
+   "question": "Roasting is done:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Uncovered"
+    },
+    {
+     "label": "B",
+     "text": "Always covered"
+    },
+    {
+     "label": "C",
+     "text": "In water"
+    },
+    {
+     "label": "D",
+     "text": "In steam"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 5
+  },
+  {
+   "id": 28,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Dry-heat cooking uses:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Water/steam"
+    },
+    {
+     "label": "B",
+     "text": "Air, fat, metal or radiation"
+    },
+    {
+     "label": "C",
+     "text": "Only steam"
+    },
+    {
+     "label": "D",
+     "text": "Only water"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 5
+  },
+  {
+   "id": 29,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Roasting is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cooking in liquid"
+    },
+    {
+     "label": "B",
+     "text": "Dry-heat oven cooking, usually uncovered on a rack"
+    },
+    {
+     "label": "C",
+     "text": "Covered pot with liquid"
+    },
+    {
+     "label": "D",
+     "text": "Blanching"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 5
+  },
+  {
+   "id": 30,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Baking differs from roasting mainly in:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Temperature only"
+    },
+    {
+     "label": "B",
+     "text": "The foods cooked (breads/pastries vs meats/vegetables)"
+    },
+    {
+     "label": "C",
+     "text": "No difference"
+    },
+    {
+     "label": "D",
+     "text": "Equipment"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 5
+  },
+  {
+   "id": 31,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Broiling cooks with:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Heat from below"
+    },
+    {
+     "label": "B",
+     "text": "Intense radiant heat from above"
+    },
+    {
+     "label": "C",
+     "text": "Convection only"
+    },
+    {
+     "label": "D",
+     "text": "Immersion"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 5
+  },
+  {
+   "id": 32,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Grilling differs from broiling because the heat source is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Below the food"
+    },
+    {
+     "label": "B",
+     "text": "Above"
+    },
+    {
+     "label": "C",
+     "text": "Steam"
+    },
+    {
+     "label": "D",
+     "text": "None"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 5
+  },
+  {
+   "id": 33,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Sautéing means:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Large amount of liquid"
+    },
+    {
+     "label": "B",
+     "text": "Quick cooking in a little fat over high heat, tossing/stirring"
+    },
+    {
+     "label": "C",
+     "text": "Deep-frying"
+    },
+    {
+     "label": "D",
+     "text": "Poaching"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 5
+  },
+  {
+   "id": 34,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Pan-frying uses:",
+   "options": [
+    {
+     "label": "A",
+     "text": "No fat"
+    },
+    {
+     "label": "B",
+     "text": "Food fully submerged"
+    },
+    {
+     "label": "C",
+     "text": "Moderate fat, food partially submerged"
+    },
+    {
+     "label": "D",
+     "text": "Only water"
+    }
+   ],
+   "correctOption": "C",
+   "sourcePage": 5
+  },
+  {
+   "id": 35,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Deep-frying requires food to be:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Partially covered"
+    },
+    {
+     "label": "B",
+     "text": "Completely submerged in hot fat"
+    },
+    {
+     "label": "C",
+     "text": "Dry"
+    },
+    {
+     "label": "D",
+     "text": "Steamed"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 36,
+   "chapterId": "ch3",
+   "subtopic": "Dry-Heat Methods",
+   "question": "Stir-frying is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Moist method"
+    },
+    {
+     "label": "B",
+     "text": "High-heat dry method with little oil, constant tossing (wok)"
+    },
+    {
+     "label": "C",
+     "text": "Braise"
+    },
+    {
+     "label": "D",
+     "text": "Poach"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 37,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Moist-heat methods use:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hot air only"
+    },
+    {
+     "label": "B",
+     "text": "Water, stock, steam or other liquids"
+    },
+    {
+     "label": "C",
+     "text": "Radiation"
+    },
+    {
+     "label": "D",
+     "text": "Fat only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 38,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Poaching temperature:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Boiling"
+    },
+    {
+     "label": "B",
+     "text": "160–180 °F (71–82 °C), very gentle"
+    },
+    {
+     "label": "C",
+     "text": "Rolling boil"
+    },
+    {
+     "label": "D",
+     "text": "Oven"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 39,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Simmering temperature:",
+   "options": [
+    {
+     "label": "A",
+     "text": "212 °F"
+    },
+    {
+     "label": "B",
+     "text": "185–205 °F (85–96 °C), gentle bubbles"
+    },
+    {
+     "label": "C",
+     "text": "130 °F"
+    },
+    {
+     "label": "D",
+     "text": "300 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 40,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Boiling occurs at:",
+   "options": [
+    {
+     "label": "A",
+     "text": "150 °F"
+    },
+    {
+     "label": "B",
+     "text": "212 °F (100 °C) at sea level"
+    },
+    {
+     "label": "C",
+     "text": "180 °F"
+    },
+    {
+     "label": "D",
+     "text": "160 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 41,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Blanching is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Long slow cooking"
+    },
+    {
+     "label": "B",
+     "text": "Brief boiling followed by ice-water shocking"
+    },
+    {
+     "label": "C",
+     "text": "Deep-frying"
+    },
+    {
+     "label": "D",
+     "text": "Roasting"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 42,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Parboiling means:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fully cooking"
+    },
+    {
+     "label": "B",
+     "text": "Partial cooking in boiling liquid"
+    },
+    {
+     "label": "C",
+     "text": "Freezing"
+    },
+    {
+     "label": "D",
+     "text": "Drying"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 43,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Steaming cooks food by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Submerging in water"
+    },
+    {
+     "label": "B",
+     "text": "Hot steam — food never touches the liquid"
+    },
+    {
+     "label": "C",
+     "text": "Dry air"
+    },
+    {
+     "label": "D",
+     "text": "Fat"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 44,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Braising is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Dry heat only"
+    },
+    {
+     "label": "B",
+     "text": "Combination: sear (dry) + slow covered cooking in liquid"
+    },
+    {
+     "label": "C",
+     "text": "Moist only"
+    },
+    {
+     "label": "D",
+     "text": "Radiation"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 6
+  },
+  {
+   "id": 45,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Stewing differs from braising because the food is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "One large cut"
+    },
+    {
+     "label": "B",
+     "text": "Cut small and fully submerged in liquid"
+    },
+    {
+     "label": "C",
+     "text": "Uncovered"
+    },
+    {
+     "label": "D",
+     "text": "Liquid-free"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 7
+  },
+  {
+   "id": 46,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Searing meat before braising:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cooks it through"
+    },
+    {
+     "label": "B",
+     "text": "Develops flavor and color (Maillard)"
+    },
+    {
+     "label": "C",
+     "text": "Removes fat"
+    },
+    {
+     "label": "D",
+     "text": "Tenderizes only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 7
+  },
+  {
+   "id": 47,
+   "chapterId": "ch3",
+   "subtopic": "Moist-Heat & Combination",
+   "question": "Resting roasted meat allows:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Juices to redistribute"
+    },
+    {
+     "label": "B",
+     "text": "More shrinkage"
+    },
+    {
+     "label": "C",
+     "text": "Rapid cooling"
+    },
+    {
+     "label": "D",
+     "text": "Drying"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 7
+  },
+  {
+   "id": 48,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "The most versatile knife in the kitchen:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Paring"
+    },
+    {
+     "label": "B",
+     "text": "Chef's (French) knife"
+    },
+    {
+     "label": "C",
+     "text": "Boning"
+    },
+    {
+     "label": "D",
+     "text": "Fillet"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 49,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "Chef's knife blade length:",
+   "options": [
+    {
+     "label": "A",
+     "text": "2–3 in"
+    },
+    {
+     "label": "B",
+     "text": "8–12 in"
+    },
+    {
+     "label": "C",
+     "text": "14–16 in"
+    },
+    {
+     "label": "D",
+     "text": "1 in"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 50,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "Paring knife blade length:",
+   "options": [
+    {
+     "label": "A",
+     "text": "8–12 in"
+    },
+    {
+     "label": "B",
+     "text": "2–4 in"
+    },
+    {
+     "label": "C",
+     "text": "10 in"
+    },
+    {
+     "label": "D",
+     "text": "6 in"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 51,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "A paring knife is used for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Carving roasts"
+    },
+    {
+     "label": "B",
+     "text": "Peeling, trimming and detail work"
+    },
+    {
+     "label": "C",
+     "text": "Chopping bones"
+    },
+    {
+     "label": "D",
+     "text": "Bread"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 52,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "A boning knife is used to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Separate meat from bone"
+    },
+    {
+     "label": "B",
+     "text": "Slice tomatoes"
+    },
+    {
+     "label": "C",
+     "text": "Peel"
+    },
+    {
+     "label": "D",
+     "text": "Mince"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 8
+  },
+  {
+   "id": 53,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "A serrated knife is best for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Raw onion"
+    },
+    {
+     "label": "B",
+     "text": "Bread, tomatoes, items with crust/skin"
+    },
+    {
+     "label": "C",
+     "text": "Carrots"
+    },
+    {
+     "label": "D",
+     "text": "Tenderloin"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 54,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "The steel (sharpening steel) is used to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Grind a dull blade"
+    },
+    {
+     "label": "B",
+     "text": "Realign/hone the edge"
+    },
+    {
+     "label": "C",
+     "text": "Remove rust"
+    },
+    {
+     "label": "D",
+     "text": "Clean"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 55,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "A whetstone is used to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hone only"
+    },
+    {
+     "label": "B",
+     "text": "Actually sharpen (grind) a dull knife"
+    },
+    {
+     "label": "C",
+     "text": "Sanitize"
+    },
+    {
+     "label": "D",
+     "text": "Polish"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 56,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "When carrying a knife, hold it:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Point up at shoulder"
+    },
+    {
+     "label": "B",
+     "text": "At your side, blade down and behind you"
+    },
+    {
+     "label": "C",
+     "text": "Behind the back"
+    },
+    {
+     "label": "D",
+     "text": "Toss it"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 57,
+   "chapterId": "ch4",
+   "subtopic": "Knives",
+   "question": "The safest way to pass a knife:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Toss"
+    },
+    {
+     "label": "B",
+     "text": "Place it on a clean surface for pickup"
+    },
+    {
+     "label": "C",
+     "text": "Blade-first"
+    },
+    {
+     "label": "D",
+     "text": "Slide across table"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 8
+  },
+  {
+   "id": 58,
+   "chapterId": "ch4",
+   "subtopic": "Hand Tools, Measuring & Strainers",
+   "question": "Small equipment refers to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Walk-ins"
+    },
+    {
+     "label": "B",
+     "text": "Hand tools and bench utensils"
+    },
+    {
+     "label": "C",
+     "text": "Ranges"
+    },
+    {
+     "label": "D",
+     "text": "Ovens"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 9
+  },
+  {
+   "id": 59,
+   "chapterId": "ch4",
+   "subtopic": "Hand Tools, Measuring & Strainers",
+   "question": "Large equipment includes:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Whisks"
+    },
+    {
+     "label": "B",
+     "text": "Ranges, ovens, steamers, refrigerators"
+    },
+    {
+     "label": "C",
+     "text": "Tongs"
+    },
+    {
+     "label": "D",
+     "text": "Peelers"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 9
+  },
+  {
+   "id": 60,
+   "chapterId": "ch4",
+   "subtopic": "Hand Tools, Measuring & Strainers",
+   "question": "Measuring equipment ensures:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Speed only"
+    },
+    {
+     "label": "B",
+     "text": "Accuracy, consistency and portion control"
+    },
+    {
+     "label": "C",
+     "text": "Looks"
+    },
+    {
+     "label": "D",
+     "text": "Less cleaning"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 9
+  },
+  {
+   "id": 61,
+   "chapterId": "ch4",
+   "subtopic": "Hand Tools, Measuring & Strainers",
+   "question": "A food mill is used to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Crush ice"
+    },
+    {
+     "label": "B",
+     "text": "Blend and strain — purée while removing skins/seeds"
+    },
+    {
+     "label": "C",
+     "text": "Slice"
+    },
+    {
+     "label": "D",
+     "text": "Grind meat"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 9
+  },
+  {
+   "id": 62,
+   "chapterId": "ch4",
+   "subtopic": "Hand Tools, Measuring & Strainers",
+   "question": "A colander is used to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Purée"
+    },
+    {
+     "label": "B",
+     "text": "Drain liquids (e.g., pasta, washed greens)"
+    },
+    {
+     "label": "C",
+     "text": "Fry"
+    },
+    {
+     "label": "D",
+     "text": "Grill"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 9
+  },
+  {
+   "id": 63,
+   "chapterId": "ch4",
+   "subtopic": "Hand Tools, Measuring & Strainers",
+   "question": "A conical strainer (china cap/chinois) is used for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Draining pasta"
+    },
+    {
+     "label": "B",
+     "text": "Straining and puréeing sauces/foods"
+    },
+    {
+     "label": "C",
+     "text": "Scooping"
+    },
+    {
+     "label": "D",
+     "text": "Measuring"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 9
+  },
+  {
+   "id": 64,
+   "chapterId": "ch4",
+   "subtopic": "Hand Tools, Measuring & Strainers",
+   "question": "Cheesecloth is used to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fry"
+    },
+    {
+     "label": "B",
+     "text": "Strain liquids, infusions and some sauces"
+    },
+    {
+     "label": "C",
+     "text": "Measure"
+    },
+    {
+     "label": "D",
+     "text": "Store"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 9
+  },
+  {
+   "id": 65,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "A stock is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "A thickened sauce"
+    },
+    {
+     "label": "B",
+     "text": "Flavored liquid from simmering bones, mirepoix and aromatics"
+    },
+    {
+     "label": "C",
+     "text": "A clear soup"
+    },
+    {
+     "label": "D",
+     "text": "A purée"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 10
+  },
+  {
+   "id": 66,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Stock differs from broth because stock is made with:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Bones"
+    },
+    {
+     "label": "B",
+     "text": "Meat only"
+    },
+    {
+     "label": "C",
+     "text": "No water"
+    },
+    {
+     "label": "D",
+     "text": "Cream"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 10
+  },
+  {
+   "id": 67,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Standard mirepoix is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Onion, carrot, celery"
+    },
+    {
+     "label": "B",
+     "text": "Leek, garlic, parsley"
+    },
+    {
+     "label": "C",
+     "text": "Tomato, pepper"
+    },
+    {
+     "label": "D",
+     "text": "Potato, pea"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 10
+  },
+  {
+   "id": 68,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Standard mirepoix ratio (by weight):",
+   "options": [
+    {
+     "label": "A",
+     "text": "50% onion, 25% carrot, 25% celery (2:1:1)"
+    },
+    {
+     "label": "B",
+     "text": "Equal thirds"
+    },
+    {
+     "label": "C",
+     "text": "50% carrot"
+    },
+    {
+     "label": "D",
+     "text": "50% celery"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 10
+  },
+  {
+   "id": 69,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Brown mirepoix is made by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Raw vegetables"
+    },
+    {
+     "label": "B",
+     "text": "Caramelizing (browning) the vegetables first"
+    },
+    {
+     "label": "C",
+     "text": "Blanching"
+    },
+    {
+     "label": "D",
+     "text": "Boiling"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 10
+  },
+  {
+   "id": 70,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Sachet d'épices typically contains:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Salt, pepper"
+    },
+    {
+     "label": "B",
+     "text": "Parsley stems, thyme, bay leaf, peppercorns in cheesecloth"
+    },
+    {
+     "label": "C",
+     "text": "Flour, butter"
+    },
+    {
+     "label": "D",
+     "text": "Garlic only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 10
+  },
+  {
+   "id": 71,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Bouquet garni is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Ground spices"
+    },
+    {
+     "label": "B",
+     "text": "Fresh herbs (parsley, thyme, bay) tied together"
+    },
+    {
+     "label": "C",
+     "text": "Dried veg"
+    },
+    {
+     "label": "D",
+     "text": "Mirepoix"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 10
+  },
+  {
+   "id": 72,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "White stock is made from:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Raw/blanched bones — no browning"
+    },
+    {
+     "label": "B",
+     "text": "Roasted dark bones"
+    },
+    {
+     "label": "C",
+     "text": "Caramelized veg"
+    },
+    {
+     "label": "D",
+     "text": "Tomato paste"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 10
+  },
+  {
+   "id": 73,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Brown stock requires:",
+   "options": [
+    {
+     "label": "A",
+     "text": "No browning"
+    },
+    {
+     "label": "B",
+     "text": "Roasting bones and mirepoix until browned"
+    },
+    {
+     "label": "C",
+     "text": "Vegetables only"
+    },
+    {
+     "label": "D",
+     "text": "Rapid boil"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 10
+  },
+  {
+   "id": 74,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Fish stock (fumet) cooks for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "8–10 hrs"
+    },
+    {
+     "label": "B",
+     "text": "30–45 minutes"
+    },
+    {
+     "label": "C",
+     "text": "24 hrs"
+    },
+    {
+     "label": "D",
+     "text": "5 hrs"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 75,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Vegetable stock simmers about:",
+   "options": [
+    {
+     "label": "A",
+     "text": "6–8 hrs"
+    },
+    {
+     "label": "B",
+     "text": "30–60 minutes"
+    },
+    {
+     "label": "C",
+     "text": "12 hrs"
+    },
+    {
+     "label": "D",
+     "text": "24 hrs"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 76,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Skimming stock removes:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Flavor"
+    },
+    {
+     "label": "B",
+     "text": "Impurities — scum, fat, coagulated protein"
+    },
+    {
+     "label": "C",
+     "text": "Thickens"
+    },
+    {
+     "label": "D",
+     "text": "Cools"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 77,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Stocks must be cooled properly to prevent:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Freezing"
+    },
+    {
+     "label": "B",
+     "text": "Bacterial growth (time-temperature abuse)"
+    },
+    {
+     "label": "C",
+     "text": "Thickening"
+    },
+    {
+     "label": "D",
+     "text": "Clarifying"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 78,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "A good stock is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cloudy, greasy"
+    },
+    {
+     "label": "B",
+     "text": "Clear, flavorful, gelatinous when cold"
+    },
+    {
+     "label": "C",
+     "text": "Bitter"
+    },
+    {
+     "label": "D",
+     "text": "Salty"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 79,
+   "chapterId": "ch5",
+   "subtopic": "Stocks",
+   "question": "Collagen converts to ______ during simmering:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fat"
+    },
+    {
+     "label": "B",
+     "text": "Gelatin"
+    },
+    {
+     "label": "C",
+     "text": "Starch"
+    },
+    {
+     "label": "D",
+     "text": "Sugar"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 80,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "The five mother sauces:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Tomato, Mayo, Hollandaise, Vinaigrette, Beurre Blanc"
+    },
+    {
+     "label": "B",
+     "text": "Béchamel, Velouté, Espagnole, Tomato, Hollandaise"
+    },
+    {
+     "label": "C",
+     "text": "Demi-glace, Bordelaise…"
+    },
+    {
+     "label": "D",
+     "text": "Mornay, Cheddar…"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 81,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Béchamel =",
+   "options": [
+    {
+     "label": "A",
+     "text": "Brown roux + brown stock"
+    },
+    {
+     "label": "B",
+     "text": "White roux + milk"
+    },
+    {
+     "label": "C",
+     "text": "Blond roux + veal stock"
+    },
+    {
+     "label": "D",
+     "text": "Butter + yolk"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 82,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Velouté =",
+   "options": [
+    {
+     "label": "A",
+     "text": "White roux + white stock (chicken/veal/fish)"
+    },
+    {
+     "label": "B",
+     "text": "Brown roux + milk"
+    },
+    {
+     "label": "C",
+     "text": "Oil + vinegar"
+    },
+    {
+     "label": "D",
+     "text": "Tomato only"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 11
+  },
+  {
+   "id": 83,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Espagnole (brown sauce) =",
+   "options": [
+    {
+     "label": "A",
+     "text": "White roux + milk"
+    },
+    {
+     "label": "B",
+     "text": "Brown roux + brown stock + mirepoix + tomato"
+    },
+    {
+     "label": "C",
+     "text": "Yolk + butter"
+    },
+    {
+     "label": "D",
+     "text": "Velouté + cream"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 11
+  },
+  {
+   "id": 84,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Classic tomato sauce base:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Milk"
+    },
+    {
+     "label": "B",
+     "text": "Tomatoes, mirepoix, stock and aromatics"
+    },
+    {
+     "label": "C",
+     "text": "Yolks"
+    },
+    {
+     "label": "D",
+     "text": "Cream only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 85,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Hollandaise is a(n):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Starch sauce"
+    },
+    {
+     "label": "B",
+     "text": "Emulsion of butter + egg yolks + acid"
+    },
+    {
+     "label": "C",
+     "text": "Brown roux sauce"
+    },
+    {
+     "label": "D",
+     "text": "Purée"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 86,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "A roux is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Flour + water"
+    },
+    {
+     "label": "B",
+     "text": "Equal parts fat and flour, cooked together"
+    },
+    {
+     "label": "C",
+     "text": "Butter + cream"
+    },
+    {
+     "label": "D",
+     "text": "Egg + milk"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 87,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "White roux is cooked:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Dark brown"
+    },
+    {
+     "label": "B",
+     "text": "Just until raw starch taste is gone — pale"
+    },
+    {
+     "label": "C",
+     "text": "Until black"
+    },
+    {
+     "label": "D",
+     "text": "For hours"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 88,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Blond roux is cooked to a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "White color"
+    },
+    {
+     "label": "B",
+     "text": "Light golden color"
+    },
+    {
+     "label": "C",
+     "text": "Dark brown"
+    },
+    {
+     "label": "D",
+     "text": "Black"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 89,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Brown roux has:",
+   "options": [
+    {
+     "label": "A",
+     "text": "More thickening power"
+    },
+    {
+     "label": "B",
+     "text": "Deeper color/flavor and LESS thickening power"
+    },
+    {
+     "label": "C",
+     "text": "No change"
+    },
+    {
+     "label": "D",
+     "text": "White color"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 90,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "A slurry is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Roux"
+    },
+    {
+     "label": "B",
+     "text": "Starch (cornstarch/arrowroot) mixed with cold liquid"
+    },
+    {
+     "label": "C",
+     "text": "Kneaded butter+flour"
+    },
+    {
+     "label": "D",
+     "text": "Yolks"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 91,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "A liaison is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Roux"
+    },
+    {
+     "label": "B",
+     "text": "Egg yolks + heavy cream"
+    },
+    {
+     "label": "C",
+     "text": "Cornstarch + water"
+    },
+    {
+     "label": "D",
+     "text": "Flour + butter"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 92,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Reduction means:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Adding liquid"
+    },
+    {
+     "label": "B",
+     "text": "Simmering to evaporate and concentrate flavor"
+    },
+    {
+     "label": "C",
+     "text": "Cooling"
+    },
+    {
+     "label": "D",
+     "text": "Straining"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 93,
+   "chapterId": "ch5",
+   "subtopic": "Sauces",
+   "question": "Demi-glace is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fresh stock"
+    },
+    {
+     "label": "B",
+     "text": "Espagnole + brown stock, reduced (rich, glossy)"
+    },
+    {
+     "label": "C",
+     "text": "Béchamel"
+    },
+    {
+     "label": "D",
+     "text": "Hollandaise"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 12
+  },
+  {
+   "id": 94,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Soups are classified as:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hot/cold only"
+    },
+    {
+     "label": "B",
+     "text": "Clear soups and thick soups"
+    },
+    {
+     "label": "C",
+     "text": "Dry/moist"
+    },
+    {
+     "label": "D",
+     "text": "Fried/baked"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 13
+  },
+  {
+   "id": 95,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Clear soups include:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cream of mushroom"
+    },
+    {
+     "label": "B",
+     "text": "Broth, consommé, bouillon"
+    },
+    {
+     "label": "C",
+     "text": "Bisque"
+    },
+    {
+     "label": "D",
+     "text": "Chowder"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 13
+  },
+  {
+   "id": 96,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Consommé is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cloudy broth"
+    },
+    {
+     "label": "B",
+     "text": "A perfectly clear, clarified stock"
+    },
+    {
+     "label": "C",
+     "text": "Thick purée"
+    },
+    {
+     "label": "D",
+     "text": "Cream soup"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 13
+  },
+  {
+   "id": 97,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Consommé is clarified with:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Roux"
+    },
+    {
+     "label": "B",
+     "text": "Clearmeat (ground meat, egg whites, mirepoix, tomato/acid)"
+    },
+    {
+     "label": "C",
+     "text": "Slurry"
+    },
+    {
+     "label": "D",
+     "text": "Liaison"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 13
+  },
+  {
+   "id": 98,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Thick soups include:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Broths"
+    },
+    {
+     "label": "B",
+     "text": "Cream, purée, bisque, chowder, velouté soups"
+    },
+    {
+     "label": "C",
+     "text": "Consommé"
+    },
+    {
+     "label": "D",
+     "text": "Court bouillon"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 13
+  },
+  {
+   "id": 99,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Cream soups are thickened with:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Roux (or velouté) and finished with cream"
+    },
+    {
+     "label": "B",
+     "text": "Egg whites"
+    },
+    {
+     "label": "C",
+     "text": "Gelatin"
+    },
+    {
+     "label": "D",
+     "text": "Nothing"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 13
+  },
+  {
+   "id": 100,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Purée soups are thickened by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Roux"
+    },
+    {
+     "label": "B",
+     "text": "Their own starchy vegetables/legumes, puréed"
+    },
+    {
+     "label": "C",
+     "text": "Cream only"
+    },
+    {
+     "label": "D",
+     "text": "Cornstarch"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 13
+  },
+  {
+   "id": 101,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Bisque is traditionally:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Clear"
+    },
+    {
+     "label": "B",
+     "text": "A smooth shellfish soup thickened with rice/cream"
+    },
+    {
+     "label": "C",
+     "text": "Vegetable broth"
+    },
+    {
+     "label": "D",
+     "text": "Consommé"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 13
+  },
+  {
+   "id": 102,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Chowders are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Clear, thin"
+    },
+    {
+     "label": "B",
+     "text": "Hearty thick soups with potatoes/seafood/milk"
+    },
+    {
+     "label": "C",
+     "text": "Fruit soups"
+    },
+    {
+     "label": "D",
+     "text": "Clarified"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 13
+  },
+  {
+   "id": 103,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Cold soups include:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Gazpacho, vichyssoise"
+    },
+    {
+     "label": "B",
+     "text": "French onion"
+    },
+    {
+     "label": "C",
+     "text": "Bisque"
+    },
+    {
+     "label": "D",
+     "text": "Bouillon"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 13
+  },
+  {
+   "id": 104,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Vichyssoise is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hot tomato soup"
+    },
+    {
+     "label": "B",
+     "text": "Cold creamy leek-and-potato soup"
+    },
+    {
+     "label": "C",
+     "text": "Beef consommé"
+    },
+    {
+     "label": "D",
+     "text": "Bisque"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 14
+  },
+  {
+   "id": 105,
+   "chapterId": "ch5",
+   "subtopic": "Soups",
+   "question": "Gazpacho is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cooked cream soup"
+    },
+    {
+     "label": "B",
+     "text": "Cold Spanish raw-vegetable (tomato) soup"
+    },
+    {
+     "label": "C",
+     "text": "Hot purée"
+    },
+    {
+     "label": "D",
+     "text": "Chowder"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 14
+  },
+  {
+   "id": 106,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Vegetables are classified by plant part — examples include:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fruits only"
+    },
+    {
+     "label": "B",
+     "text": "Roots, tubers, bulbs, stems, leaves, flowers, seeds/pods"
+    },
+    {
+     "label": "C",
+     "text": "Grains"
+    },
+    {
+     "label": "D",
+     "text": "Animal"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 15
+  },
+  {
+   "id": 107,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Root vegetables:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Spinach"
+    },
+    {
+     "label": "B",
+     "text": "Carrot, beet, turnip, radish, parsnip"
+    },
+    {
+     "label": "C",
+     "text": "Broccoli"
+    },
+    {
+     "label": "D",
+     "text": "Asparagus"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 15
+  },
+  {
+   "id": 108,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Tubers:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Onion"
+    },
+    {
+     "label": "B",
+     "text": "Potato, yam, Jerusalem artichoke"
+    },
+    {
+     "label": "C",
+     "text": "Carrot"
+    },
+    {
+     "label": "D",
+     "text": "Lettuce"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 15
+  },
+  {
+   "id": 109,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Bulbs:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Potato"
+    },
+    {
+     "label": "B",
+     "text": "Onion, garlic, shallot, leek"
+    },
+    {
+     "label": "C",
+     "text": "Celery"
+    },
+    {
+     "label": "D",
+     "text": "Broccoli"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 15
+  },
+  {
+   "id": 110,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Stems:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Asparagus, celery"
+    },
+    {
+     "label": "B",
+     "text": "Carrot"
+    },
+    {
+     "label": "C",
+     "text": "Spinach"
+    },
+    {
+     "label": "D",
+     "text": "Peas"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 15
+  },
+  {
+   "id": 111,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Leaf vegetables:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Lettuce, spinach, kale, chard, cabbage"
+    },
+    {
+     "label": "B",
+     "text": "Potato"
+    },
+    {
+     "label": "C",
+     "text": "Cauliflower"
+    },
+    {
+     "label": "D",
+     "text": "Corn"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 15
+  },
+  {
+   "id": 112,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Flower vegetables:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Broccoli, cauliflower, artichoke"
+    },
+    {
+     "label": "B",
+     "text": "Carrot"
+    },
+    {
+     "label": "C",
+     "text": "Onion"
+    },
+    {
+     "label": "D",
+     "text": "Lentil"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 15
+  },
+  {
+   "id": 113,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Fruit-vegetables (botanically fruits):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Tomato, cucumber, pepper, eggplant, squash, avocado"
+    },
+    {
+     "label": "B",
+     "text": "Carrot"
+    },
+    {
+     "label": "C",
+     "text": "Potato"
+    },
+    {
+     "label": "D",
+     "text": "Spinach"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 15
+  },
+  {
+   "id": 114,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Seeds and pods:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Peas, green beans, corn, lima beans"
+    },
+    {
+     "label": "B",
+     "text": "Broccoli"
+    },
+    {
+     "label": "C",
+     "text": "Celery"
+    },
+    {
+     "label": "D",
+     "text": "Cabbage"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 15
+  },
+  {
+   "id": 115,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Cruciferous (cabbage family) vegetables:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Broccoli, cauliflower, Brussels sprouts, cabbage, kale, bok choy"
+    },
+    {
+     "label": "B",
+     "text": "Carrot"
+    },
+    {
+     "label": "C",
+     "text": "Potato"
+    },
+    {
+     "label": "D",
+     "text": "Lettuce"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 15
+  },
+  {
+   "id": 116,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Most fresh vegetables are stored:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Room temp"
+    },
+    {
+     "label": "B",
+     "text": "Refrigerated, high humidity, unwashed until use"
+    },
+    {
+     "label": "C",
+     "text": "Sunlight"
+    },
+    {
+     "label": "D",
+     "text": "Sealed cans"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 16
+  },
+  {
+   "id": 117,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Potatoes and onions are stored:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Refrigerated"
+    },
+    {
+     "label": "B",
+     "text": "Cool, dark, dry, well-ventilated (NOT refrigerated)"
+    },
+    {
+     "label": "C",
+     "text": "In freezer"
+    },
+    {
+     "label": "D",
+     "text": "In water"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 16
+  },
+  {
+   "id": 118,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Ethylene-producing items include:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Apples, bananas, tomatoes, avocados, melons"
+    },
+    {
+     "label": "B",
+     "text": "Lettuce"
+    },
+    {
+     "label": "C",
+     "text": "Carrots"
+    },
+    {
+     "label": "D",
+     "text": "Beans"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 16
+  },
+  {
+   "id": 119,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Ethylene-sensitive items (keep away from ethylene):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Leafy greens, broccoli, cucumbers, carrots"
+    },
+    {
+     "label": "B",
+     "text": "Bananas"
+    },
+    {
+     "label": "C",
+     "text": "Tomatoes"
+    },
+    {
+     "label": "D",
+     "text": "Melons"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 16
+  },
+  {
+   "id": 120,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Blanching before freezing:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Adds color"
+    },
+    {
+     "label": "B",
+     "text": "Stops enzyme action — preserves color, texture, nutrients"
+    },
+    {
+     "label": "C",
+     "text": "Softens"
+    },
+    {
+     "label": "D",
+     "text": "Spoils"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 16
+  },
+  {
+   "id": 121,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Best method to preserve vegetable nutrients:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Long boiling"
+    },
+    {
+     "label": "B",
+     "text": "Steaming / stir-frying (little water, short time)"
+    },
+    {
+     "label": "C",
+     "text": "Deep-frying"
+    },
+    {
+     "label": "D",
+     "text": "Long roast"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 16
+  },
+  {
+   "id": 122,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Overcooked green vegetables turn:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Bright green"
+    },
+    {
+     "label": "B",
+     "text": "Olive-green (chlorophyll breaks down)"
+    },
+    {
+     "label": "C",
+     "text": "Blue"
+    },
+    {
+     "label": "D",
+     "text": "Purple"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 16
+  },
+  {
+   "id": 123,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "To keep greens green:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cover and cook long"
+    },
+    {
+     "label": "B",
+     "text": "Cook briefly, uncovered, in plenty of boiling water"
+    },
+    {
+     "label": "C",
+     "text": "Acid + cover"
+    },
+    {
+     "label": "D",
+     "text": "Excess soda"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 16
+  },
+  {
+   "id": 124,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Adding baking soda to cooking water:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Best practice"
+    },
+    {
+     "label": "B",
+     "text": "Keeps green but destroys vitamins and texture — avoid"
+    },
+    {
+     "label": "C",
+     "text": "No effect"
+    },
+    {
+     "label": "D",
+     "text": "Adds nutrients"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 16
+  },
+  {
+   "id": 125,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Legumes are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Animal protein"
+    },
+    {
+     "label": "B",
+     "text": "Edible seeds of the legume family — beans, lentils, peas, chickpeas"
+    },
+    {
+     "label": "C",
+     "text": "Grains"
+    },
+    {
+     "label": "D",
+     "text": "Tubers"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 16
+  },
+  {
+   "id": 126,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Dried legumes should be:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cooked dry"
+    },
+    {
+     "label": "B",
+     "text": "Sorted, rinsed and usually soaked"
+    },
+    {
+     "label": "C",
+     "text": "Fried raw"
+    },
+    {
+     "label": "D",
+     "text": "Eaten raw"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 17
+  },
+  {
+   "id": 127,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Which need NO soaking?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Kidney beans"
+    },
+    {
+     "label": "B",
+     "text": "Lentils and split peas"
+    },
+    {
+     "label": "C",
+     "text": "Chickpeas"
+    },
+    {
+     "label": "D",
+     "text": "Black beans"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 17
+  },
+  {
+   "id": 128,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Salting beans at the very start:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Softens faster"
+    },
+    {
+     "label": "B",
+     "text": "Can toughen skins — salt later"
+    },
+    {
+     "label": "C",
+     "text": "No effect"
+    },
+    {
+     "label": "D",
+     "text": "Required"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 17
+  },
+  {
+   "id": 129,
+   "chapterId": "ch6",
+   "subtopic": null,
+   "question": "Adding acid (tomato/vinegar) too early to beans:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Speeds cooking"
+    },
+    {
+     "label": "B",
+     "text": "Slows/prevents softening"
+    },
+    {
+     "label": "C",
+     "text": "Instantly softens"
+    },
+    {
+     "label": "D",
+     "text": "Dissolves skins"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 17
+  },
+  {
+   "id": 130,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Fish are classified by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Color"
+    },
+    {
+     "label": "B",
+     "text": "Shape (round/flat) and habitat (salt/fresh water)"
+    },
+    {
+     "label": "C",
+     "text": "Size"
+    },
+    {
+     "label": "D",
+     "text": "Taste"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 18
+  },
+  {
+   "id": 131,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Round fish:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Both eyes on one side"
+    },
+    {
+     "label": "B",
+     "text": "Eyes on both sides, cylindrical body — salmon, cod, tuna"
+    },
+    {
+     "label": "C",
+     "text": "Flat body"
+    },
+    {
+     "label": "D",
+     "text": "No backbone"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 18
+  },
+  {
+   "id": 132,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Flat fish:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cylindrical"
+    },
+    {
+     "label": "B",
+     "text": "Both eyes on ONE side, flat body — flounder, sole, halibut, turbot"
+    },
+    {
+     "label": "C",
+     "text": "Eyes opposite"
+    },
+    {
+     "label": "D",
+     "text": "Round cross-section"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 18
+  },
+  {
+   "id": 133,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Lean fish have:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Over 10% fat"
+    },
+    {
+     "label": "B",
+     "text": "Less than 5% fat — cod, sole, halibut, snapper"
+    },
+    {
+     "label": "C",
+     "text": "20% fat"
+    },
+    {
+     "label": "D",
+     "text": "No protein"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 18
+  },
+  {
+   "id": 134,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Fatty fish include:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cod"
+    },
+    {
+     "label": "B",
+     "text": "Salmon, tuna, mackerel, sardines, trout, herring"
+    },
+    {
+     "label": "C",
+     "text": "Flounder"
+    },
+    {
+     "label": "D",
+     "text": "Sole"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 18
+  },
+  {
+   "id": 135,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Saltwater fish:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Trout, catfish"
+    },
+    {
+     "label": "B",
+     "text": "Cod, halibut, tuna, snapper, sole, swordfish"
+    },
+    {
+     "label": "C",
+     "text": "Tilapia"
+    },
+    {
+     "label": "D",
+     "text": "Carp"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 18
+  },
+  {
+   "id": 136,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Freshwater fish:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Salmon, cod"
+    },
+    {
+     "label": "B",
+     "text": "Trout, catfish, perch, tilapia, carp"
+    },
+    {
+     "label": "C",
+     "text": "Halibut"
+    },
+    {
+     "label": "D",
+     "text": "Tuna"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 18
+  },
+  {
+   "id": 137,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Anadromous fish:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Saltwater only"
+    },
+    {
+     "label": "B",
+     "text": "Live in sea, migrate to rivers to spawn — salmon"
+    },
+    {
+     "label": "C",
+     "text": "Freshwater only"
+    },
+    {
+     "label": "D",
+     "text": "Lakes only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 18
+  },
+  {
+   "id": 138,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Catadromous fish:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Live in freshwater, spawn in saltwater — eel"
+    },
+    {
+     "label": "B",
+     "text": "Saltwater spawners"
+    },
+    {
+     "label": "C",
+     "text": "Reverse of above is false"
+    },
+    {
+     "label": "D",
+     "text": "None"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 18
+  },
+  {
+   "id": 139,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Shellfish are divided into:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Finfish"
+    },
+    {
+     "label": "B",
+     "text": "Mollusks and crustaceans"
+    },
+    {
+     "label": "C",
+     "text": "Cephalopods only"
+    },
+    {
+     "label": "D",
+     "text": "Cartilage fish"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 140,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Crustaceans have:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Soft bodies"
+    },
+    {
+     "label": "B",
+     "text": "Hard segmented shells and jointed legs — shrimp, lobster, crab, crayfish"
+    },
+    {
+     "label": "C",
+     "text": "Two shells"
+    },
+    {
+     "label": "D",
+     "text": "Tentacles"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 141,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Mollusks are protected by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Exoskeleton"
+    },
+    {
+     "label": "B",
+     "text": "A shell — clams, oysters, mussels, scallops"
+    },
+    {
+     "label": "C",
+     "text": "Scales"
+    },
+    {
+     "label": "D",
+     "text": "Fins"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 142,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Univalves have:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Two shells"
+    },
+    {
+     "label": "B",
+     "text": "ONE shell — abalone, conch, snail"
+    },
+    {
+     "label": "C",
+     "text": "No shell"
+    },
+    {
+     "label": "D",
+     "text": "Eight shells"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 143,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Bivalves have:",
+   "options": [
+    {
+     "label": "A",
+     "text": "One shell"
+    },
+    {
+     "label": "B",
+     "text": "TWO hinged shells — clam, oyster, mussel, scallop"
+    },
+    {
+     "label": "C",
+     "text": "Tentacles"
+    },
+    {
+     "label": "D",
+     "text": "No shell"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 144,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Cephalopods include:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Clams"
+    },
+    {
+     "label": "B",
+     "text": "Octopus, squid, cuttlefish"
+    },
+    {
+     "label": "C",
+     "text": "Shrimp"
+    },
+    {
+     "label": "D",
+     "text": "Scallops"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 145,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Cephalopods are identified by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Two shells"
+    },
+    {
+     "label": "B",
+     "text": "Tentacles and well-developed eyes; internal or no shell"
+    },
+    {
+     "label": "C",
+     "text": "Jointed legs"
+    },
+    {
+     "label": "D",
+     "text": "Exoskeleton"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 146,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Fresh fish should have:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Ammonia smell"
+    },
+    {
+     "label": "B",
+     "text": "Mild ocean smell, clear bright eyes, firm flesh, red gills"
+    },
+    {
+     "label": "C",
+     "text": "Sunken eyes"
+    },
+    {
+     "label": "D",
+     "text": "Brown gills"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 147,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Spoiled fish shows:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Red gills"
+    },
+    {
+     "label": "B",
+     "text": "Ammonia/sour odor, sunken cloudy eyes, soft flesh"
+    },
+    {
+     "label": "C",
+     "text": "Firm flesh"
+    },
+    {
+     "label": "D",
+     "text": "Shiny scales"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 148,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Live bivalves with open shells that don't close when tapped:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Are fine"
+    },
+    {
+     "label": "B",
+     "text": "Must be discarded"
+    },
+    {
+     "label": "C",
+     "text": "Be frozen"
+    },
+    {
+     "label": "D",
+     "text": "Be sold cheap"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 19
+  },
+  {
+   "id": 149,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Fresh fish is stored at:",
+   "options": [
+    {
+     "label": "A",
+     "text": "50–60 °F"
+    },
+    {
+     "label": "B",
+     "text": "32–38 °F (0–3 °C), ideally on ice"
+    },
+    {
+     "label": "C",
+     "text": "Room temp"
+    },
+    {
+     "label": "D",
+     "text": "45 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 150,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Fish on ice should be:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Submerged in water"
+    },
+    {
+     "label": "B",
+     "text": "Self-draining — melted ice water must drain away"
+    },
+    {
+     "label": "C",
+     "text": "In sealed water bucket"
+    },
+    {
+     "label": "D",
+     "text": "Loose on floor"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 151,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Frozen fish storage:",
+   "options": [
+    {
+     "label": "A",
+     "text": "0 °F (−18 °C) or below"
+    },
+    {
+     "label": "B",
+     "text": "32 °F"
+    },
+    {
+     "label": "C",
+     "text": "40 °F"
+    },
+    {
+     "label": "D",
+     "text": "50 °F"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 20
+  },
+  {
+   "id": 152,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Frozen fish should be thawed:",
+   "options": [
+    {
+     "label": "A",
+     "text": "At room temperature"
+    },
+    {
+     "label": "B",
+     "text": "Under refrigeration or cold running water"
+    },
+    {
+     "label": "C",
+     "text": "In hot water"
+    },
+    {
+     "label": "D",
+     "text": "On the counter"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 153,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Fish is cooked/done at:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Raw center"
+    },
+    {
+     "label": "B",
+     "text": "145 °F (63 °C), opaque, flakes easily"
+    },
+    {
+     "label": "C",
+     "text": "120 °F"
+    },
+    {
+     "label": "D",
+     "text": "Translucent"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 154,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Lean fish are best cooked with:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Long dry roasting"
+    },
+    {
+     "label": "B",
+     "text": "Moist heat or quick dry heat — poach, steam, sauté"
+    },
+    {
+     "label": "C",
+     "text": "Hours of frying"
+    },
+    {
+     "label": "D",
+     "text": "Slow grill"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 155,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Fatty fish suit:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Poach only"
+    },
+    {
+     "label": "B",
+     "text": "Broiling, grilling, roasting"
+    },
+    {
+     "label": "C",
+     "text": "Long boiling"
+    },
+    {
+     "label": "D",
+     "text": "Steam only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 156,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Shrimp, lobster and crab are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Mollusks"
+    },
+    {
+     "label": "B",
+     "text": "Crustaceans"
+    },
+    {
+     "label": "C",
+     "text": "Cephalopods"
+    },
+    {
+     "label": "D",
+     "text": "Flat fish"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 157,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Scallops, clams, oysters, mussels are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Crustaceans"
+    },
+    {
+     "label": "B",
+     "text": "Mollusks (mostly bivalves)"
+    },
+    {
+     "label": "C",
+     "text": "Round fish"
+    },
+    {
+     "label": "D",
+     "text": "Cephalopods"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 158,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "Squid and octopus belong to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Bivalves"
+    },
+    {
+     "label": "B",
+     "text": "Cephalopods"
+    },
+    {
+     "label": "C",
+     "text": "Crustaceans"
+    },
+    {
+     "label": "D",
+     "text": "Univalves"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 159,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "\"Calamari\" is the culinary name for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Octopus"
+    },
+    {
+     "label": "B",
+     "text": "Squid"
+    },
+    {
+     "label": "C",
+     "text": "Clam"
+    },
+    {
+     "label": "D",
+     "text": "Scallop"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 20
+  },
+  {
+   "id": 160,
+   "chapterId": "ch11",
+   "subtopic": null,
+   "question": "The dark vein on a shrimp's back is the:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Intestine (sand vein) — removed by deveining"
+    },
+    {
+     "label": "B",
+     "text": "Gill"
+    },
+    {
+     "label": "C",
+     "text": "Fin"
+    },
+    {
+     "label": "D",
+     "text": "Shell"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 21
+  },
+  {
+   "id": 161,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Botanically, a fruit is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "A root"
+    },
+    {
+     "label": "B",
+     "text": "The mature ovary of a flowering plant, containing seeds"
+    },
+    {
+     "label": "C",
+     "text": "A leaf"
+    },
+    {
+     "label": "D",
+     "text": "A stem"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 22
+  },
+  {
+   "id": 162,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Fruits used as vegetables:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Apples"
+    },
+    {
+     "label": "B",
+     "text": "Tomato, cucumber, pepper, avocado, squash, eggplant"
+    },
+    {
+     "label": "C",
+     "text": "Bananas"
+    },
+    {
+     "label": "D",
+     "text": "Grapes"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 22
+  },
+  {
+   "id": 163,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Simple fruits develop from:",
+   "options": [
+    {
+     "label": "A",
+     "text": "One flower, one ovary"
+    },
+    {
+     "label": "B",
+     "text": "Many flowers"
+    },
+    {
+     "label": "C",
+     "text": "No flower"
+    },
+    {
+     "label": "D",
+     "text": "Stems"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 22
+  },
+  {
+   "id": 164,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Drupes (stone fruits) have:",
+   "options": [
+    {
+     "label": "A",
+     "text": "A hard pit/stone — peach, plum, cherry, apricot, mango, olive"
+    },
+    {
+     "label": "B",
+     "text": "Many seeds"
+    },
+    {
+     "label": "C",
+     "text": "A core"
+    },
+    {
+     "label": "D",
+     "text": "Pods"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 22
+  },
+  {
+   "id": 165,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Pomes have:",
+   "options": [
+    {
+     "label": "A",
+     "text": "A central seed core with firm flesh — apple, pear"
+    },
+    {
+     "label": "B",
+     "text": "A stone"
+    },
+    {
+     "label": "C",
+     "text": "One seed"
+    },
+    {
+     "label": "D",
+     "text": "Hollow body"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 22
+  },
+  {
+   "id": 166,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "True berries are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fleshy, many seeds, thin skin — grape, blueberry, tomato"
+    },
+    {
+     "label": "B",
+     "text": "Drupes"
+    },
+    {
+     "label": "C",
+     "text": "Pomes"
+    },
+    {
+     "label": "D",
+     "text": "Melons"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 22
+  },
+  {
+   "id": 167,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Melons are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Berries with hard rinds — watermelon, cantaloupe, honeydew"
+    },
+    {
+     "label": "B",
+     "text": "Pomes"
+    },
+    {
+     "label": "C",
+     "text": "Drupes"
+    },
+    {
+     "label": "D",
+     "text": "Nuts"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 22
+  },
+  {
+   "id": 168,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Citrus fruits:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Apple, pear"
+    },
+    {
+     "label": "B",
+     "text": "Orange, lemon, lime, grapefruit, tangerine"
+    },
+    {
+     "label": "C",
+     "text": "Peach, plum"
+    },
+    {
+     "label": "D",
+     "text": "Banana"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 22
+  },
+  {
+   "id": 169,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Aggregate fruits (strawberry, raspberry, blackberry) develop from:",
+   "options": [
+    {
+     "label": "A",
+     "text": "One flower with MANY ovaries"
+    },
+    {
+     "label": "B",
+     "text": "One ovary"
+    },
+    {
+     "label": "C",
+     "text": "Many flowers"
+    },
+    {
+     "label": "D",
+     "text": "Stems"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 23
+  },
+  {
+   "id": 170,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Multiple fruits (pineapple, fig) develop from:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Many flowers fused together"
+    },
+    {
+     "label": "B",
+     "text": "One ovary"
+    },
+    {
+     "label": "C",
+     "text": "One flower"
+    },
+    {
+     "label": "D",
+     "text": "Leaves"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 23
+  },
+  {
+   "id": 171,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Tropical fruits:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Apples"
+    },
+    {
+     "label": "B",
+     "text": "Pineapple, mango, papaya, banana, guava, passion fruit, kiwi"
+    },
+    {
+     "label": "C",
+     "text": "Peaches"
+    },
+    {
+     "label": "D",
+     "text": "Grapes"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 23
+  },
+  {
+   "id": 172,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Climacteric fruits (ripen after harvest, give off ethylene):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Apple, banana, avocado, tomato, pear, peach"
+    },
+    {
+     "label": "B",
+     "text": "Citrus, grapes"
+    },
+    {
+     "label": "C",
+     "text": "All fruits"
+    },
+    {
+     "label": "D",
+     "text": "None"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 23
+  },
+  {
+   "id": 173,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Non-climacteric fruits (do NOT ripen after harvest):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Bananas"
+    },
+    {
+     "label": "B",
+     "text": "Citrus, grapes, strawberries, pineapple"
+    },
+    {
+     "label": "C",
+     "text": "Avocados"
+    },
+    {
+     "label": "D",
+     "text": "Pears"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 23
+  },
+  {
+   "id": 174,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Fruit storage rule:",
+   "options": [
+    {
+     "label": "A",
+     "text": "One rule for all"
+    },
+    {
+     "label": "B",
+     "text": "Unripe = room temp to ripen; ripe = refrigerate (except bananas/tropical)"
+    },
+    {
+     "label": "C",
+     "text": "Always frozen"
+    },
+    {
+     "label": "D",
+     "text": "Always warm"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 23
+  },
+  {
+   "id": 175,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Enzymatic browning of cut fruit is caused by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Heat"
+    },
+    {
+     "label": "B",
+     "text": "Oxidation — enzymes + air (oxygen)"
+    },
+    {
+     "label": "C",
+     "text": "Cold"
+    },
+    {
+     "label": "D",
+     "text": "Sugar"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 23
+  },
+  {
+   "id": 176,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Prevent browning of cut fruit with:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Plain water"
+    },
+    {
+     "label": "B",
+     "text": "Acid (lemon juice), sugar syrup or vitamin C/ascorbic acid"
+    },
+    {
+     "label": "C",
+     "text": "Oil"
+    },
+    {
+     "label": "D",
+     "text": "Salt"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 23
+  },
+  {
+   "id": 177,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Fresh pineapple prevents gelatin from setting because it contains:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Sugar"
+    },
+    {
+     "label": "B",
+     "text": "Bromelain — a protein-digesting enzyme (destroyed by cooking)"
+    },
+    {
+     "label": "C",
+     "text": "Starch"
+    },
+    {
+     "label": "D",
+     "text": "Fat"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 23
+  },
+  {
+   "id": 178,
+   "chapterId": "ch12",
+   "subtopic": "Fruits",
+   "question": "Papain (papaya) and actinidin (kiwi) are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Starches"
+    },
+    {
+     "label": "B",
+     "text": "Protein-splitting (proteolytic) enzymes"
+    },
+    {
+     "label": "C",
+     "text": "Fats"
+    },
+    {
+     "label": "D",
+     "text": "Acids"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 23
+  },
+  {
+   "id": 179,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Grains are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fruits"
+    },
+    {
+     "label": "B",
+     "text": "Edible seeds of grasses (cereals)"
+    },
+    {
+     "label": "C",
+     "text": "Legumes"
+    },
+    {
+     "label": "D",
+     "text": "Tubers"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 180,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Major cereal grains:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Rice, wheat, corn, barley, oats, rye, millet"
+    },
+    {
+     "label": "B",
+     "text": "Beans, lentils"
+    },
+    {
+     "label": "C",
+     "text": "Potatoes"
+    },
+    {
+     "label": "D",
+     "text": "Apples"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 24
+  },
+  {
+   "id": 181,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "A whole grain contains:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Endosperm only"
+    },
+    {
+     "label": "B",
+     "text": "Bran + germ + endosperm"
+    },
+    {
+     "label": "C",
+     "text": "Bran only"
+    },
+    {
+     "label": "D",
+     "text": "Germ only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 182,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Refined/white grain contains mostly:",
+   "options": [
+    {
+     "label": "A",
+     "text": "All three parts"
+    },
+    {
+     "label": "B",
+     "text": "Endosperm only (bran & germ removed)"
+    },
+    {
+     "label": "C",
+     "text": "Whole grain"
+    },
+    {
+     "label": "D",
+     "text": "Germ"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 183,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Rice is classified by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Color only"
+    },
+    {
+     "label": "B",
+     "text": "Grain length (long/medium/short) and processing"
+    },
+    {
+     "label": "C",
+     "text": "Shape"
+    },
+    {
+     "label": "D",
+     "text": "Taste"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 184,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Long-grain rice (basmati, jasmine):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Very sticky"
+    },
+    {
+     "label": "B",
+     "text": "Cooks dry, light and fluffy, separate grains"
+    },
+    {
+     "label": "C",
+     "text": "Short, round"
+    },
+    {
+     "label": "D",
+     "text": "Waxy"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 185,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Medium-grain rice (Arborio, Calrose):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fluffy, separate"
+    },
+    {
+     "label": "B",
+     "text": "Tender, moist, slightly sticky"
+    },
+    {
+     "label": "C",
+     "text": "Dry"
+    },
+    {
+     "label": "D",
+     "text": "Hard"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 186,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Short-grain rice (sushi rice):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Separate grains"
+    },
+    {
+     "label": "B",
+     "text": "Very sticky, clumps together"
+    },
+    {
+     "label": "C",
+     "text": "Long"
+    },
+    {
+     "label": "D",
+     "text": "Fluffy"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 187,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Brown rice is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Polished"
+    },
+    {
+     "label": "B",
+     "text": "Whole-grain — bran & germ intact; more fiber; longer cooking"
+    },
+    {
+     "label": "C",
+     "text": "Refined"
+    },
+    {
+     "label": "D",
+     "text": "Bran-less"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 188,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Parboiled (converted) rice is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Raw"
+    },
+    {
+     "label": "B",
+     "text": "Steam-treated before milling — holds shape, less sticky, more nutrients"
+    },
+    {
+     "label": "C",
+     "text": "Glutinous"
+    },
+    {
+     "label": "D",
+     "text": "Instant"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 24
+  },
+  {
+   "id": 189,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Glutinous (sticky) rice is mostly:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Amylose"
+    },
+    {
+     "label": "B",
+     "text": "Amylopectin — extremely sticky"
+    },
+    {
+     "label": "C",
+     "text": "Long grain"
+    },
+    {
+     "label": "D",
+     "text": "Brown"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 190,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Arborio rice is used for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Plain boiled rice"
+    },
+    {
+     "label": "B",
+     "text": "Risotto"
+    },
+    {
+     "label": "C",
+     "text": "Fried rice"
+    },
+    {
+     "label": "D",
+     "text": "Sushi"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 191,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Rinsing rice removes:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Nutrients"
+    },
+    {
+     "label": "B",
+     "text": "Excess surface starch (less stickiness)"
+    },
+    {
+     "label": "C",
+     "text": "Flavor"
+    },
+    {
+     "label": "D",
+     "text": "Protein"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 192,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Pilaf method: rice is first:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Boiled in excess water"
+    },
+    {
+     "label": "B",
+     "text": "Sautéed in fat, then hot liquid added, covered, simmered"
+    },
+    {
+     "label": "C",
+     "text": "Steamed"
+    },
+    {
+     "label": "D",
+     "text": "Dry-fried"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 193,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Risotto method:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Add all liquid at once"
+    },
+    {
+     "label": "B",
+     "text": "Add hot stock gradually while stirring to release starch"
+    },
+    {
+     "label": "C",
+     "text": "Never stir"
+    },
+    {
+     "label": "D",
+     "text": "Hard boil"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 194,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Traditional pasta is made from:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Rice flour"
+    },
+    {
+     "label": "B",
+     "text": "Durum wheat semolina + water"
+    },
+    {
+     "label": "C",
+     "text": "Corn"
+    },
+    {
+     "label": "D",
+     "text": "Oats"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 195,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Al dente means:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Mushy"
+    },
+    {
+     "label": "B",
+     "text": "Firm to the bite"
+    },
+    {
+     "label": "C",
+     "text": "Raw"
+    },
+    {
+     "label": "D",
+     "text": "Soft"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 196,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Couscous is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "A grain"
+    },
+    {
+     "label": "B",
+     "text": "Tiny granules of semolina pasta (North African)"
+    },
+    {
+     "label": "C",
+     "text": "Rice"
+    },
+    {
+     "label": "D",
+     "text": "A legume"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 197,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Quinoa is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "A true cereal"
+    },
+    {
+     "label": "B",
+     "text": "A pseudocereal — gluten-free complete protein"
+    },
+    {
+     "label": "C",
+     "text": "Wheat"
+    },
+    {
+     "label": "D",
+     "text": "Barley"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 198,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Bulgur is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wheat berries"
+    },
+    {
+     "label": "B",
+     "text": "Cracked, parboiled wheat"
+    },
+    {
+     "label": "C",
+     "text": "Rice"
+    },
+    {
+     "label": "D",
+     "text": "Oats"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 199,
+   "chapterId": "ch12",
+   "subtopic": "Grains & Rice",
+   "question": "Polenta is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Rice porridge"
+    },
+    {
+     "label": "B",
+     "text": "Cooked cornmeal mush"
+    },
+    {
+     "label": "C",
+     "text": "Wheat flour"
+    },
+    {
+     "label": "D",
+     "text": "Barley"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 25
+  },
+  {
+   "id": 200,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Milk is an emulsion of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Fat dispersed in water"
+    },
+    {
+     "label": "B",
+     "text": "Water in fat"
+    },
+    {
+     "label": "C",
+     "text": "Oil only"
+    },
+    {
+     "label": "D",
+     "text": "Starch in water"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 26
+  },
+  {
+   "id": 201,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Pasteurization:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Freezing"
+    },
+    {
+     "label": "B",
+     "text": "Heating to destroy pathogens and extend shelf life"
+    },
+    {
+     "label": "C",
+     "text": "Evaporating"
+    },
+    {
+     "label": "D",
+     "text": "Churning"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 202,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Homogenization:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Separates cream"
+    },
+    {
+     "label": "B",
+     "text": "Breaks fat globules small so cream doesn't separate"
+    },
+    {
+     "label": "C",
+     "text": "Pasteurizes"
+    },
+    {
+     "label": "D",
+     "text": "Ferments"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 203,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Whole milk contains about:",
+   "options": [
+    {
+     "label": "A",
+     "text": "0.5% fat"
+    },
+    {
+     "label": "B",
+     "text": "3.25–3.5% milkfat"
+    },
+    {
+     "label": "C",
+     "text": "1%"
+    },
+    {
+     "label": "D",
+     "text": "0%"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 204,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Skim milk contains:",
+   "options": [
+    {
+     "label": "A",
+     "text": "3.25%"
+    },
+    {
+     "label": "B",
+     "text": "Less than 0.5% fat"
+    },
+    {
+     "label": "C",
+     "text": "2%"
+    },
+    {
+     "label": "D",
+     "text": "4%"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 205,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Heavy whipping cream contains:",
+   "options": [
+    {
+     "label": "A",
+     "text": "10–18%"
+    },
+    {
+     "label": "B",
+     "text": "36–40% milkfat"
+    },
+    {
+     "label": "C",
+     "text": "20%"
+    },
+    {
+     "label": "D",
+     "text": "5%"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 206,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Light cream contains about:",
+   "options": [
+    {
+     "label": "A",
+     "text": "36%"
+    },
+    {
+     "label": "B",
+     "text": "18–30% fat"
+    },
+    {
+     "label": "C",
+     "text": "40%"
+    },
+    {
+     "label": "D",
+     "text": "50%"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 207,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Half-and-half is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cream + butter"
+    },
+    {
+     "label": "B",
+     "text": "Equal parts milk and light cream (~10–12% fat)"
+    },
+    {
+     "label": "C",
+     "text": "Skim + yogurt"
+    },
+    {
+     "label": "D",
+     "text": "Pure cream"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 208,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Cultured buttermilk is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Butter liquid"
+    },
+    {
+     "label": "B",
+     "text": "Fermented low-fat milk — tangy, used in baking"
+    },
+    {
+     "label": "C",
+     "text": "Heavy cream"
+    },
+    {
+     "label": "D",
+     "text": "Raw milk"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 209,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Crème fraîche is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Sour cream"
+    },
+    {
+     "label": "B",
+     "text": "Cultured heavy cream — richer, resists curdling when heated"
+    },
+    {
+     "label": "C",
+     "text": "Yogurt"
+    },
+    {
+     "label": "D",
+     "text": "Buttermilk"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 26
+  },
+  {
+   "id": 210,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Sour cream is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Uncultured"
+    },
+    {
+     "label": "B",
+     "text": "Cultured cream of about 18–20% fat"
+    },
+    {
+     "label": "C",
+     "text": "Butter"
+    },
+    {
+     "label": "D",
+     "text": "Milk"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 211,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Yogurt is made by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Churning"
+    },
+    {
+     "label": "B",
+     "text": "Bacterial fermentation of milk (Lactobacillus bulgaricus + Streptococcus thermophilus)"
+    },
+    {
+     "label": "C",
+     "text": "Freezing"
+    },
+    {
+     "label": "D",
+     "text": "Boiling"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 212,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Cheese is made by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Boiling milk"
+    },
+    {
+     "label": "B",
+     "text": "Coagulating casein with rennet/acid → curds separated from whey"
+    },
+    {
+     "label": "C",
+     "text": "Churning"
+    },
+    {
+     "label": "D",
+     "text": "Drying"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 213,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Curds are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Liquid"
+    },
+    {
+     "label": "B",
+     "text": "The solid coagulated milk protein"
+    },
+    {
+     "label": "C",
+     "text": "Fat only"
+    },
+    {
+     "label": "D",
+     "text": "Sugar"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 214,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Whey is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Solid"
+    },
+    {
+     "label": "B",
+     "text": "The liquid left after curds form"
+    },
+    {
+     "label": "C",
+     "text": "Curd"
+    },
+    {
+     "label": "D",
+     "text": "Butterfat"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 215,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Fresh (unripened) cheeses:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cheddar, Parmesan"
+    },
+    {
+     "label": "B",
+     "text": "Cottage, ricotta, cream cheese, feta, mozzarella"
+    },
+    {
+     "label": "C",
+     "text": "Blue, Roquefort"
+    },
+    {
+     "label": "D",
+     "text": "Aged Gouda"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 216,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Soft-ripened cheeses:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cheddar"
+    },
+    {
+     "label": "B",
+     "text": "Brie and Camembert (surface-mold ripened)"
+    },
+    {
+     "label": "C",
+     "text": "Parmesan"
+    },
+    {
+     "label": "D",
+     "text": "Romano"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 217,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Semi-soft cheeses:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Blue"
+    },
+    {
+     "label": "B",
+     "text": "Havarti, Monterey Jack, Fontina, young Gouda"
+    },
+    {
+     "label": "C",
+     "text": "Parmigiano"
+    },
+    {
+     "label": "D",
+     "text": "Pecorino"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 218,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Firm cheeses:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cottage"
+    },
+    {
+     "label": "B",
+     "text": "Cheddar, Gruyère, Emmental, Provolone"
+    },
+    {
+     "label": "C",
+     "text": "Brie"
+    },
+    {
+     "label": "D",
+     "text": "Ricotta"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 219,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Hard grating cheeses:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Mozzarella"
+    },
+    {
+     "label": "B",
+     "text": "Parmigiano-Reggiano, Pecorino Romano, Grana Padano"
+    },
+    {
+     "label": "C",
+     "text": "Cream cheese"
+    },
+    {
+     "label": "D",
+     "text": "Feta"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 27
+  },
+  {
+   "id": 220,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Blue-veined cheeses:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cheddar"
+    },
+    {
+     "label": "B",
+     "text": "Roquefort, Stilton, Gorgonzola, Danish Blue"
+    },
+    {
+     "label": "C",
+     "text": "Swiss"
+    },
+    {
+     "label": "D",
+     "text": "Gouda"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 28
+  },
+  {
+   "id": 221,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Processed cheese is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Aged natural cheese"
+    },
+    {
+     "label": "B",
+     "text": "Blended natural cheeses + emulsifiers, heated — melts smoothly"
+    },
+    {
+     "label": "C",
+     "text": "Raw-milk"
+    },
+    {
+     "label": "D",
+     "text": "Fresh only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 28
+  },
+  {
+   "id": 222,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Cheese is best wrapped in:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Airtight plastic forever"
+    },
+    {
+     "label": "B",
+     "text": "Cheese/wax paper, refrigerated"
+    },
+    {
+     "label": "C",
+     "text": "Foil in sun"
+    },
+    {
+     "label": "D",
+     "text": "Wet cloth"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 28
+  },
+  {
+   "id": 223,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Freezing hard cheese:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Improves texture"
+    },
+    {
+     "label": "B",
+     "text": "Makes it crumbly — fine for cooking, not for the table"
+    },
+    {
+     "label": "C",
+     "text": "No change"
+    },
+    {
+     "label": "D",
+     "text": "Makes creamy"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 28
+  },
+  {
+   "id": 224,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "Soft cheeses should:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Be frozen"
+    },
+    {
+     "label": "B",
+     "text": "NOT be frozen — texture turns watery"
+    },
+    {
+     "label": "C",
+     "text": "Sit out for days"
+    },
+    {
+     "label": "D",
+     "text": "Be boiled"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 28
+  },
+  {
+   "id": 225,
+   "chapterId": "ch12",
+   "subtopic": "Dairy & Cheese",
+   "question": "To prevent cheese sauces from splitting:",
+   "options": [
+    {
+     "label": "A",
+     "text": "High heat fast"
+    },
+    {
+     "label": "B",
+     "text": "Add cheese at the end over LOW heat"
+    },
+    {
+     "label": "C",
+     "text": "Boil hard"
+    },
+    {
+     "label": "D",
+     "text": "Add to boiling base"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 28
+  },
+  {
+   "id": 226,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "FIFO =",
+   "options": [
+    {
+     "label": "A",
+     "text": "First In, First Out — oldest stock used first"
+    },
+    {
+     "label": "B",
+     "text": "Fast In Fast Out"
+    },
+    {
+     "label": "C",
+     "text": "First In Final Out"
+    },
+    {
+     "label": "D",
+     "text": "Free In Free Out"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 28
+  },
+  {
+   "id": 227,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "FEFO =",
+   "options": [
+    {
+     "label": "A",
+     "text": "First Expired, First Out"
+    },
+    {
+     "label": "B",
+     "text": "First In First Out"
+    },
+    {
+     "label": "C",
+     "text": "Frozen Expiry First Out"
+    },
+    {
+     "label": "D",
+     "text": "Food Expiry Final Out"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 28
+  },
+  {
+   "id": 228,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "LIFO =",
+   "options": [
+    {
+     "label": "A",
+     "text": "Last In, First Out"
+    },
+    {
+     "label": "B",
+     "text": "First In First Out"
+    },
+    {
+     "label": "C",
+     "text": "Last In Last Out"
+    },
+    {
+     "label": "D",
+     "text": "Least In First Out"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 28
+  },
+  {
+   "id": 229,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "HACCP =",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hazard Analysis and Critical Control Points"
+    },
+    {
+     "label": "B",
+     "text": "Health Analysis Cooking Points"
+    },
+    {
+     "label": "C",
+     "text": "Hazard Assessment Cooking Points"
+    },
+    {
+     "label": "D",
+     "text": "Hygiene Analysis Procedures"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 28
+  },
+  {
+   "id": 230,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "A CCP (Critical Control Point) is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Any step"
+    },
+    {
+     "label": "B",
+     "text": "A step where control prevents/eliminates/reduces a food safety hazard"
+    },
+    {
+     "label": "C",
+     "text": "A shelf"
+    },
+    {
+     "label": "D",
+     "text": "A delivery time"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 231,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "The Temperature Danger Zone:",
+   "options": [
+    {
+     "label": "A",
+     "text": "32–40 °F"
+    },
+    {
+     "label": "B",
+     "text": "41–135 °F (5–57 °C)"
+    },
+    {
+     "label": "C",
+     "text": "0–32 °F"
+    },
+    {
+     "label": "D",
+     "text": "140–165 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 232,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Cold holding:",
+   "options": [
+    {
+     "label": "A",
+     "text": "50 °F"
+    },
+    {
+     "label": "B",
+     "text": "41 °F (5 °C) or below"
+    },
+    {
+     "label": "C",
+     "text": "45 °F"
+    },
+    {
+     "label": "D",
+     "text": "60 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 233,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Hot holding:",
+   "options": [
+    {
+     "label": "A",
+     "text": "120 °F"
+    },
+    {
+     "label": "B",
+     "text": "135 °F (57 °C) or above"
+    },
+    {
+     "label": "C",
+     "text": "130 °F"
+    },
+    {
+     "label": "D",
+     "text": "125 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 234,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Poultry, stuffing, stuffed meats cook to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "145 °F"
+    },
+    {
+     "label": "B",
+     "text": "165 °F (74 °C)"
+    },
+    {
+     "label": "C",
+     "text": "155 °F"
+    },
+    {
+     "label": "D",
+     "text": "150 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 235,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Ground meats cook to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "145 °F"
+    },
+    {
+     "label": "B",
+     "text": "155 °F (68 °C)"
+    },
+    {
+     "label": "C",
+     "text": "135 °F"
+    },
+    {
+     "label": "D",
+     "text": "165 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 236,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Whole cuts of beef/pork/veal/lamb and fish cook to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "135 °F"
+    },
+    {
+     "label": "B",
+     "text": "145 °F (63 °C)"
+    },
+    {
+     "label": "C",
+     "text": "155 °F"
+    },
+    {
+     "label": "D",
+     "text": "165 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 237,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Fish and shellfish cook to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "130 °F"
+    },
+    {
+     "label": "B",
+     "text": "145 °F (63 °C)"
+    },
+    {
+     "label": "C",
+     "text": "140 °F"
+    },
+    {
+     "label": "D",
+     "text": "150 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 238,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Fruits/vegetables/grains for hot holding:",
+   "options": [
+    {
+     "label": "A",
+     "text": "135 °F (57 °C)"
+    },
+    {
+     "label": "B",
+     "text": "165 °F"
+    },
+    {
+     "label": "C",
+     "text": "145 °F"
+    },
+    {
+     "label": "D",
+     "text": "155 °F"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 29
+  },
+  {
+   "id": 239,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Reheating for hot holding:",
+   "options": [
+    {
+     "label": "A",
+     "text": "135 °F"
+    },
+    {
+     "label": "B",
+     "text": "165 °F (74 °C) within 2 hours"
+    },
+    {
+     "label": "C",
+     "text": "145 °F"
+    },
+    {
+     "label": "D",
+     "text": "150 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 240,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Cooling rule: 135→70 °F within ______, then 70→41 °F within ______:",
+   "options": [
+    {
+     "label": "A",
+     "text": "1 hr / 3 hrs"
+    },
+    {
+     "label": "B",
+     "text": "2 hours / 4 more hours (6 total)"
+    },
+    {
+     "label": "C",
+     "text": "30 min / 5 hrs"
+    },
+    {
+     "label": "D",
+     "text": "3 hrs / 2 hrs"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 29
+  },
+  {
+   "id": 241,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "TCS foods include:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Flour, sugar"
+    },
+    {
+     "label": "B",
+     "text": "Dairy, eggs, meat, fish, cooked rice/beans, cut melons, cut greens, sprouts"
+    },
+    {
+     "label": "C",
+     "text": "Cans, salt, oil"
+    },
+    {
+     "label": "D",
+     "text": "Whole uncut produce"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 242,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "The 2-stage cooling rule exists to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Save energy"
+    },
+    {
+     "label": "B",
+     "text": "Keep food out of the Danger Zone as briefly as possible"
+    },
+    {
+     "label": "C",
+     "text": "Improve flavor"
+    },
+    {
+     "label": "D",
+     "text": "Thicken"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 243,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Dry storage should be:",
+   "options": [
+    {
+     "label": "A",
+     "text": "32–40 °F"
+    },
+    {
+     "label": "B",
+     "text": "50–70 °F (10–21 °C), cool, dry, ventilated, off the floor"
+    },
+    {
+     "label": "C",
+     "text": "80–90 °F"
+    },
+    {
+     "label": "D",
+     "text": "0 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 244,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Refrigerator storage:",
+   "options": [
+    {
+     "label": "A",
+     "text": "50 °F"
+    },
+    {
+     "label": "B",
+     "text": "41 °F (5 °C) or below"
+    },
+    {
+     "label": "C",
+     "text": "45 °F"
+    },
+    {
+     "label": "D",
+     "text": "48 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 245,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Freezer storage:",
+   "options": [
+    {
+     "label": "A",
+     "text": "32 °F"
+    },
+    {
+     "label": "B",
+     "text": "0 °F (−18 °C) or below"
+    },
+    {
+     "label": "C",
+     "text": "10 °F"
+    },
+    {
+     "label": "D",
+     "text": "20 °F"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 246,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Ready-to-eat food is stored:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Below raw meat"
+    },
+    {
+     "label": "B",
+     "text": "ABOVE raw meats — to prevent drip contamination"
+    },
+    {
+     "label": "C",
+     "text": "Beside raw chicken"
+    },
+    {
+     "label": "D",
+     "text": "On the floor"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 247,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Raw poultry is stored:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Above cooked food"
+    },
+    {
+     "label": "B",
+     "text": "On the LOWEST shelf"
+    },
+    {
+     "label": "C",
+     "text": "Eye level"
+    },
+    {
+     "label": "D",
+     "text": "With produce"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 248,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Correct fridge order (top → bottom):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Poultry → seafood → RTE"
+    },
+    {
+     "label": "B",
+     "text": "Ready-to-eat → seafood → whole cuts → ground meat → poultry"
+    },
+    {
+     "label": "C",
+     "text": "Poultry on top"
+    },
+    {
+     "label": "D",
+     "text": "Mixed freely"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 249,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "FIFO practice means:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Newest first"
+    },
+    {
+     "label": "B",
+     "text": "Oldest product (first received) is used/sold first"
+    },
+    {
+     "label": "C",
+     "text": "Random"
+    },
+    {
+     "label": "D",
+     "text": "Costliest first"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 250,
+   "chapterId": "ch12",
+   "subtopic": "Storage, Rotation & Food Safety",
+   "question": "Date-marking exists to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Confuse staff"
+    },
+    {
+     "label": "B",
+     "text": "Guarantee quality and safety, and enforce rotation"
+    },
+    {
+     "label": "C",
+     "text": "Raise cost"
+    },
+    {
+     "label": "D",
+     "text": "Waste food"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 30
+  },
+  {
+   "id": 251,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Salamander's heat source is located:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Below"
+    },
+    {
+     "label": "B",
+     "text": "Above the food"
+    },
+    {
+     "label": "C",
+     "text": "Both"
+    },
+    {
+     "label": "D",
+     "text": "None"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 31
+  },
+  {
+   "id": 252,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "A combi oven is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Steam only"
+    },
+    {
+     "label": "B",
+     "text": "Dual purpose — hot air (convection) + steam"
+    },
+    {
+     "label": "C",
+     "text": "Microwave"
+    },
+    {
+     "label": "D",
+     "text": "Grill"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 31
+  },
+  {
+   "id": 253,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Convection ovens are available in:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Gas only"
+    },
+    {
+     "label": "B",
+     "text": "Both gas and electric"
+    },
+    {
+     "label": "C",
+     "text": "Electric only"
+    },
+    {
+     "label": "D",
+     "text": "Solar"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 31
+  },
+  {
+   "id": 254,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "The smallest measuring instrument is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Measuring cup"
+    },
+    {
+     "label": "B",
+     "text": "Measuring spoons"
+    },
+    {
+     "label": "C",
+     "text": "Ladle"
+    },
+    {
+     "label": "D",
+     "text": "Scale"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 31
+  },
+  {
+   "id": 255,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "White mirepoix contains:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Onion, leek, celery (no carrot — keeps stock white)"
+    },
+    {
+     "label": "B",
+     "text": "Onion, carrot, celery"
+    },
+    {
+     "label": "C",
+     "text": "Carrot, tomato"
+    },
+    {
+     "label": "D",
+     "text": "Only onion"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 31
+  },
+  {
+   "id": 256,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Basic (standard) mirepoix ratio:",
+   "options": [
+    {
+     "label": "A",
+     "text": "1:1:1"
+    },
+    {
+     "label": "B",
+     "text": "2:1:1 — onion : carrot : celery"
+    },
+    {
+     "label": "C",
+     "text": "3:2:1"
+    },
+    {
+     "label": "D",
+     "text": "4:1:1"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 31
+  },
+  {
+   "id": 257,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Fish receiving temperature:",
+   "options": [
+    {
+     "label": "A",
+     "text": "3–4 °C"
+    },
+    {
+     "label": "B",
+     "text": "−1 to 1 °C"
+    },
+    {
+     "label": "C",
+     "text": "10 °C"
+    },
+    {
+     "label": "D",
+     "text": "−18 °C"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 31
+  },
+  {
+   "id": 258,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Fish storage temperature:",
+   "options": [
+    {
+     "label": "A",
+     "text": "0 °C (or below)"
+    },
+    {
+     "label": "B",
+     "text": "5 °C"
+    },
+    {
+     "label": "C",
+     "text": "10 °C"
+    },
+    {
+     "label": "D",
+     "text": "4–8 °C"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 31
+  },
+  {
+   "id": 259,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Fish display/selling temperature:",
+   "options": [
+    {
+     "label": "A",
+     "text": "0 °C"
+    },
+    {
+     "label": "B",
+     "text": "3–4 °C"
+    },
+    {
+     "label": "C",
+     "text": "−18 °C"
+    },
+    {
+     "label": "D",
+     "text": "10 °C"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 31
+  },
+  {
+   "id": 260,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Chiller (refrigerator) temperature per class notes:",
+   "options": [
+    {
+     "label": "A",
+     "text": "5–10 °C"
+    },
+    {
+     "label": "B",
+     "text": "0 to −2 °C"
+    },
+    {
+     "label": "C",
+     "text": "3–7 °C"
+    },
+    {
+     "label": "D",
+     "text": "−18 °C"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 31
+  },
+  {
+   "id": 261,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Kitchen/workplace safety (USA) is governed by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "HACCP"
+    },
+    {
+     "label": "B",
+     "text": "OSHA"
+    },
+    {
+     "label": "C",
+     "text": "FDA only"
+    },
+    {
+     "label": "D",
+     "text": "USDA only"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 32
+  },
+  {
+   "id": 262,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Kosher meat must be:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Slaughtered and prepared according to Jewish dietary law (blood removed)"
+    },
+    {
+     "label": "B",
+     "text": "Frozen only"
+    },
+    {
+     "label": "C",
+     "text": "Halal"
+    },
+    {
+     "label": "D",
+     "text": "Organic"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 32
+  },
+  {
+   "id": 263,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "PSMO (tenderloin) stands for a tenderloin that is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Portion-cut"
+    },
+    {
+     "label": "B",
+     "text": "Peeled, Silverskin off, side Muscle On"
+    },
+    {
+     "label": "C",
+     "text": "Fully trimmed"
+    },
+    {
+     "label": "D",
+     "text": "Bone-in"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 32
+  },
+  {
+   "id": 264,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Hard cheese preparation (aging) takes about:",
+   "options": [
+    {
+     "label": "A",
+     "text": "2–7 months"
+    },
+    {
+     "label": "B",
+     "text": "2–7 years — e.g., Parmigiano-Reggiano"
+    },
+    {
+     "label": "C",
+     "text": "2–7 days"
+    },
+    {
+     "label": "D",
+     "text": "2–7 weeks"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 32
+  },
+  {
+   "id": 265,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "A morel is a type of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Onion"
+    },
+    {
+     "label": "B",
+     "text": "Mushroom"
+    },
+    {
+     "label": "C",
+     "text": "Herb"
+    },
+    {
+     "label": "D",
+     "text": "Fish"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 32
+  },
+  {
+   "id": 266,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "A leek belongs to the ______ family:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cabbage"
+    },
+    {
+     "label": "B",
+     "text": "Onion (allium)"
+    },
+    {
+     "label": "C",
+     "text": "Lettuce"
+    },
+    {
+     "label": "D",
+     "text": "Carrot"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 32
+  },
+  {
+   "id": 267,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Jalapeño peppers come originally from:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Spain"
+    },
+    {
+     "label": "B",
+     "text": "Mexico"
+    },
+    {
+     "label": "C",
+     "text": "India"
+    },
+    {
+     "label": "D",
+     "text": "Italy"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 32
+  },
+  {
+   "id": 268,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Cilantro is the leaf of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Coriander"
+    },
+    {
+     "label": "B",
+     "text": "Parsley"
+    },
+    {
+     "label": "C",
+     "text": "Basil"
+    },
+    {
+     "label": "D",
+     "text": "Celery"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 32
+  },
+  {
+   "id": 269,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "\"Dill is a herb\" is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "True"
+    },
+    {
+     "label": "B",
+     "text": "False"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 32
+  },
+  {
+   "id": 270,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Compared with raspberries, blueberries are:",
+   "options": [
+    {
+     "label": "A",
+     "text": "More perishable"
+    },
+    {
+     "label": "B",
+     "text": "Less perishable (firmer, longer shelf life)"
+    },
+    {
+     "label": "C",
+     "text": "Identical"
+    },
+    {
+     "label": "D",
+     "text": "Always frozen"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 32
+  },
+  {
+   "id": 271,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Citrus fruits are at their best in:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Summer only"
+    },
+    {
+     "label": "B",
+     "text": "Winter"
+    },
+    {
+     "label": "C",
+     "text": "Spring only"
+    },
+    {
+     "label": "D",
+     "text": "Never"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 32
+  },
+  {
+   "id": 272,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "A nectarine is a ______ fruit:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Citrus"
+    },
+    {
+     "label": "B",
+     "text": "Stone (drupe)"
+    },
+    {
+     "label": "C",
+     "text": "Multiple"
+    },
+    {
+     "label": "D",
+     "text": "Berry"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 273,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Pineapple is a ______ fruit:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Stone"
+    },
+    {
+     "label": "B",
+     "text": "Multiple (many flowers fused)"
+    },
+    {
+     "label": "C",
+     "text": "Pome"
+    },
+    {
+     "label": "D",
+     "text": "Berry"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 274,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Tropical fruits are harvested in:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Winter"
+    },
+    {
+     "label": "B",
+     "text": "The warm/hot season"
+    },
+    {
+     "label": "C",
+     "text": "Autumn only"
+    },
+    {
+     "label": "D",
+     "text": "Never"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 275,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "\"Potato is a root vegetable\" is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "True"
+    },
+    {
+     "label": "B",
+     "text": "False — it is a TUBER"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 276,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Herbs are the ______ of aromatic plants:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Leaves"
+    },
+    {
+     "label": "B",
+     "text": "Roots"
+    },
+    {
+     "label": "C",
+     "text": "Seeds"
+    },
+    {
+     "label": "D",
+     "text": "Bark"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 33
+  },
+  {
+   "id": 277,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Foodborne illness is caused by:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cold"
+    },
+    {
+     "label": "B",
+     "text": "Pathogens — bacteria, viruses, parasites"
+    },
+    {
+     "label": "C",
+     "text": "Freezing"
+    },
+    {
+     "label": "D",
+     "text": "Washing"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 278,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "Abbreviation \"oz\" stands for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Ounce"
+    },
+    {
+     "label": "B",
+     "text": "Ounce-zinc"
+    },
+    {
+     "label": "C",
+     "text": "Ozer"
+    },
+    {
+     "label": "D",
+     "text": "None"
+    }
+   ],
+   "correctOption": "A",
+   "sourcePage": 33
+  },
+  {
+   "id": 279,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "1 gallon = ______ quarts:",
+   "options": [
+    {
+     "label": "A",
+     "text": "2"
+    },
+    {
+     "label": "B",
+     "text": "4"
+    },
+    {
+     "label": "C",
+     "text": "8"
+    },
+    {
+     "label": "D",
+     "text": "16"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 280,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "1 pound = ______ grams:",
+   "options": [
+    {
+     "label": "A",
+     "text": "100"
+    },
+    {
+     "label": "B",
+     "text": "454"
+    },
+    {
+     "label": "C",
+     "text": "500"
+    },
+    {
+     "label": "D",
+     "text": "1000"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 281,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "1 cup ≈ ______ ml:",
+   "options": [
+    {
+     "label": "A",
+     "text": "150"
+    },
+    {
+     "label": "B",
+     "text": "250"
+    },
+    {
+     "label": "C",
+     "text": "400"
+    },
+    {
+     "label": "D",
+     "text": "1000"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 282,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "1 tablespoon = ______ teaspoons:",
+   "options": [
+    {
+     "label": "A",
+     "text": "1"
+    },
+    {
+     "label": "B",
+     "text": "3"
+    },
+    {
+     "label": "C",
+     "text": "5"
+    },
+    {
+     "label": "D",
+     "text": "2"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 283,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "\"tsp\" is the sign for:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Tablespoon"
+    },
+    {
+     "label": "B",
+     "text": "Teaspoon"
+    },
+    {
+     "label": "C",
+     "text": "Cup"
+    },
+    {
+     "label": "D",
+     "text": "Liter"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 33
+  },
+  {
+   "id": 284,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "1 gallon ≈ ______ litres:",
+   "options": [
+    {
+     "label": "A",
+     "text": "1"
+    },
+    {
+     "label": "B",
+     "text": "3.8"
+    },
+    {
+     "label": "C",
+     "text": "8"
+    },
+    {
+     "label": "D",
+     "text": "10"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 34
+  },
+  {
+   "id": 285,
+   "chapterId": "rapid",
+   "subtopic": null,
+   "question": "1 kilogram ≈ ______ pounds:",
+   "options": [
+    {
+     "label": "A",
+     "text": "1"
+    },
+    {
+     "label": "B",
+     "text": "2.2"
+    },
+    {
+     "label": "C",
+     "text": "4.5"
+    },
+    {
+     "label": "D",
+     "text": "10"
+    }
+   ],
+   "correctOption": "B",
+   "sourcePage": 34
+  }
+ ]
+}
