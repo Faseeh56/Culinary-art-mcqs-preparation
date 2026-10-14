@@ -9,7 +9,7 @@ Static site (no backend). All 285 MCQs live in `data/questions.json`, extracted 
 ## Deploy (GitHub Pages)
 1. Push this folder to a GitHub repo (branch `main`).
 2. Settings → Pages → Source: **GitHub Actions**.
-3. The workflow validates, builds and publishes at `https://USERNAME.github.io/REPO/`.
+3. The workflow validates, builds and publishes at `[https://USERNAME.github.io/REPO/](https://faseeh56.github.io/Culinary-art-mcqs-preparation/)`.
 Uses relative paths and hash routing (`#/…`), so any repo name and page refresh work. Edit `app.template.html`, then re-run `build.py`.
 
 Progress is saved in this browser's localStorage only (no sync). Export/Import JSON is on the Progress page.
