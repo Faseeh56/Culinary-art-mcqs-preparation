@@ -1,0 +1,7096 @@
+{
+ "chapters": [
+  {
+   "id": "food-01",
+   "title": "Food Safety: Introduction to Food Safety, Symptoms & Faults",
+   "from": 476,
+   "to": 486
+  },
+  {
+   "id": "food-02",
+   "title": "Food Safety: Microbiological Hazards, Bacterial Growth & Spores",
+   "from": 487,
+   "to": 499
+  },
+  {
+   "id": "food-03",
+   "title": "Food Safety: Food Classifications & Food Spoilage",
+   "from": 500,
+   "to": 508
+  },
+  {
+   "id": "food-04",
+   "title": "Food Safety: Food Poisoning Causes & Foodborne Diseases",
+   "from": 509,
+   "to": 517
+  },
+  {
+   "id": "food-05",
+   "title": "Food Safety: Contamination, Vehicles & Cross-Contamination",
+   "from": 518,
+   "to": 528
+  },
+  {
+   "id": "food-06",
+   "title": "Food Safety: Physical, Chemical & Allergenic Hazards",
+   "from": 529,
+   "to": 539
+  },
+  {
+   "id": "food-07",
+   "title": "Food Safety: Personal Hygiene, Handwashing & Illness Reporting",
+   "from": 540,
+   "to": 558
+  },
+  {
+   "id": "food-08",
+   "title": "Food Safety: Critical Temperatures, Thawing & Cooking Standards",
+   "from": 559,
+   "to": 565
+  },
+  {
+   "id": "food-09",
+   "title": "Food Safety: Advanced Conceptual & Tricky Scenarios",
+   "from": 566,
+   "to": 575
+  },
+  {
+   "id": "food-10",
+   "title": "Food Safety: Quick-Fire Terminology & Comprehensive Drills",
+   "from": 576,
+   "to": 595
+  },
+  {
+   "id": "comm-01",
+   "title": "Communication: Communication Skills & Personality Development",
+   "from": 596,
+   "to": 621
+  },
+  {
+   "id": "comm-02",
+   "title": "Communication: Greeting, Grooming & Professional Appearance",
+   "from": 622,
+   "to": 640
+  },
+  {
+   "id": "comm-03",
+   "title": "Communication: Basic English for the Workplace",
+   "from": 641,
+   "to": 672
+  },
+  {
+   "id": "comm-04",
+   "title": "Communication: Everyday & Interpersonal Communication",
+   "from": 673,
+   "to": 694
+  },
+  {
+   "id": "comm-05",
+   "title": "Communication: Responsibility, Ethics & Leadership",
+   "from": 695,
+   "to": 725
+  }
+ ],
+ "questions": [
+  {
+   "id": 476,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "Food poisoning symptoms usually develop within what time frame after consuming contaminated or poisonous food?",
+   "options": [
+    {
+     "label": "A",
+     "text": "10 to 15 minutes"
+    },
+    {
+     "label": "B",
+     "text": "1 to 36 hours"
+    },
+    {
+     "label": "C",
+     "text": "3 to 7 days"
+    },
+    {
+     "label": "D",
+     "text": "2 to 4 weeks"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 1,
+   "sourcePage": 3
+  },
+  {
+   "id": 477,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "How long do typical food poisoning symptoms normally last?",
+   "options": [
+    {
+     "label": "A",
+     "text": "2 to 4 hours"
+    },
+    {
+     "label": "B",
+     "text": "12 to 24 hours"
+    },
+    {
+     "label": "C",
+     "text": "1 to 7 days"
+    },
+    {
+     "label": "D",
+     "text": "Several months"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 2,
+   "sourcePage": 3
+  },
+  {
+   "id": 478,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "Which of the following is NOT a typical clinical symptom of food poisoning?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Abdominal pain and diarrhoea"
+    },
+    {
+     "label": "B",
+     "text": "Nausea and vomiting"
+    },
+    {
+     "label": "C",
+     "text": "Fever, dehydration, and collapse"
+    },
+    {
+     "label": "D",
+     "text": "Sudden hair loss and tooth decay"
+    }
+   ],
+   "correctOption": "D",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 3,
+   "sourcePage": 3
+  },
+  {
+   "id": 479,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "Which demographic group is classified as being at the highest risk of severe illness or death from food poisoning?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Healthy adult office workers"
+    },
+    {
+     "label": "B",
+     "text": "Teenagers and young athletes"
+    },
+    {
+     "label": "C",
+     "text": "The very young, the elderly, recovering or ill individuals, and pregnant women and their unborn babies"
+    },
+    {
+     "label": "D",
+     "text": "Commercial kitchen food handlers"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 4,
+   "sourcePage": 3
+  },
+  {
+   "id": 480,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "What are the primary underlying reasons why food poisoning outbreaks occur in commercial food businesses?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Excessive use of commercial refrigeration"
+    },
+    {
+     "label": "B",
+     "text": "Negligence, ignorance, poor management, and failure to implement good hygiene practices"
+    },
+    {
+     "label": "C",
+     "text": "Overcooking meats and vegetables"
+    },
+    {
+     "label": "D",
+     "text": "Using colour-coded chopping boards"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 5,
+   "sourcePage": 3
+  },
+  {
+   "id": 481,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "Which of the following is listed as one of the ten main faults contributing to food poisoning outbreaks?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Storing raw meats strictly below ready-to-eat foods"
+    },
+    {
+     "label": "B",
+     "text": "Reheating stews to a core temperature above 82°C"
+    },
+    {
+     "label": "C",
+     "text": "Cooling hot food too slowly prior to refrigeration"
+    },
+    {
+     "label": "D",
+     "text": "Washing hands in warm running water with liquid soap"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 6,
+   "sourcePage": 3
+  },
+  {
+   "id": 482,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "Storing hot food below what critical threshold temperature is a major fault that promotes bacterial multiplication?",
+   "options": [
+    {
+     "label": "A",
+     "text": "100°C"
+    },
+    {
+     "label": "B",
+     "text": "75°C"
+    },
+    {
+     "label": "C",
+     "text": "60°C"
+    },
+    {
+     "label": "D",
+     "text": "37°C"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 7,
+   "sourcePage": 3
+  },
+  {
+   "id": 483,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "Why is the consumption of raw or undercooked eggs (e.g., in homemade mayonnaise or mousses) considered a major food poisoning hazard?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Raw eggs contain high levels of toxic acids"
+    },
+    {
+     "label": "B",
+     "text": "Raw eggs may harbour pathogenic bacteria (such as Salmonella) that are only destroyed by thorough cooking"
+    },
+    {
+     "label": "C",
+     "text": "Raw eggs cause metallic food poisoning"
+    },
+    {
+     "label": "D",
+     "text": "Raw eggs absorb chemicals from packaging"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 8,
+   "sourcePage": 4
+  },
+  {
+   "id": 484,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "What is the formal definition of a food safety hazard?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The visible spoilage of dry, packaged foods"
+    },
+    {
+     "label": "B",
+     "text": "The potential to cause harm to the consumer"
+    },
+    {
+     "label": "C",
+     "text": "An unexpected financial loss for a catering company"
+    },
+    {
+     "label": "D",
+     "text": "An unannounced inspection by health authorities"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 9,
+   "sourcePage": 4
+  },
+  {
+   "id": 485,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "Which of the following is a direct financial and business cost of poor food hygiene?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Increased shelf life of stock"
+    },
+    {
+     "label": "B",
+     "text": "High staff morale and productivity"
+    },
+    {
+     "label": "C",
+     "text": "Product recalls, brand damage, legal fines, and premises closure"
+    },
+    {
+     "label": "D",
+     "text": "Compliance with national food safety legislation"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 10,
+   "sourcePage": 4
+  },
+  {
+   "id": 486,
+   "chapterId": "food-01",
+   "subtopic": "Introduction to Food Safety, Symptoms & Faults",
+   "question": "Food hygiene involves all of the following practices EXCEPT:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Obtaining food ingredients from approved, reputable suppliers"
+    },
+    {
+     "label": "B",
+     "text": "Destroying harmful bacteria by thorough cooking or heat processing"
+    },
+    {
+     "label": "C",
+     "text": "Preventing existing bacteria from multiplying to dangerous levels"
+    },
+    {
+     "label": "D",
+     "text": "Masking the sour odour of spoiled raw meat with spices before cooking  GROWTH & SPORES (pp. 6–9)"
+    }
+   ],
+   "correctOption": "D",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 11,
+   "sourcePage": 4
+  },
+  {
+   "id": 487,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "What is the fundamental difference between spoilage bacteria and pathogenic bacteria (pathogens)?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Spoilage bacteria cause death, whereas pathogens only make food look green"
+    },
+    {
+     "label": "B",
+     "text": "Spoilage bacteria multiply at 0°C, while pathogens only survive above 100°C"
+    },
+    {
+     "label": "C",
+     "text": "Spoilage bacteria cause detectable changes (odour, slime, discolouration), whereas pathogens cause illness without altering the look, smell, or taste of food"
+    },
+    {
+     "label": "D",
+     "text": "Spoilage bacteria can only be detected by laboratory examination"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 12,
+   "sourcePage": 5
+  },
+  {
+   "id": 488,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "Why is it impossible to rely on human senses (sight, smell, taste) to identify food contaminated with pathogens?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Pathogens only grow on dry foods"
+    },
+    {
+     "label": "B",
+     "text": "Pathogens have no observable effect on the appearance, texture, aroma, or flavour of food"
+    },
+    {
+     "label": "C",
+     "text": "Pathogens evaporate into the air when food is sniffed"
+    },
+    {
+     "label": "D",
+     "text": "Pathogens always turn food bright blue"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 13,
+   "sourcePage": 5
+  },
+  {
+   "id": 489,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "What are bacterial toxins?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Chemical pesticides applied to agricultural crops"
+    },
+    {
+     "label": "B",
+     "text": "Poisonous substances produced by bacteria, either in the food or inside the human body"
+    },
+    {
+     "label": "C",
+     "text": "Cleaning detergents left on stainless steel tables"
+    },
+    {
+     "label": "D",
+     "text": "Microscopic parasites that live inside fish muscle"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 14,
+   "sourcePage": 5
+  },
+  {
+   "id": 490,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "Which statement about bacterial toxins is scientifically accurate?",
+   "options": [
+    {
+     "label": "A",
+     "text": "All toxins are instantly destroyed by freezing food for 2 hours"
+    },
+    {
+     "label": "B",
+     "text": "Toxins are only formed when food is stored below 0°C"
+    },
+    {
+     "label": "C",
+     "text": "Some bacterial toxins are heat-resistant and cannot be destroyed by normal cooking temperatures"
+    },
+    {
+     "label": "D",
+     "text": "Toxins can be filtered out of food using cheesecloth"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 15,
+   "sourcePage": 5
+  },
+  {
+   "id": 491,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "What are the four essential conditions bacteria require to multiply and produce toxins?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Light, nitrogen, acid, vibration"
+    },
+    {
+     "label": "B",
+     "text": "Warmth, food, moisture, and time"
+    },
+    {
+     "label": "C",
+     "text": "Cold, darkness, sugar, air"
+    },
+    {
+     "label": "D",
+     "text": "High salt, vinegar, dryness, heat"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 16,
+   "sourcePage": 5
+  },
+  {
+   "id": 492,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "At what temperature do most food poisoning bacteria multiply most rapidly?",
+   "options": [
+    {
+     "label": "A",
+     "text": "5°C"
+    },
+    {
+     "label": "B",
+     "text": "20°C"
+    },
+    {
+     "label": "C",
+     "text": "37°C (human body temperature)"
+    },
+    {
+     "label": "D",
+     "text": "63°C"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 17,
+   "sourcePage": 5
+  },
+  {
+   "id": 493,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "What is the exact temperature range of the Temperature Danger Zone where food poisoning bacteria multiply rapidly?",
+   "options": [
+    {
+     "label": "A",
+     "text": "0°C to 100°C"
+    },
+    {
+     "label": "B",
+     "text": "5°C to 60°C"
+    },
+    {
+     "label": "C",
+     "text": "-18°C to 4°C"
+    },
+    {
+     "label": "D",
+     "text": "60°C to 75°C"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 18,
+   "sourcePage": 5
+  },
+  {
+   "id": 494,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "What occurs to bacterial cells when high-risk food is placed in a domestic freezer at -18°C?",
+   "options": [
+    {
+     "label": "A",
+     "text": "All vegetative bacteria and spores are instantly killed"
+    },
+    {
+     "label": "B",
+     "text": "Bacteria multiply slowly at the core"
+    },
+    {
+     "label": "C",
+     "text": "Bacterial multiplication ceases completely, but many bacteria survive and will multiply once thawed"
+    },
+    {
+     "label": "D",
+     "text": "Toxins are neutralized by cold crystal formation"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 19,
+   "sourcePage": 6
+  },
+  {
+   "id": 495,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "What is a bacterial spore?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A reproductive seed that produces millions of new bacteria per minute"
+    },
+    {
+     "label": "B",
+     "text": "A highly resistant, dormant resting phase that protects the bacterium against heat, drying, and disinfectants"
+    },
+    {
+     "label": "C",
+     "text": "A poisonous gas released by spoiled shellfish"
+    },
+    {
+     "label": "D",
+     "text": "A harmless mould that grows on dry bread"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 20,
+   "sourcePage": 6
+  },
+  {
+   "id": 496,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "What occurs during the process known as spore germination?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The spore dies due to lack of moisture"
+    },
+    {
+     "label": "B",
+     "text": "Favourable conditions return, prompting the spore to release an active bacterial cell that begins growing and multiplying"
+    },
+    {
+     "label": "C",
+     "text": "The spore multiplies into four separate spores"
+    },
+    {
+     "label": "D",
+     "text": "The spore permanently crystallizes inside the food"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 21,
+   "sourcePage": 6
+  },
+  {
+   "id": 497,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "Which statement highlights the danger of bacterial spores during cooking?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Spores are destroyed within 10 seconds of reaching 50°C"
+    },
+    {
+     "label": "B",
+     "text": "Some bacterial spores can survive continuous boiling for up to 5 hours"
+    },
+    {
+     "label": "C",
+     "text": "Spores can only germinate inside refrigerated food below 1°C"
+    },
+    {
+     "label": "D",
+     "text": "Spores are easily killed by wiping surfaces with dry paper towels"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 22,
+   "sourcePage": 6
+  },
+  {
+   "id": 498,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "Under ideal conditions of warmth, moisture, and food, bacteria reproduce through binary fission by dividing into two every:",
+   "options": [
+    {
+     "label": "A",
+     "text": "24 hours"
+    },
+    {
+     "label": "B",
+     "text": "2 to 3 hours"
+    },
+    {
+     "label": "C",
+     "text": "10 to 20 minutes"
+    },
+    {
+     "label": "D",
+     "text": "5 seconds"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 23,
+   "sourcePage": 6
+  },
+  {
+   "id": 499,
+   "chapterId": "food-02",
+   "subtopic": "Microbiological Hazards, Bacterial Growth & Spores",
+   "question": "If an initial load of 1,000 bacteria is left in the Danger Zone under ideal conditions, approximately how many bacteria can be present after just 1 hour and 40 minutes?",
+   "options": [
+    {
+     "label": "A",
+     "text": "2,000"
+    },
+    {
+     "label": "B",
+     "text": "10,000"
+    },
+    {
+     "label": "C",
+     "text": "50,000"
+    },
+    {
+     "label": "D",
+     "text": "Over 1,000,000 (one million)  (pp. 7–10)"
+    }
+   ],
+   "correctOption": "D",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 24,
+   "sourcePage": 6
+  },
+  {
+   "id": 500,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "What is the defining characteristic of a high-risk food?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It contains high levels of vinegar and salt"
+    },
+    {
+     "label": "B",
+     "text": "It is a ready-to-eat, moist, protein-rich food that supports the multiplication of harmful bacteria without further cooking"
+    },
+    {
+     "label": "C",
+     "text": "It is a raw meat product intended for long cooking"
+    },
+    {
+     "label": "D",
+     "text": "It is an unopened canned product with a long shelf life"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 25,
+   "sourcePage": 7
+  },
+  {
+   "id": 501,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "Which of the following foods is classified as high-risk?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Uncooked dry rice"
+    },
+    {
+     "label": "B",
+     "text": "Fruit jam with high sugar content"
+    },
+    {
+     "label": "C",
+     "text": "Cooked poultry, soft cheeses, meat pies, and cooked rice"
+    },
+    {
+     "label": "D",
+     "text": "Dry biscuits and salted crackers"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 26,
+   "sourcePage": 7
+  },
+  {
+   "id": 502,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "Why is cooked rice classified as a high-risk food?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It contains natural cyanide"
+    },
+    {
+     "label": "B",
+     "text": "It provides moisture and nutrients, and can harbour heat-resistant spores of Bacillus cereus that germinate if cooled slowly"
+    },
+    {
+     "label": "C",
+     "text": "It reacts chemically with stainless steel pots"
+    },
+    {
+     "label": "D",
+     "text": "It has a high acid content"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 27,
+   "sourcePage": 7
+  },
+  {
+   "id": 503,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "What prevents bacteria from multiplying in low-risk foods such as dried pasta, jam, salted crisps, and vinegar pickles?",
+   "options": [
+    {
+     "label": "A",
+     "text": "High moisture levels"
+    },
+    {
+     "label": "B",
+     "text": "Low water activity (dryness), high concentrations of sugar or salt, or high acidity (low pH)"
+    },
+    {
+     "label": "C",
+     "text": "Freezing temperatures inside the packaging"
+    },
+    {
+     "label": "D",
+     "text": "The presence of synthetic food colourings"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 28,
+   "sourcePage": 7
+  },
+  {
+   "id": 504,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "What happens when clean water is added to a low-risk food, such as dried milk powder or powdered instant soup?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It becomes sterile"
+    },
+    {
+     "label": "B",
+     "text": "It remains low-risk indefinitely"
+    },
+    {
+     "label": "C",
+     "text": "It becomes a high-risk food and must be refrigerated or consumed immediately"
+    },
+    {
+     "label": "D",
+     "text": "It can be safely stored at room temperature for several weeks"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 29,
+   "sourcePage": 7
+  },
+  {
+   "id": 505,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "Why must ready-to-eat raw salad vegetables (such as lettuce, beansprouts, spinach, and tomatoes) be washed thoroughly in clean running water before service?",
+   "options": [
+    {
+     "label": "A",
+     "text": "To remove natural sugars"
+    },
+    {
+     "label": "B",
+     "text": "They may carry pathogenic bacteria, parasites, or viruses from soil, manure, or irrigation water, and will not undergo cooking"
+    },
+    {
+     "label": "C",
+     "text": "To prevent them from fermenting into alcohol"
+    },
+    {
+     "label": "D",
+     "text": "To soften their cell walls for easier slicing"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 30,
+   "sourcePage": 7
+  },
+  {
+   "id": 506,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "When does food spoilage commence?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Only after food passes its expiry date by 10 days"
+    },
+    {
+     "label": "B",
+     "text": "As soon as food is harvested, gathered, taken from the sea, or slaughtered"
+    },
+    {
+     "label": "C",
+     "text": "Only when flies land directly on the food"
+    },
+    {
+     "label": "D",
+     "text": "When food is frozen below -18°C"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 31,
+   "sourcePage": 7
+  },
+  {
+   "id": 507,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "Which of the following is an observable sign of food spoilage?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Pure transparent ice crystals"
+    },
+    {
+     "label": "B",
+     "text": "Off-odours, surface slime or stickiness, discolouration, mould growth, and gas production (bulging cans)"
+    },
+    {
+     "label": "C",
+     "text": "An internal temperature of 75°C"
+    },
+    {
+     "label": "D",
+     "text": "Clean, dry outer packaging"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 32,
+   "sourcePage": 8
+  },
+  {
+   "id": 508,
+   "chapterId": "food-03",
+   "subtopic": "Food Classifications & Food Spoilage",
+   "question": "What action must be taken with a canned food product displaying blown or bulging ends?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Boil the can for 10 minutes and serve"
+    },
+    {
+     "label": "B",
+     "text": "Place the can in the freezer to reduce the gas"
+    },
+    {
+     "label": "C",
+     "text": "Condemn and dispose of the can immediately (indicates microbial gas production or spoilage)"
+    },
+    {
+     "label": "D",
+     "text": "Pierce the can to release gas and use within 24 hours DISEASES (pp. 11–12)"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 33,
+   "sourcePage": 8
+  },
+  {
+   "id": 509,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "Which type of food poisoning organism cannot multiply inside food or water, but instead uses food solely as a vehicle to enter living human host cells?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Spoilage bacteria"
+    },
+    {
+     "label": "B",
+     "text": "Foodborne viruses (e.g., norovirus)"
+    },
+    {
+     "label": "C",
+     "text": "Yeasts"
+    },
+    {
+     "label": "D",
+     "text": "Bacterial spores"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 34,
+   "sourcePage": 9
+  },
+  {
+   "id": 510,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "What are mycotoxins?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Chemicals sprayed on fruit trees"
+    },
+    {
+     "label": "B",
+     "text": "Toxic chemical substances produced by certain moulds growing on foods such as nuts, figs, and cereals"
+    },
+    {
+     "label": "C",
+     "text": "Metals leached from copper pipes"
+    },
+    {
+     "label": "D",
+     "text": "Enzymes found in fish intestines"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 35,
+   "sourcePage": 9
+  },
+  {
+   "id": 511,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "What is the primary cause of chemical food poisoning in commercial kitchens?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Over-seasoning dishes with table salt"
+    },
+    {
+     "label": "B",
+     "text": "Storing cleaning chemicals in unlabelled food containers, or accidental contamination from spraying chemicals near open food"
+    },
+    {
+     "label": "C",
+     "text": "Using clean stainless steel cookware"
+    },
+    {
+     "label": "D",
+     "text": "Storing food in food-grade plastic containers"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 36,
+   "sourcePage": 9
+  },
+  {
+   "id": 512,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "Which of the following is a recognized source of poisonous biological toxins?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Well-done beef steaks"
+    },
+    {
+     "label": "B",
+     "text": "Japanese puffer fish (fugu), toadstools, and raw or undercooked red kidney beans"
+    },
+    {
+     "label": "C",
+     "text": "Pasteurized whole milk"
+    },
+    {
+     "label": "D",
+     "text": "Canned baked beans"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 37,
+   "sourcePage": 9
+  },
+  {
+   "id": 513,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "How does metallic food poisoning typically occur?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Storing dry rice in clean stainless steel bins"
+    },
+    {
+     "label": "B",
+     "text": "Storing acidic foods (e.g., fruit juices, tomato sauce) in contact with reactive metals such as copper, zinc, or cadmium"
+    },
+    {
+     "label": "C",
+     "text": "Using blue metal-detectable plasters on minor cuts"
+    },
+    {
+     "label": "D",
+     "text": "Using cast iron pans for searing steaks"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 38,
+   "sourcePage": 9
+  },
+  {
+   "id": 514,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "Metallic food poisoning is clinically characterized by severe vomiting and abdominal pain that begins within:",
+   "options": [
+    {
+     "label": "A",
+     "text": "24 to 48 hours"
+    },
+    {
+     "label": "B",
+     "text": "Less than 1 hour"
+    },
+    {
+     "label": "C",
+     "text": "5 to 7 days"
+    },
+    {
+     "label": "D",
+     "text": "2 weeks"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 39,
+   "sourcePage": 9
+  },
+  {
+   "id": 515,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "What is the fundamental difference between food poisoning and foodborne infections or diseases?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Food poisoning requires hospital treatment, whereas foodborne disease does not"
+    },
+    {
+     "label": "B",
+     "text": "Food poisoning usually requires large numbers of bacteria multiplying in food, whereas foodborne disease requires only a very small number of organisms (low infectious dose) using food purely as a vehicle"
+    },
+    {
+     "label": "C",
+     "text": "Foodborne disease is caused exclusively by heavy metals"
+    },
+    {
+     "label": "D",
+     "text": "Food poisoning cannot be transmitted from person to person"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 40,
+   "sourcePage": 9
+  },
+  {
+   "id": 516,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "What is the faecal-oral route of disease transmission?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Inhaling dust particles during flour sifting"
+    },
+    {
+     "label": "B",
+     "text": "Pathogenic organisms excreted in faeces are transferred via contaminated hands, water, sewage, or pests onto food, which is then eaten"
+    },
+    {
+     "label": "C",
+     "text": "Swallowing chemical fumes in dishwashing areas"
+    },
+    {
+     "label": "D",
+     "text": "Touching raw meat with clean, sanitized tongs"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 41,
+   "sourcePage": 10
+  },
+  {
+   "id": 517,
+   "chapterId": "food-04",
+   "subtopic": "Food Poisoning Causes & Foodborne Diseases",
+   "question": "What are the two major hazards that management and food handlers must control to prevent food poisoning outbreaks?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The cost of raw ingredients and the speed of service"
+    },
+    {
+     "label": "B",
+     "text": "(1) The contamination of ready-to-eat food, and (2) the multiplication of bacteria within food"
+    },
+    {
+     "label": "C",
+     "text": "The colour of kitchen walls and the choice of cooking oil"
+    },
+    {
+     "label": "D",
+     "text": "The brand of chef uniforms and the size of dining menus CROSS-CONTAMINATION (pp. 13–18) THE FOOD POISONING CHAIN: [Food Contaminated] ---> [Bacteria Multiply] ---> [Person Eats Contaminated Food]"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 42,
+   "sourcePage": 10
+  },
+  {
+   "id": 518,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "What are the three essential links in the Food Poisoning Chain?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Food purchased → food cooked → food frozen"
+    },
+    {
+     "label": "B",
+     "text": "Food becomes contaminated → bacteria multiply → susceptible person eats contaminated food"
+    },
+    {
+     "label": "C",
+     "text": "Food chopped → food weighed → food billed"
+    },
+    {
+     "label": "D",
+     "text": "Menu printed → order taken → dish cleared"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 43,
+   "sourcePage": 11
+  },
+  {
+   "id": 519,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "What is the primary human reservoir where food handlers commonly carry food poisoning bacteria (such as Staphylococcus aureus)?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Ear lobes and fingernail polish"
+    },
+    {
+     "label": "B",
+     "text": "Nose, mouth, intestines, skin, infected cuts, and boils"
+    },
+    {
+     "label": "C",
+     "text": "Soles of non-slip shoes"
+    },
+    {
+     "label": "D",
+     "text": "Clean chef jackets"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 44,
+   "sourcePage": 11
+  },
+  {
+   "id": 520,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "Why are houseflies dangerous vectors of microbiological contamination?",
+   "options": [
+    {
+     "label": "A",
+     "text": "They inject venom into raw vegetables"
+    },
+    {
+     "label": "B",
+     "text": "They feed on animal faeces, carry millions of bacteria on their hairy bodies and legs, and vomit or defecate onto food during feeding"
+    },
+    {
+     "label": "C",
+     "text": "They lay eggs exclusively in dry salt containers"
+    },
+    {
+     "label": "D",
+     "text": "They produce chemical weedkillers"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 45,
+   "sourcePage": 11
+  },
+  {
+   "id": 521,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "How do rodents (rats and mice) contaminate open food and food-contact surfaces?",
+   "options": [
+    {
+     "label": "A",
+     "text": "By leaving clean fur markings on dry cans"
+    },
+    {
+     "label": "B",
+     "text": "Through their droppings, urine, hairs, gnawing, and feet carrying pathogens from sewers"
+    },
+    {
+     "label": "C",
+     "text": "By dropping water from their tails"
+    },
+    {
+     "label": "D",
+     "text": "By creating static electricity on shelves"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 46,
+   "sourcePage": 11
+  },
+  {
+   "id": 522,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "What is the difference between a source and a vehicle of bacterial contamination?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A source is a vehicle with wheels; a vehicle is stationary"
+    },
+    {
+     "label": "B",
+     "text": "A source is the origin where bacteria naturally live (e.g., raw meat, intestines, pests); a vehicle is the intermediate object or surface that transfers bacteria to food (e.g., hands, cloths, knives)"
+    },
+    {
+     "label": "C",
+     "text": "A source is always chemical; a vehicle is always biological"
+    },
+    {
+     "label": "D",
+     "text": "There is no difference; they are exact synonyms"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 47,
+   "sourcePage": 11
+  },
+  {
+   "id": 523,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "Which of the following is considered the most common vehicle for transferring pathogens in catering environments?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Ceiling light fixtures"
+    },
+    {
+     "label": "B",
+     "text": "Unwashed hands of food handlers"
+    },
+    {
+     "label": "C",
+     "text": "Stainless steel storage racks"
+    },
+    {
+     "label": "D",
+     "text": "Clean disposable foil wraps"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 48,
+   "sourcePage": 11
+  },
+  {
+   "id": 524,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "What are the four primary vehicles of bacterial cross-contamination?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Shoes, hats, floors, drains"
+    },
+    {
+     "label": "B",
+     "text": "Hands, cloths and equipment, hand-contact surfaces, and food-contact surfaces"
+    },
+    {
+     "label": "C",
+     "text": "Spoons, forks, salt shakers, napkins"
+    },
+    {
+     "label": "D",
+     "text": "Refrigerators, freezers, ovens, microwaves"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 49,
+   "sourcePage": 12
+  },
+  {
+   "id": 525,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "Raw beef is placed on a platter directly touching sliced cooked ham. This is an example of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Indirect cross-contamination"
+    },
+    {
+     "label": "B",
+     "text": "Direct cross-contamination"
+    },
+    {
+     "label": "C",
+     "text": "Drip cross-contamination"
+    },
+    {
+     "label": "D",
+     "text": "Chemical contamination"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 50,
+   "sourcePage": 12
+  },
+  {
+   "id": 526,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "Blood and liquid from unthawed frozen raw chicken on an upper fridge shelf drips onto an uncovered bowl of cooked pasta on the shelf below. This is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Direct cross-contamination"
+    },
+    {
+     "label": "B",
+     "text": "Drip cross-contamination"
+    },
+    {
+     "label": "C",
+     "text": "Physical contamination"
+    },
+    {
+     "label": "D",
+     "text": "Spore germination"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 51,
+   "sourcePage": 12
+  },
+  {
+   "id": 527,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "A chef cuts raw chicken on a red chopping board, then uses the same unwashed knife and board to slice cooked roast beef. This is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Direct cross-contamination"
+    },
+    {
+     "label": "B",
+     "text": "Indirect cross-contamination"
+    },
+    {
+     "label": "C",
+     "text": "Allergenic reaction"
+    },
+    {
+     "label": "D",
+     "text": "Biological preservation"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 52,
+   "sourcePage": 12
+  },
+  {
+   "id": 528,
+   "chapterId": "food-05",
+   "subtopic": "Contamination, Vehicles & Cross-Contamination",
+   "question": "What is the mandatory storage arrangement for raw meat and ready-to-eat (RTE) foods in a commercial refrigerator?",
+   "options": [
+    {
+     "label": "A",
+     "text": "RTE foods must be stored at the bottom; raw meats on the top shelf"
+    },
+    {
+     "label": "B",
+     "text": "RTE foods must be stored at the top; raw meats and poultry must be stored at the bottom in covered containers"
+    },
+    {
+     "label": "C",
+     "text": "Raw meats and RTE foods should be mixed together on all shelves"
+    },
+    {
+     "label": "D",
+     "text": "Raw poultry should be stored uncovered on the middle shelf HAZARDS (pp. 18–20)"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 53,
+   "sourcePage": 12
+  },
+  {
+   "id": 529,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "What are common health consequences of physical contamination in food?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Severe allergic rash and drop in blood pressure"
+    },
+    {
+     "label": "B",
+     "text": "Cuts in the mouth or throat, broken teeth, choking, and puncture wounds in the digestive tract"
+    },
+    {
+     "label": "C",
+     "text": "Bacterial multiplication and spore formation"
+    },
+    {
+     "label": "D",
+     "text": "High fever and chemical intoxication"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 54,
+   "sourcePage": 13
+  },
+  {
+   "id": 530,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "What is identified as the most common physical contaminant introduced by food handlers?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Metal screws"
+    },
+    {
+     "label": "B",
+     "text": "Glass shards"
+    },
+    {
+     "label": "C",
+     "text": "Human hair"
+    },
+    {
+     "label": "D",
+     "text": "Broken toothpicks"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 55,
+   "sourcePage": 13
+  },
+  {
+   "id": 531,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "Why are wooden chopping boards, soft wooden utensils, and wooden pallets restricted or banned in high-care food preparation areas?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wood is too expensive to replace"
+    },
+    {
+     "label": "B",
+     "text": "Wood absorbs moisture, harbours bacteria in cracks, and sheds splinters (a physical hazard) into food"
+    },
+    {
+     "label": "C",
+     "text": "Wood causes metallic poisoning"
+    },
+    {
+     "label": "D",
+     "text": "Wood reacts chemically with cooking oils"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 56,
+   "sourcePage": 13
+  },
+  {
+   "id": 532,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "Why are drawing pins, paper notices, and staples strictly prohibited on notice boards located inside food preparation rooms?",
+   "options": [
+    {
+     "label": "A",
+     "text": "They absorb moisture from cooking steam"
+    },
+    {
+     "label": "B",
+     "text": "They can fall into open food containers, presenting severe physical and choking hazards"
+    },
+    {
+     "label": "C",
+     "text": "They attract flying insects"
+    },
+    {
+     "label": "D",
+     "text": "They emit chemical vapours"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 57,
+   "sourcePage": 13
+  },
+  {
+   "id": 533,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "How must cleaning chemicals and pesticides be stored in a food business?",
+   "options": [
+    {
+     "label": "A",
+     "text": "On the top shelf directly above raw meat prep tables"
+    },
+    {
+     "label": "B",
+     "text": "Inside empty, unlabelled food containers in the dry store"
+    },
+    {
+     "label": "C",
+     "text": "In a dedicated, lockable storage area completely segregated from all food storage and preparation areas"
+    },
+    {
+     "label": "D",
+     "text": "In the walk-in refrigerator next to dairy products"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 58,
+   "sourcePage": 13
+  },
+  {
+   "id": 534,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "Why is it strictly forbidden to decant cleaning chemicals into empty beverage bottles or unlabelled containers?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It causes the chemical to lose its cleaning power"
+    },
+    {
+     "label": "B",
+     "text": "It creates a severe risk of someone mistaking the chemical for food or drink, leading to fatal chemical poisoning"
+    },
+    {
+     "label": "C",
+     "text": "It damages the plastic bottle"
+    },
+    {
+     "label": "D",
+     "text": "It violates recycling guidelines"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 59,
+   "sourcePage": 13
+  },
+  {
+   "id": 535,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "What is a food allergy?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A bacterial infection of the digestive tract"
+    },
+    {
+     "label": "B",
+     "text": "An immune system reaction to a specific substance (usually a protein) in food that can trigger severe, life-threatening symptoms"
+    },
+    {
+     "label": "C",
+     "text": "An intolerance to food temperature"
+    },
+    {
+     "label": "D",
+     "text": "A psychological dislike of certain food textures"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 60,
+   "sourcePage": 14
+  },
+  {
+   "id": 536,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "Which of the following is a symptom of severe, life-threatening anaphylactic shock?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Mild toothache and blurred vision"
+    },
+    {
+     "label": "B",
+     "text": "Swelling of the throat or mouth, difficulty breathing or swallowing, severe drop in blood pressure, hives, and collapse"
+    },
+    {
+     "label": "C",
+     "text": "Gradual hair thinning"
+    },
+    {
+     "label": "D",
+     "text": "High fever lasting 7 days"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 61,
+   "sourcePage": 14
+  },
+  {
+   "id": 537,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "Which group contains items from the major food allergens list?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Beef, lamb, chicken, turkey"
+    },
+    {
+     "label": "B",
+     "text": "Peanuts, tree nuts, sesame seeds, milk/lactose, eggs, fish, shellfish, soya, mustard, celery, and gluten-containing cereals"
+    },
+    {
+     "label": "C",
+     "text": "Salt, black pepper, white sugar, water"
+    },
+    {
+     "label": "D",
+     "text": "Olive oil, sunflower oil, vinegar"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 62,
+   "sourcePage": 14
+  },
+  {
+   "id": 538,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "What immediate action must staff take if a customer experiences an anaphylactic reaction?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Force the customer to walk around the dining room"
+    },
+    {
+     "label": "B",
+     "text": "Give the customer hot tea with milk"
+    },
+    {
+     "label": "C",
+     "text": "Do NOT move the customer, immediately call emergency services (ambulance), and assist them with their pre-loaded adrenaline auto-injector (EpiPen) if trained"
+    },
+    {
+     "label": "D",
+     "text": "Tell the customer to sit in their car and wait"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 63,
+   "sourcePage": 14
+  },
+  {
+   "id": 539,
+   "chapterId": "food-06",
+   "subtopic": "Physical, Chemical & Allergenic Hazards",
+   "question": "How can cross-contact of allergens be effectively controlled in a commercial kitchen?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wiping allergen boards with a damp, unwashed cloth"
+    },
+    {
+     "label": "B",
+     "text": "Using dedicated colour-coded equipment, thorough handwashing, separate preparation areas or fryers, and storing allergen ingredients in sealed, labelled containers"
+    },
+    {
+     "label": "C",
+     "text": "Cooking allergenic foods at 100°C to destroy the proteins"
+    },
+    {
+     "label": "D",
+     "text": "Serving allergen-containing dishes on paper plates ILLNESS REPORTING (pp. 21–25)"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 64,
+   "sourcePage": 14
+  },
+  {
+   "id": 540,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What is the preferred water delivery system for handwashing basins in commercial kitchens?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A single cold-water tap with manual twist handles"
+    },
+    {
+     "label": "B",
+     "text": "Non-hand-operated (knee, foot, or sensor-operated) warm water mixer spray"
+    },
+    {
+     "label": "C",
+     "text": "A bucket of standing warm water"
+    },
+    {
+     "label": "D",
+     "text": "Boiling water from a kettle"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 65,
+   "sourcePage": 15
+  },
+  {
+   "id": 541,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What is the recommended temperature range for warm running water used during handwashing?",
+   "options": [
+    {
+     "label": "A",
+     "text": "10°C to 15°C"
+    },
+    {
+     "label": "B",
+     "text": "30°C to 40°C"
+    },
+    {
+     "label": "C",
+     "text": "75°C to 85°C"
+    },
+    {
+     "label": "D",
+     "text": "100°C"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 66,
+   "sourcePage": 15
+  },
+  {
+   "id": 542,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What is the correct method for drying hands in a food preparation area?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wiping hands on a clean chef apron"
+    },
+    {
+     "label": "B",
+     "text": "Using a shared communal fabric roller towel"
+    },
+    {
+     "label": "C",
+     "text": "Using clean, single-use disposable paper towels (which can also be used to turn off manual taps)"
+    },
+    {
+     "label": "D",
+     "text": "Shaking hands dry in the air over food tables"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 67,
+   "sourcePage": 15
+  },
+  {
+   "id": 543,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "Which of the following is a critical time when hands must be washed immediately?",
+   "options": [
+    {
+     "label": "A",
+     "text": "After reading a recipe card"
+    },
+    {
+     "label": "B",
+     "text": "After visiting the toilet, after handling raw meat, poultry, or eggs, and before handling ready-to-eat food"
+    },
+    {
+     "label": "C",
+     "text": "After sharpening a pencil"
+    },
+    {
+     "label": "D",
+     "text": "Before clocking out at the end of the shift"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 68,
+   "sourcePage": 15
+  },
+  {
+   "id": 544,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "Why is washing food or equipment in dedicated handwash basins strictly prohibited?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It makes the basin look untidy"
+    },
+    {
+     "label": "B",
+     "text": "It leads to cross-contamination of handwash taps and transfers food residues or bacteria onto hands being washed"
+    },
+    {
+     "label": "C",
+     "text": "It wastes liquid hand soap"
+    },
+    {
+     "label": "D",
+     "text": "Handwash basins are made of weaker steel"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 69,
+   "sourcePage": 15
+  },
+  {
+   "id": 545,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What is the rule regarding fingernails for all food handlers?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Nails may be long if painted with clear polish"
+    },
+    {
+     "label": "B",
+     "text": "Nails must be kept short and clean; no nail varnish or false or acrylic fingernails are permitted"
+    },
+    {
+     "label": "C",
+     "text": "False nails are permitted if gloves are worn once a day"
+    },
+    {
+     "label": "D",
+     "text": "Nail polish is allowed in pastry sections"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 70,
+   "sourcePage": 15
+  },
+  {
+   "id": 546,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "Approximately what percentage of healthy adults carry food poisoning bacteria (Staphylococcus aureus) in their nose and mouth?",
+   "options": [
+    {
+     "label": "A",
+     "text": "2%"
+    },
+    {
+     "label": "B",
+     "text": "10%"
+    },
+    {
+     "label": "C",
+     "text": "Up to 40%"
+    },
+    {
+     "label": "D",
+     "text": "95%"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 71,
+   "sourcePage": 15
+  },
+  {
+   "id": 547,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "How must cuts, septic sores, boils, and open wounds on a food handler's hands be protected?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Left open to dry in the air"
+    },
+    {
+     "label": "B",
+     "text": "Covered with a flesh-coloured fabric bandage"
+    },
+    {
+     "label": "C",
+     "text": "Completely covered with a clean, waterproof dressing, preferably brightly coloured blue (and a waterproof fingerstall if on a finger)"
+    },
+    {
+     "label": "D",
+     "text": "Covered with clear plastic tape"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 72,
+   "sourcePage": 16
+  },
+  {
+   "id": 548,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "Why are blue waterproof plasters specifically used in the food industry?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Blue is a calming colour for kitchen staff"
+    },
+    {
+     "label": "B",
+     "text": "Blue is easily visible if it accidentally falls into food (few natural foods are blue) and often contains a metal strip detectable by metal detectors"
+    },
+    {
+     "label": "C",
+     "text": "Blue plasters contain antibiotics"
+    },
+    {
+     "label": "D",
+     "text": "Blue plasters are cheaper than white ones"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 73,
+   "sourcePage": 16
+  },
+  {
+   "id": 549,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What jewellery is permitted to be worn by food handlers in food preparation areas?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wristwatches and fitness trackers"
+    },
+    {
+     "label": "B",
+     "text": "Dangling earrings and jewelled rings"
+    },
+    {
+     "label": "C",
+     "text": "A plain wedding band only (no stones or intricate engravings)"
+    },
+    {
+     "label": "D",
+     "text": "Brooches and neck chains"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 74,
+   "sourcePage": 16
+  },
+  {
+   "id": 550,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "Why should food handlers avoid wearing strong-smelling perfumes, colognes, or aftershaves?",
+   "options": [
+    {
+     "label": "A",
+     "text": "They irritate the chef's eyes"
+    },
+    {
+     "label": "B",
+     "text": "They can taint the delicate flavour and aroma of open foods, especially high-fat items like butter and cream"
+    },
+    {
+     "label": "C",
+     "text": "They attract rodents"
+    },
+    {
+     "label": "D",
+     "text": "They dissolve plastic food wrap"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 75,
+   "sourcePage": 16
+  },
+  {
+   "id": 551,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What is the proper procedure for head coverings and hairnets?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Put on the hairnet after entering the kitchen and touching food"
+    },
+    {
+     "label": "B",
+     "text": "Tie back long hair and enclose it completely within a clean hairnet or hat BEFORE putting on protective outer clothing"
+    },
+    {
+     "label": "C",
+     "text": "Brush hair over the uniform in the food preparation area"
+    },
+    {
+     "label": "D",
+     "text": "Hairnets are only required for head chefs"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 76,
+   "sourcePage": 16
+  },
+  {
+   "id": 552,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "Why is smoking, vaping, or chewing tobacco prohibited in all food preparation and storage areas?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It reduces the efficiency of the kitchen ventilation fan"
+    },
+    {
+     "label": "B",
+     "text": "Fingers touch the mouth, transferring saliva and bacteria to food; ash and cigarette butts cause physical contamination; and smoke causes droplet coughing"
+    },
+    {
+     "label": "C",
+     "text": "It lowers the room temperature"
+    },
+    {
+     "label": "D",
+     "text": "Tobacco smoke turns cooked meat blue"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 77,
+   "sourcePage": 16
+  },
+  {
+   "id": 553,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What is the primary purpose of wearing clean protective clothing (chef whites, aprons, hats)?",
+   "options": [
+    {
+     "label": "A",
+     "text": "To keep the food handler's personal street clothes clean"
+    },
+    {
+     "label": "B",
+     "text": "To protect open food from microbiological and physical contaminants carried on the handler's personal clothes and body"
+    },
+    {
+     "label": "C",
+     "text": "To keep the kitchen warm in winter"
+    },
+    {
+     "label": "D",
+     "text": "To show the rank of the chef"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 78,
+   "sourcePage": 16
+  },
+  {
+   "id": 554,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "Which practice regarding protective clothing is UNACCEPTABLE?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wearing light-coloured garments without external pockets"
+    },
+    {
+     "label": "B",
+     "text": "Removing protective aprons before visiting the toilet"
+    },
+    {
+     "label": "C",
+     "text": "Wearing protective kitchen whites on public transport while travelling to and from work"
+    },
+    {
+     "label": "D",
+     "text": "Storing outdoor clothing in lockers away from food rooms"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 79,
+   "sourcePage": 16
+  },
+  {
+   "id": 555,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What is the mandatory rule regarding food handlers who suffer from diarrhoea, vomiting, or confirmed food poisoning?",
+   "options": [
+    {
+     "label": "A",
+     "text": "They can work as long as they wear rubber gloves and an apron"
+    },
+    {
+     "label": "B",
+     "text": "They must take pain relief and work only in the dishwashing area"
+    },
+    {
+     "label": "C",
+     "text": "They must report their symptoms to their supervisor immediately, be excluded from food handling, and not return until 48 hours symptom-free"
+    },
+    {
+     "label": "D",
+     "text": "They can return to work 12 hours after taking medication"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 80,
+   "sourcePage": 17
+  },
+  {
+   "id": 556,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "Under the 48-hour rule, when is an excluded food handler legally allowed to resume food preparation duties?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Exactly 24 hours after their last loose bowel movement"
+    },
+    {
+     "label": "B",
+     "text": "At least 48 hours after symptoms of diarrhoea and vomiting have completely stopped (and any prescribed medication has ceased)"
+    },
+    {
+     "label": "C",
+     "text": "As soon as their fever breaks"
+    },
+    {
+     "label": "D",
+     "text": "Whenever the kitchen becomes short-staffed"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 81,
+   "sourcePage": 17
+  },
+  {
+   "id": 557,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "What is a carrier in food safety epidemiology?",
+   "options": [
+    {
+     "label": "A",
+     "text": "A refrigerated delivery vehicle carrying dairy stock"
+    },
+    {
+     "label": "B",
+     "text": "An individual who harbours and excretes pathogenic organisms (e.g., Typhoid or Hepatitis) without showing any outward signs or symptoms of illness"
+    },
+    {
+     "label": "C",
+     "text": "A pest insect carrying dirt into a dry store"
+    },
+    {
+     "label": "D",
+     "text": "A waiter carrying trays to dining tables"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 82,
+   "sourcePage": 17
+  },
+  {
+   "id": 558,
+   "chapterId": "food-07",
+   "subtopic": "Personal Hygiene, Handwashing & Illness Reporting",
+   "question": "When should basic induction food hygiene training be delivered to new food handlers?",
+   "options": [
+    {
+     "label": "A",
+     "text": "After 6 months of continuous employment"
+    },
+    {
+     "label": "B",
+     "text": "Before they begin handling open food on their first day"
+    },
+    {
+     "label": "C",
+     "text": "Only after an outbreak occurs"
+    },
+    {
+     "label": "D",
+     "text": "During their annual performance review COOKING STANDARDS (pp. 14, 16, 21)"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 83,
+   "sourcePage": 17
+  },
+  {
+   "id": 559,
+   "chapterId": "food-08",
+   "subtopic": "Critical Temperatures, Thawing & Cooking Standards",
+   "question": "What is the minimum core temperature that should normally be achieved at the centre of high-risk food during thorough cooking to ensure safety?",
+   "options": [
+    {
+     "label": "A",
+     "text": "50°C"
+    },
+    {
+     "label": "B",
+     "text": "60°C"
+    },
+    {
+     "label": "C",
+     "text": "At least 75°C"
+    },
+    {
+     "label": "D",
+     "text": "120°C"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 84,
+   "sourcePage": 18
+  },
+  {
+   "id": 560,
+   "chapterId": "food-08",
+   "subtopic": "Critical Temperatures, Thawing & Cooking Standards",
+   "question": "What is the minimum safe holding temperature for hot food displayed on a service buffet?",
+   "options": [
+    {
+     "label": "A",
+     "text": "37°C"
+    },
+    {
+     "label": "B",
+     "text": "50°C"
+    },
+    {
+     "label": "C",
+     "text": "Above 60°C (typically 63°C in many standards)"
+    },
+    {
+     "label": "D",
+     "text": "100°C"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 85,
+   "sourcePage": 18
+  },
+  {
+   "id": 561,
+   "chapterId": "food-08",
+   "subtopic": "Critical Temperatures, Thawing & Cooking Standards",
+   "question": "What is the maximum safe operating temperature for a commercial food storage refrigerator?",
+   "options": [
+    {
+     "label": "A",
+     "text": "15°C"
+    },
+    {
+     "label": "B",
+     "text": "10°C"
+    },
+    {
+     "label": "C",
+     "text": "Below 5°C (0°C to 4°C ideally)"
+    },
+    {
+     "label": "D",
+     "text": "-18°C"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 86,
+   "sourcePage": 18
+  },
+  {
+   "id": 562,
+   "chapterId": "food-08",
+   "subtopic": "Critical Temperatures, Thawing & Cooking Standards",
+   "question": "Why is inadequate thawing of large frozen poultry (e.g., whole turkeys) a major cause of food poisoning?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The skin becomes too dry during roasting"
+    },
+    {
+     "label": "B",
+     "text": "The centre remains frozen or cold, so normal cooking time fails to reach the lethal 75°C core temperature, allowing bacteria to survive"
+    },
+    {
+     "label": "C",
+     "text": "The bones become soft and brittle"
+    },
+    {
+     "label": "D",
+     "text": "Ice inside the bird puts out the oven flame"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 87,
+   "sourcePage": 18
+  },
+  {
+   "id": 563,
+   "chapterId": "food-08",
+   "subtopic": "Critical Temperatures, Thawing & Cooking Standards",
+   "question": "Where should thawing of raw frozen meat and poultry take place?",
+   "options": [
+    {
+     "label": "A",
+     "text": "On a warm stainless steel preparation table in direct sunlight"
+    },
+    {
+     "label": "B",
+     "text": "In a sink filled with standing warm water"
+    },
+    {
+     "label": "C",
+     "text": "Inside a dedicated defrosting refrigerator (below 5°C) in a deep, covered drip tray on the lowest shelf"
+    },
+    {
+     "label": "D",
+     "text": "Next to the dining room service pass"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 88,
+   "sourcePage": 18
+  },
+  {
+   "id": 564,
+   "chapterId": "food-08",
+   "subtopic": "Critical Temperatures, Thawing & Cooking Standards",
+   "question": "When reheating previously cooked stews, gravies, or pies, what temperature must be achieved?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Lukewarm throughout (approx. 40°C)"
+    },
+    {
+     "label": "B",
+     "text": "50°C for 2 minutes"
+    },
+    {
+     "label": "C",
+     "text": "Piping hot throughout, reaching at least 75°C (stews approaching 100°C or simmering)"
+    },
+    {
+     "label": "D",
+     "text": "Reheating is forbidden under all circumstances"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 89,
+   "sourcePage": 18
+  },
+  {
+   "id": 565,
+   "chapterId": "food-08",
+   "subtopic": "Critical Temperatures, Thawing & Cooking Standards",
+   "question": "Hot food being cooled for refrigerated storage must be cooled as rapidly as possible to prevent:",
+   "options": [
+    {
+     "label": "A",
+     "text": "The food from losing its natural colour"
+    },
+    {
+     "label": "B",
+     "text": "Prolonged time in the Danger Zone (5°C to 60°C), which permits surviving spores to germinate and multiply"
+    },
+    {
+     "label": "C",
+     "text": "The refrigerator shelves from cracking"
+    },
+    {
+     "label": "D",
+     "text": "Ice forming on the surface of the food SCENARIO QUESTIONS"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 90,
+   "sourcePage": 18
+  },
+  {
+   "id": 566,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: A batch of beef stew is cooked to 85°C, left on a counter at 28°C for 7 hours, and then reheated to 75°C before serving. Customers become violently ill. What is the most likely scientific cause?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Metallic poisoning from the spoon"
+    },
+    {
+     "label": "B",
+     "text": "Bacteria multiplied and produced heat-stable toxins during the 7 hours at room temperature, which were not destroyed by reheating"
+    },
+    {
+     "label": "C",
+     "text": "Spoilage moulds formed on the surface"
+    },
+    {
+     "label": "D",
+     "text": "The stew developed a high acid content"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 91,
+   "sourcePage": 19
+  },
+  {
+   "id": 567,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: A food handler washes their hands thoroughly, dries them with a reusable cloth hanging by the sink, and prepares ready-to-eat sandwiches. Why is this a serious hazard?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Paper towels are cheaper than fabric"
+    },
+    {
+     "label": "B",
+     "text": "The communal reusable cloth harbours bacteria from previous users, re-contaminating clean hands immediately before food preparation"
+    },
+    {
+     "label": "C",
+     "text": "Fabric towels remove skin oils"
+    },
+    {
+     "label": "D",
+     "text": "Reusable cloths cause chemical burns"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 92,
+   "sourcePage": 19
+  },
+  {
+   "id": 568,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: An environmental health officer finds a food handler wearing a wristwatch, a diamond engagement ring, and a plain gold wedding band. Which items must be removed?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Only the plain gold band"
+    },
+    {
+     "label": "B",
+     "text": "The wristwatch and the diamond engagement ring (the plain band is acceptable)"
+    },
+    {
+     "label": "C",
+     "text": "None of them, as long as hands are washed"
+    },
+    {
+     "label": "D",
+     "text": "All items including the plain band must be welded shut"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 93,
+   "sourcePage": 19
+  },
+  {
+   "id": 569,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: A catering company prepares chicken mayonnaise sandwiches for a wedding. Which combination of ingredients represents the highest microbiological risk?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Commercial pasteurized bottled mayonnaise and thoroughly cooked, chilled chicken breast"
+    },
+    {
+     "label": "B",
+     "text": "Homemade mayonnaise made with unpasteurized raw eggs and warm, slow-cooled boiled chicken"
+    },
+    {
+     "label": "C",
+     "text": "Canned tuna and processed cheddar cheese slices"
+    },
+    {
+     "label": "D",
+     "text": "Baked bread rolls and salted butter"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 94,
+   "sourcePage": 19
+  },
+  {
+   "id": 570,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: A cook tastes soup from a simmering pot using a metal tasting spoon, licks the spoon clean, and puts it directly back into the pot to stir. What hazard has occurred?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Physical contamination from the spoon handle"
+    },
+    {
+     "label": "B",
+     "text": "Microbiological contamination, with oral bacteria (e.g., staphylococci) transferred via saliva directly into the food"
+    },
+    {
+     "label": "C",
+     "text": "Chemical contamination from saliva enzymes"
+    },
+    {
+     "label": "D",
+     "text": "Metallic food poisoning from the spoon"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 95,
+   "sourcePage": 19
+  },
+  {
+   "id": 571,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: Why is it hazardous to wash raw whole chicken carcasses in a food preparation sink before cooking?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It makes the chicken meat watery and tough"
+    },
+    {
+     "label": "B",
+     "text": "Water splashing from the raw chicken aerosolizes and spreads pathogens (Campylobacter or Salmonella) up to a metre across surrounding surfaces, cloths, and ready-to-eat foods"
+    },
+    {
+     "label": "C",
+     "text": "It removes the chicken's natural protective preservatives"
+    },
+    {
+     "label": "D",
+     "text": "Sinks absorb chicken proteins permanently"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 96,
+   "sourcePage": 19
+  },
+  {
+   "id": 572,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: A chef notices that frozen beef steaks have thawed slightly on the delivery truck because the refrigeration unit broke down. What is the correct corrective action?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Refreeze the steaks immediately in the deep freezer"
+    },
+    {
+     "label": "B",
+     "text": "Reject the delivery and return it to the supplier"
+    },
+    {
+     "label": "C",
+     "text": "Cook all the steaks to medium-rare immediately"
+    },
+    {
+     "label": "D",
+     "text": "Marinate the steaks in vinegar to kill bacteria"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 97,
+   "sourcePage": 20
+  },
+  {
+   "id": 573,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: A food handler has a minor weeping pimple on their forehead and a septic scratch on their thumb. What controls are required?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Take an aspirin and continue cooking"
+    },
+    {
+     "label": "B",
+     "text": "Wash hands, cover the thumb with a blue waterproof dressing and fingerstall, avoid touching the face, and report to the supervisor"
+    },
+    {
+     "label": "C",
+     "text": "Work only in the vegetable storage area without dressings"
+    },
+    {
+     "label": "D",
+     "text": "Squeeze the pimple over the kitchen sink before starting work"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 98,
+   "sourcePage": 20
+  },
+  {
+   "id": 574,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: A bag of raw potatoes covered in garden soil is brought into a commercial kitchen and placed on a stainless steel preparation table next to sliced cooked ham. What is the primary hazard?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The ham will absorb water from the potatoes"
+    },
+    {
+     "label": "B",
+     "text": "Soil harbours dangerous spore-forming bacteria (e.g., Clostridium) and physical grit that can contaminate the ready-to-eat ham"
+    },
+    {
+     "label": "C",
+     "text": "Potatoes emit ethylene gas that spoils cooked meats"
+    },
+    {
+     "label": "D",
+     "text": "Soil causes chemical pesticide poisoning instantly"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 99,
+   "sourcePage": 20
+  },
+  {
+   "id": 575,
+   "chapterId": "food-09",
+   "subtopic": "Advanced Conceptual & Tricky Scenarios",
+   "question": "Scenario: A bottle of concentrated sanitizing chemical is stored on a high shelf directly above an uncovered container of cooked rice. The bottle has a small leak. What type of hazard does this represent?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Biological hazard"
+    },
+    {
+     "label": "B",
+     "text": "Chemical hazard"
+    },
+    {
+     "label": "C",
+     "text": "Allergenic hazard"
+    },
+    {
+     "label": "D",
+     "text": "Physical hazard only COMPREHENSIVE DRILLS (pp. 3–25)"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 100,
+   "sourcePage": 20
+  },
+  {
+   "id": 576,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "The scientific term for microorganisms that cause illness is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Spoilage flora"
+    },
+    {
+     "label": "B",
+     "text": "Pathogens"
+    },
+    {
+     "label": "C",
+     "text": "Mycotoxins"
+    },
+    {
+     "label": "D",
+     "text": "Yeasts"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 101,
+   "sourcePage": 21
+  },
+  {
+   "id": 577,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "The process of heating milk to 72°C for 15 seconds to destroy pathogenic vegetative bacteria is known as:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Sterilisation"
+    },
+    {
+     "label": "B",
+     "text": "Canning"
+    },
+    {
+     "label": "C",
+     "text": "Pasteurisation"
+    },
+    {
+     "label": "D",
+     "text": "Irradiation"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 102,
+   "sourcePage": 21
+  },
+  {
+   "id": 578,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "Food poisoning bacteria reproduce by dividing into two. This asexual reproduction method is called:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Spore germination"
+    },
+    {
+     "label": "B",
+     "text": "Binary fission"
+    },
+    {
+     "label": "C",
+     "text": "Fermentation"
+    },
+    {
+     "label": "D",
+     "text": "Cross-contamination"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 103,
+   "sourcePage": 21
+  },
+  {
+   "id": 579,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "Which organism is an example of an intestinal parasite found in raw, undercooked meat or fish?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Norovirus"
+    },
+    {
+     "label": "B",
+     "text": "Staphylococcus aureus"
+    },
+    {
+     "label": "C",
+     "text": "Parasitic worms (e.g., tapeworms or Anisakis)"
+    },
+    {
+     "label": "D",
+     "text": "Mould spores"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 104,
+   "sourcePage": 21
+  },
+  {
+   "id": 580,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What type of food preservation uses high salt and nitrate concentrations to remove moisture and inhibit bacterial growth?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Canning"
+    },
+    {
+     "label": "B",
+     "text": "Curing or salting (e.g., bacon, salami)"
+    },
+    {
+     "label": "C",
+     "text": "Blanching"
+    },
+    {
+     "label": "D",
+     "text": "Pasteurisation"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 105,
+   "sourcePage": 21
+  },
+  {
+   "id": 581,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What is the minimum temperature for the core of cooked poultry to ensure safety?",
+   "options": [
+    {
+     "label": "A",
+     "text": "60°C"
+    },
+    {
+     "label": "B",
+     "text": "65°C"
+    },
+    {
+     "label": "C",
+     "text": "75°C"
+    },
+    {
+     "label": "D",
+     "text": "55°C"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 106,
+   "sourcePage": 21
+  },
+  {
+   "id": 582,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What is the main food safety risk of allowing domestic pets (cats or dogs) into food premises?",
+   "options": [
+    {
+     "label": "A",
+     "text": "They eat expensive food stock"
+    },
+    {
+     "label": "B",
+     "text": "They shed hairs, carry fleas or ticks, and harbour pathogens (such as Salmonella and Campylobacter) in their paws, coats, and saliva"
+    },
+    {
+     "label": "C",
+     "text": "They cause allergic reactions in kitchen stoves"
+    },
+    {
+     "label": "D",
+     "text": "They lower the room temperature"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 107,
+   "sourcePage": 21
+  },
+  {
+   "id": 583,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "Why are food handlers instructed NOT to use their apron to wipe their hands?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Aprons get stained and look unattractive"
+    },
+    {
+     "label": "B",
+     "text": "Aprons accumulate grease, raw juices, and dirt, acting as a major vehicle of cross-contamination back to clean hands"
+    },
+    {
+     "label": "C",
+     "text": "Aprons are made of fireproof material that damages skin"
+    },
+    {
+     "label": "D",
+     "text": "Aprons must remain dry for insulation"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 108,
+   "sourcePage": 21
+  },
+  {
+   "id": 584,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What is the primary hazard of serving raw oysters on the half-shell?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Physical cuts from the oyster shell"
+    },
+    {
+     "label": "B",
+     "text": "Oysters filter large volumes of seawater and can concentrate human sewage pathogens (e.g., norovirus, Vibrio) in their digestive tracts"
+    },
+    {
+     "label": "C",
+     "text": "Oysters contain high levels of copper"
+    },
+    {
+     "label": "D",
+     "text": "Oysters produce bacterial spores in their shells"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 109,
+   "sourcePage": 22
+  },
+  {
+   "id": 585,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "An employee who has consumed food known to have caused an outbreak in their household must:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Keep quiet and continue working if they feel fine"
+    },
+    {
+     "label": "B",
+     "text": "Report the situation immediately to their supervisor, as they may be an asymptomatic carrier"
+    },
+    {
+     "label": "C",
+     "text": "Take double doses of antibiotics while at work"
+    },
+    {
+     "label": "D",
+     "text": "Wash their hands once at the start of the day"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 110,
+   "sourcePage": 22
+  },
+  {
+   "id": 586,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "Which of the following is a common physical hazard derived from cleaning equipment?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Washing soda crystals"
+    },
+    {
+     "label": "B",
+     "text": "Loose bristles from scrubbing brushes and pieces of scouring pads"
+    },
+    {
+     "label": "C",
+     "text": "Chlorine fumes"
+    },
+    {
+     "label": "D",
+     "text": "Hot water vapour"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 111,
+   "sourcePage": 22
+  },
+  {
+   "id": 587,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "Why must raw vegetables be prepared in a separate area using dedicated green chopping boards?",
+   "options": [
+    {
+     "label": "A",
+     "text": "To make the vegetable salad taste sweeter"
+    },
+    {
+     "label": "B",
+     "text": "To prevent soil organisms and bacteria on raw produce from contaminating ready-to-eat cooked items"
+    },
+    {
+     "label": "C",
+     "text": "Green boards keep vegetables crisp"
+    },
+    {
+     "label": "D",
+     "text": "It is an aesthetic standard for restaurant inspectors"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 112,
+   "sourcePage": 22
+  },
+  {
+   "id": 588,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "Why is it unsafe to leave a large stockpot of boiling soup on the stove overnight to cool down naturally?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The soup will evaporate completely"
+    },
+    {
+     "label": "B",
+     "text": "The soup remains in the Temperature Danger Zone (5°C–60°C) for many hours, creating optimal conditions for rapid bacterial growth and toxin production"
+    },
+    {
+     "label": "C",
+     "text": "The metal pot will melt"
+    },
+    {
+     "label": "D",
+     "text": "The soup becomes too acidic"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 113,
+   "sourcePage": 22
+  },
+  {
+   "id": 589,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What is the purpose of an approved supplier policy?",
+   "options": [
+    {
+     "label": "A",
+     "text": "To ensure the business pays the lowest possible price"
+    },
+    {
+     "label": "B",
+     "text": "To guarantee that incoming raw materials originate from clean, inspected, and legally compliant sources that maintain high hygiene standards"
+    },
+    {
+     "label": "C",
+     "text": "To buy food exclusively from overseas markets"
+    },
+    {
+     "label": "D",
+     "text": "To avoid paying taxes on raw ingredients"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 114,
+   "sourcePage": 22
+  },
+  {
+   "id": 590,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "Which statement about bacterial multiplication is correct?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Bacteria multiply faster at 2°C than at 37°C"
+    },
+    {
+     "label": "B",
+     "text": "Bacteria require light to reproduce"
+    },
+    {
+     "label": "C",
+     "text": "One bacterium can multiply into millions within a few hours if warmth, moisture, food, and time are present"
+    },
+    {
+     "label": "D",
+     "text": "Bacteria can multiply inside hermetically sealed cans boiled for 3 hours"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 115,
+   "sourcePage": 22
+  },
+  {
+   "id": 591,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What is the maximum period that high-risk food should be kept at ambient room temperature during preparation?",
+   "options": [
+    {
+     "label": "A",
+     "text": "As long as the chef needs"
+    },
+    {
+     "label": "B",
+     "text": "24 hours"
+    },
+    {
+     "label": "C",
+     "text": "Kept to an absolute minimum (less than 20–30 minutes)"
+    },
+    {
+     "label": "D",
+     "text": "8 hours"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 116,
+   "sourcePage": 23
+  },
+  {
+   "id": 592,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What is the main food safety risk associated with uncovered rubbish bins in food rooms?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The bins take up too much floor space"
+    },
+    {
+     "label": "B",
+     "text": "They attract pests (flies, rodents), produce foul odours, and allow airborne bacteria to contaminate food preparation areas"
+    },
+    {
+     "label": "C",
+     "text": "Rubbish bins reduce kitchen lighting"
+    },
+    {
+     "label": "D",
+     "text": "They cause metallic food poisoning"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 117,
+   "sourcePage": 23
+  },
+  {
+   "id": 593,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What should a food handler do if they drop a clean knife on the kitchen floor?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wipe it on their trousers and continue chopping"
+    },
+    {
+     "label": "B",
+     "text": "Blow on the blade to remove dust"
+    },
+    {
+     "label": "C",
+     "text": "Send it to the wash-up area for cleaning and disinfection, and take a clean, sanitized knife"
+    },
+    {
+     "label": "D",
+     "text": "Rinse it quickly under cold running water without soap"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 118,
+   "sourcePage": 23
+  },
+  {
+   "id": 594,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What is the primary purpose of cleaning and disinfection?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cleaning kills all spores; disinfection removes grease"
+    },
+    {
+     "label": "B",
+     "text": "Cleaning removes visible dirt, food residues, and grease; disinfection reduces microorganisms to a safe, acceptable level"
+    },
+    {
+     "label": "C",
+     "text": "Cleaning is done once a year; disinfection is done weekly"
+    },
+    {
+     "label": "D",
+     "text": "Cleaning uses chemicals; disinfection uses only dry paper"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 119,
+   "sourcePage": 23
+  },
+  {
+   "id": 595,
+   "chapterId": "food-10",
+   "subtopic": "Quick-Fire Terminology & Comprehensive Drills",
+   "question": "What is the single most critical message of the Level 2 Food Safety Handbook?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Food poisoning is unavoidable in catering"
+    },
+    {
+     "label": "B",
+     "text": "Food hygiene is solely the responsibility of the environmental health officer"
+    },
+    {
+     "label": "C",
+     "text": "Food poisoning can be prevented by controlling hazards, preventing contamination, stopping bacterial multiplication, and maintaining high personal hygiene"
+    },
+    {
+     "label": "D",
+     "text": "Always use low-cost suppliers to maximize profits"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Highfield Food Safety Level 2 — Question Bank",
+   "sourceQuestionId": 120,
+   "sourcePage": 23
+  },
+  {
+   "id": 596,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Communication is defined as the process of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Speaking loudly and clearly to a large audience"
+    },
+    {
+     "label": "B",
+     "text": "Sharing information, thoughts, feelings, or instructions between two or more people so that the message is understood"
+    },
+    {
+     "label": "C",
+     "text": "Memorizing industry-specific vocabulary for written examinations"
+    },
+    {
+     "label": "D",
+     "text": "Using only non-verbal hand gestures in a workplace environment"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 1,
+   "sourcePage": 3
+  },
+  {
+   "id": 597,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "In the basic communication model, what is the correct chronological sequence of components?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Message → Sender → Receiver → Channel → Feedback"
+    },
+    {
+     "label": "B",
+     "text": "Sender → Message → Channel → Receiver → Feedback"
+    },
+    {
+     "label": "C",
+     "text": "Channel → Sender → Message → Feedback → Receiver"
+    },
+    {
+     "label": "D",
+     "text": "Sender → Receiver → Message → Feedback → Channel"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 2,
+   "sourcePage": 3
+  },
+  {
+   "id": 598,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "A head chef calls out \"Fire Table 5!\" to the line cooks, and the kitchen team immediately begins cooking. In this scenario, what represents the Channel?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The chef"
+    },
+    {
+     "label": "B",
+     "text": "\"Fire Table 5!\""
+    },
+    {
+     "label": "C",
+     "text": "The chef's spoken voice"
+    },
+    {
+     "label": "D",
+     "text": "The line cooks"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 3,
+   "sourcePage": 3
+  },
+  {
+   "id": 599,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "In the same scenario (\"Fire Table 5!\"), what constitutes the Feedback?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The printed order ticket on the kitchen counter"
+    },
+    {
+     "label": "B",
+     "text": "The chef shouting the order"
+    },
+    {
+     "label": "C",
+     "text": "The kitchen team starting to cook the dishes"
+    },
+    {
+     "label": "D",
+     "text": "The dining guests sitting at Table 5"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 4,
+   "sourcePage": 3
+  },
+  {
+   "id": 600,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Which of the following is considered the single most important professional skill in the hospitality industry?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Accounting"
+    },
+    {
+     "label": "B",
+     "text": "Communication"
+    },
+    {
+     "label": "C",
+     "text": "Interior decorating"
+    },
+    {
+     "label": "D",
+     "text": "Menu graphic design"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 5,
+   "sourcePage": 3
+  },
+  {
+   "id": 601,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Which category of communication includes greeting guests, taking food orders, and calling kitchen orders?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Written Communication"
+    },
+    {
+     "label": "B",
+     "text": "Verbal (Spoken) Communication"
+    },
+    {
+     "label": "C",
+     "text": "Visual Communication"
+    },
+    {
+     "label": "D",
+     "text": "Digital Communication"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 6,
+   "sourcePage": 3
+  },
+  {
+   "id": 602,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "A server stands with an upright posture, makes warm eye contact, and wears a pristine uniform. These are all examples of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Digital Communication"
+    },
+    {
+     "label": "B",
+     "text": "Written Communication"
+    },
+    {
+     "label": "C",
+     "text": "Non-Verbal Communication"
+    },
+    {
+     "label": "D",
+     "text": "Verbal Communication"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 7,
+   "sourcePage": 3
+  },
+  {
+   "id": 603,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Emails, printed menus, reservation logs, and incident reports belong to which communication type?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Visual"
+    },
+    {
+     "label": "B",
+     "text": "Digital"
+    },
+    {
+     "label": "C",
+     "text": "Written"
+    },
+    {
+     "label": "D",
+     "text": "Non-verbal"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 8,
+   "sourcePage": 4
+  },
+  {
+   "id": 604,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Social media replies, online automated booking confirmations, and customer service chatbots are examples of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Visual Communication"
+    },
+    {
+     "label": "B",
+     "text": "Non-Verbal Communication"
+    },
+    {
+     "label": "C",
+     "text": "Digital Communication"
+    },
+    {
+     "label": "D",
+     "text": "Verbal Communication"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 9,
+   "sourcePage": 4
+  },
+  {
+   "id": 605,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Safety notice signs, illuminated exit signboards, and illustrated menus with dish photographs are classified as:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Digital Communication"
+    },
+    {
+     "label": "B",
+     "text": "Visual Communication"
+    },
+    {
+     "label": "C",
+     "text": "Written Communication only"
+    },
+    {
+     "label": "D",
+     "text": "Non-Verbal Gestures"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 10,
+   "sourcePage": 4
+  },
+  {
+   "id": 606,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "According to research by Professor Albert Mehrabian, what percentage of the total impact in face-to-face communication comes from the actual words used?",
+   "options": [
+    {
+     "label": "A",
+     "text": "55%"
+    },
+    {
+     "label": "B",
+     "text": "38%"
+    },
+    {
+     "label": "C",
+     "text": "7%"
+    },
+    {
+     "label": "D",
+     "text": "93%"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 11,
+   "sourcePage": 4
+  },
+  {
+   "id": 607,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "According to Mehrabian's 7–38–55 Rule, tone of voice accounts for what percentage of total communication impact?",
+   "options": [
+    {
+     "label": "A",
+     "text": "7%"
+    },
+    {
+     "label": "B",
+     "text": "38%"
+    },
+    {
+     "label": "C",
+     "text": "55%"
+    },
+    {
+     "label": "D",
+     "text": "50%"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 12,
+   "sourcePage": 4
+  },
+  {
+   "id": 608,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "What percentage of face-to-face communication impact is derived from body language?",
+   "options": [
+    {
+     "label": "A",
+     "text": "7%"
+    },
+    {
+     "label": "B",
+     "text": "38%"
+    },
+    {
+     "label": "C",
+     "text": "55%"
+    },
+    {
+     "label": "D",
+     "text": "45%"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 13,
+   "sourcePage": 4
+  },
+  {
+   "id": 609,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "What is the fundamental takeaway of the 7–38–55 Rule for hospitality professionals?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Words are the only element that matters when resolving guest issues"
+    },
+    {
+     "label": "B",
+     "text": "Written communication is superior to spoken communication"
+    },
+    {
+     "label": "C",
+     "text": "HOW you say something matters far more than WHAT you say"
+    },
+    {
+     "label": "D",
+     "text": "Tone of voice alone communicates 100% of a speaker's meaning"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 14,
+   "sourcePage": 4
+  },
+  {
+   "id": 610,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "In a professional hospitality context, personality development is defined as:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Changing one's core personal identity to match company marketing"
+    },
+    {
+     "label": "B",
+     "text": "The process of improving how you think, behave, present yourself, and interact with others to become professional, confident, and effective"
+    },
+    {
+     "label": "C",
+     "text": "Memorizing scripted conversations to recite to guests without variation"
+    },
+    {
+     "label": "D",
+     "text": "Wearing expensive branded clothing while at work"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 15,
+   "sourcePage": 4
+  },
+  {
+   "id": 611,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Which aspect of hospitality personality development relates to grooming, wearing a clean uniform, and maintaining upright posture?",
+   "options": [
+    {
+     "label": "A",
+     "text": "How you grow"
+    },
+    {
+     "label": "B",
+     "text": "How you treat others"
+    },
+    {
+     "label": "C",
+     "text": "How you look"
+    },
+    {
+     "label": "D",
+     "text": "How you handle pressure"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 16,
+   "sourcePage": 5
+  },
+  {
+   "id": 612,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Remaining calm, exercising problem-solving skills, and demonstrating resilience when facing angry guests are examples of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "How you carry yourself"
+    },
+    {
+     "label": "B",
+     "text": "How you handle pressure"
+    },
+    {
+     "label": "C",
+     "text": "How you look"
+    },
+    {
+     "label": "D",
+     "text": "How you use visual channels"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 17,
+   "sourcePage": 5
+  },
+  {
+   "id": 613,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Research demonstrates that hospitality guests form a lasting first impression within:",
+   "options": [
+    {
+     "label": "A",
+     "text": "30 seconds"
+    },
+    {
+     "label": "B",
+     "text": "2 minutes"
+    },
+    {
+     "label": "C",
+     "text": "7 seconds"
+    },
+    {
+     "label": "D",
+     "text": "10 minutes"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 18,
+   "sourcePage": 5
+  },
+  {
+   "id": 614,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "A guest's initial 7-second impression is formed almost entirely on:",
+   "options": [
+    {
+     "label": "A",
+     "text": "The server's technical culinary knowledge"
+    },
+    {
+     "label": "B",
+     "text": "Non-verbal personality signals (smile, posture, eye contact, and energy) before a single word is spoken"
+    },
+    {
+     "label": "C",
+     "text": "The price and layout of the printed menu"
+    },
+    {
+     "label": "D",
+     "text": "The brand of the front desk computer system"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 19,
+   "sourcePage": 5
+  },
+  {
+   "id": 615,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Which of the following is NOT one of the 5 elements of a powerful first impression?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Smile (warm, genuine, not forced)"
+    },
+    {
+     "label": "B",
+     "text": "Eye contact (confident, welcoming, sustained naturally)"
+    },
+    {
+     "label": "C",
+     "text": "Accent (speaking with an artificial foreign dialect)"
+    },
+    {
+     "label": "D",
+     "text": "Energy (enthusiastic, engaged, positive)"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 20,
+   "sourcePage": 5
+  },
+  {
+   "id": 616,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "What are the correct five elements of a powerful first impression?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Grooming, Uniform, Vocabulary, Speech, Feedback"
+    },
+    {
+     "label": "B",
+     "text": "Smile, Eye Contact, Posture, Greeting, Energy"
+    },
+    {
+     "label": "C",
+     "text": "Channel, Sender, Receiver, Message, Feedback"
+    },
+    {
+     "label": "D",
+     "text": "Posture, Handshake, Written Note, Name Tag, Silence"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 21,
+   "sourcePage": 5
+  },
+  {
+   "id": 617,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "While communication skills help you speak clearly to guests, personality development helps you:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Memorize their credit card numbers"
+    },
+    {
+     "label": "B",
+     "text": "Remain calm and confident while speaking"
+    },
+    {
+     "label": "C",
+     "text": "Speak in a louder voice than the guest"
+    },
+    {
+     "label": "D",
+     "text": "Avoid eye contact during conversation"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 22,
+   "sourcePage": 5
+  },
+  {
+   "id": 618,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "While communication skills help you handle complaints with the right words, personality development helps you:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Blame another department for the issue"
+    },
+    {
+     "label": "B",
+     "text": "Control your emotions during difficult situations"
+    },
+    {
+     "label": "C",
+     "text": "Convince the guest that they are wrong"
+    },
+    {
+     "label": "D",
+     "text": "Walk away from the guest immediately"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 23,
+   "sourcePage": 5
+  },
+  {
+   "id": 619,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Which term is defined as \"understanding how another person feels from their perspective\"?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Professionalism"
+    },
+    {
+     "label": "B",
+     "text": "Feedback"
+    },
+    {
+     "label": "C",
+     "text": "Empathy"
+    },
+    {
+     "label": "D",
+     "text": "Grooming"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 24,
+   "sourcePage": 6
+  },
+  {
+   "id": 620,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "What is the meaning of the term \"Channel\" in communication theory?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The person receiving the instruction"
+    },
+    {
+     "label": "B",
+     "text": "The method or medium used to send a message"
+    },
+    {
+     "label": "C",
+     "text": "The reply sent back to the sender"
+    },
+    {
+     "label": "D",
+     "text": "An individual's facial expressions"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 25,
+   "sourcePage": 6
+  },
+  {
+   "id": 621,
+   "chapterId": "comm-01",
+   "subtopic": "Communication Skills & Personality Development",
+   "question": "Which term describes \"the initial image someone forms of you within seconds of meeting\"?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Feedback"
+    },
+    {
+     "label": "B",
+     "text": "Self-assessment"
+    },
+    {
+     "label": "C",
+     "text": "First impression"
+    },
+    {
+     "label": "D",
+     "text": "Non-verbal channel APPEARANCE (pp. 14–18)"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 26,
+   "sourcePage": 6
+  },
+  {
+   "id": 622,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "Which of the following is considered a formal greeting suitable for hotel guests and senior management?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Hey! Morning. Ready for the shift?\""
+    },
+    {
+     "label": "B",
+     "text": "\"What's up? Lunch rush in 20 minutes!\""
+    },
+    {
+     "label": "C",
+     "text": "\"Good afternoon! How may I assist you?\""
+    },
+    {
+     "label": "D",
+     "text": "\"Hi there! Busy day coming up?\""
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 27,
+   "sourcePage": 7
+  },
+  {
+   "id": 623,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What is the Golden Rule regarding greetings in the hospitality industry?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Use informal greetings with regular guests to make them feel casual"
+    },
+    {
+     "label": "B",
+     "text": "Always use formal greetings with guests, even if you have met them before"
+    },
+    {
+     "label": "C",
+     "text": "Only greet guests if they initiate the greeting first"
+    },
+    {
+     "label": "D",
+     "text": "Use formal greetings exclusively in staff-only back areas"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 28,
+   "sourcePage": 7
+  },
+  {
+   "id": 624,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "Which phrase is strictly prohibited when greeting a dining or hotel guest?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Good evening! It is wonderful to have you here.\""
+    },
+    {
+     "label": "B",
+     "text": "\"Welcome to [Hotel Name]! How may I help you today?\""
+    },
+    {
+     "label": "C",
+     "text": "\"Good morning! Welcome to our restaurant.\""
+    },
+    {
+     "label": "D",
+     "text": "\"Hey!\", \"What's up?\", or \"Hi!\""
+    }
+   ],
+   "correctOption": "D",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 29,
+   "sourcePage": 7
+  },
+  {
+   "id": 625,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What is the correct formula for a professional hospitality self-introduction?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Role + Name + Apology + Question"
+    },
+    {
+     "label": "B",
+     "text": "Greeting + Your Name + Your Role + Offer to Help"
+    },
+    {
+     "label": "C",
+     "text": "Company Name + Price List + Name + Goodbye"
+    },
+    {
+     "label": "D",
+     "text": "Your Name + Your Hometown + Greeting + Rules"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 30,
+   "sourcePage": 7
+  },
+  {
+   "id": 626,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "\"Good evening! I am Nadia, your server tonight. Welcome to La Maison. May I start you with some drinks?\" This dialogue correctly applies:",
+   "options": [
+    {
+     "label": "A",
+     "text": "The CARE Formula"
+    },
+    {
+     "label": "B",
+     "text": "The Introduction Formula"
+    },
+    {
+     "label": "C",
+     "text": "The 7-Second Body Language Test"
+    },
+    {
+     "label": "D",
+     "text": "The Informal Staff Protocol"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 31,
+   "sourcePage": 7
+  },
+  {
+   "id": 627,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What is the grooming requirement for hair in all food service and kitchen areas?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Left loose if styled neatly"
+    },
+    {
+     "label": "B",
+     "text": "Tied back completely and covered where required"
+    },
+    {
+     "label": "C",
+     "text": "Styled with heavy, fragrant hair gel"
+    },
+    {
+     "label": "D",
+     "text": "Cut shorter than one inch"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 32,
+   "sourcePage": 7
+  },
+  {
+   "id": 628,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What is the professional standard regarding perfume or cologne for front-facing hospitality staff?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Strong scents should be worn to mask kitchen cooking aromas"
+    },
+    {
+     "label": "B",
+     "text": "Cologne must be reapplied every two hours"
+    },
+    {
+     "label": "C",
+     "text": "No excessive perfume or cologne should be worn"
+    },
+    {
+     "label": "D",
+     "text": "Only citrus-based artificial sprays are permitted"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 33,
+   "sourcePage": 7
+  },
+  {
+   "id": 629,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What is the standard protocol for dental hygiene and breath in guest service?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Chew bubble gum openly while taking guest orders"
+    },
+    {
+     "label": "B",
+     "text": "Brush before every shift and maintain fresh breath at all times (carry breath mints)"
+    },
+    {
+     "label": "C",
+     "text": "Drink coffee immediately before greeting guests"
+    },
+    {
+     "label": "D",
+     "text": "Only brush teeth at the end of the working day"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 34,
+   "sourcePage": 8
+  },
+  {
+   "id": 630,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "Which rule regarding hands and nails is critical for kitchen and culinary staff?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Long, polished artificial nails are permitted if clean"
+    },
+    {
+     "label": "B",
+     "text": "Plain gold jewelry and decorative rings are allowed on all fingers"
+    },
+    {
+     "label": "C",
+     "text": "Nails must be clean and trimmed; no nail polish or rings are allowed in kitchen areas"
+    },
+    {
+     "label": "D",
+     "text": "Hand washing is required only at the start and conclusion of the shift"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 35,
+   "sourcePage": 8
+  },
+  {
+   "id": 631,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "Why must a professional uniform be ironed and completely wrinkle-free?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It makes the fabric waterproof"
+    },
+    {
+     "label": "B",
+     "text": "It communicates attention to detail and self-respect"
+    },
+    {
+     "label": "C",
+     "text": "It allows the employee to move faster"
+    },
+    {
+     "label": "D",
+     "text": "It prevents the uniform from fading over time"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 36,
+   "sourcePage": 8
+  },
+  {
+   "id": 632,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "Why is wearing a clearly visible name badge mandatory in hospitality operations?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It prevents co-workers from stealing uniforms"
+    },
+    {
+     "label": "B",
+     "text": "Guests feel more comfortable and secure interacting with identified staff"
+    },
+    {
+     "label": "C",
+     "text": "It indicates how much salary the employee earns"
+    },
+    {
+     "label": "D",
+     "text": "It is an official legal requirement for tax calculation"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 37,
+   "sourcePage": 8
+  },
+  {
+   "id": 633,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "Which dress code is required for hotel front office professionals?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Branded polo shirt, shorts, and running sneakers"
+    },
+    {
+     "label": "B",
+     "text": "Full formal uniform, polished shoes, visible name badge, and neutral accessories"
+    },
+    {
+     "label": "C",
+     "text": "Chef whites, apron, and non-slip kitchen clogs"
+    },
+    {
+     "label": "D",
+     "text": "Casual denim jeans with comfortable athletic shoes"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 38,
+   "sourcePage": 8
+  },
+  {
+   "id": 634,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What footwear is mandatory for all kitchen / culinary staff?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Open-toed leather sandals"
+    },
+    {
+     "label": "B",
+     "text": "Suede loafers"
+    },
+    {
+     "label": "C",
+     "text": "Non-slip safety shoes or kitchen safety clogs"
+    },
+    {
+     "label": "D",
+     "text": "High-top canvas sneakers"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 39,
+   "sourcePage": 8
+  },
+  {
+   "id": 635,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "In baking / pâtisserie departments, what is the uniform standard regarding jewelry and hair?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Earrings are encouraged; hair can remain loose"
+    },
+    {
+     "label": "B",
+     "text": "Clean whites, apron, hair fully covered, and strictly no jewelry"
+    },
+    {
+     "label": "C",
+     "text": "Casual aprons with decorative wristwatches"
+    },
+    {
+     "label": "D",
+     "text": "Rings permitted if covered with transparent tape"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 40,
+   "sourcePage": 8
+  },
+  {
+   "id": 636,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "Which of the following is classified as negative body language during guest interactions?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Standing straight with shoulders back"
+    },
+    {
+     "label": "B",
+     "text": "Maintaining comfortable eye contact"
+    },
+    {
+     "label": "C",
+     "text": "Crossing arms across the chest (signals defensiveness and closure)"
+    },
+    {
+     "label": "D",
+     "text": "Nodding to show active understanding"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 41,
+   "sourcePage": 8
+  },
+  {
+   "id": 637,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What message does slouching or leaning against walls convey to guests?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Relaxation and welcoming warmth"
+    },
+    {
+     "label": "B",
+     "text": "Unprofessionalism, laziness, or disinterest"
+    },
+    {
+     "label": "C",
+     "text": "Extreme confidence and authority"
+    },
+    {
+     "label": "D",
+     "text": "Active listening readiness"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 42,
+   "sourcePage": 8
+  },
+  {
+   "id": 638,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "If a server runs across the dining room floor, what negative effect does it create?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It proves the server is working hard"
+    },
+    {
+     "label": "B",
+     "text": "It creates a sense of panic, chaos, and rushed service for guests"
+    },
+    {
+     "label": "C",
+     "text": "It shows excellent physical fitness"
+    },
+    {
+     "label": "D",
+     "text": "It encourages guests to finish their meals faster"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 43,
+   "sourcePage": 9
+  },
+  {
+   "id": 639,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What are the sequential stages of the Confidence Loop?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Feel Confident → Buy Uniform → Get Promoted → Smile"
+    },
+    {
+     "label": "B",
+     "text": "Look Professional → Feel Confident → Perform Excellently → Receive Positive Feedback → Feel MORE Confident"
+    },
+    {
+     "label": "C",
+     "text": "Perform Excellently → Look Professional → Demand Feedback → Argue with Guests"
+    },
+    {
+     "label": "D",
+     "text": "Arrive Late → Receive Feedback → Feel Confident → Wear Uniform"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 44,
+   "sourcePage": 9
+  },
+  {
+   "id": 640,
+   "chapterId": "comm-02",
+   "subtopic": "Greeting, Grooming & Professional Appearance",
+   "question": "What is the target score on the Pre-Shift Self-Assessment checklist before stepping onto the service floor?",
+   "options": [
+    {
+     "label": "A",
+     "text": "10/30"
+    },
+    {
+     "label": "B",
+     "text": "20/30"
+    },
+    {
+     "label": "C",
+     "text": "30/30 (perfect score; any item scored 1 must be corrected before entering the floor)"
+    },
+    {
+     "label": "D",
+     "text": "15/30 19–23)"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 45,
+   "sourcePage": 9
+  },
+  {
+   "id": 641,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A small dish served before the main course of a meal is called a(n):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Entrée"
+    },
+    {
+     "label": "B",
+     "text": "Appetizer"
+    },
+    {
+     "label": "C",
+     "text": "Garnish"
+    },
+    {
+     "label": "D",
+     "text": "Buffet"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 46,
+   "sourcePage": 10
+  },
+  {
+   "id": 642,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "The ordering system where guests select and pay for dishes individually from a menu is termed:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Table d'hôte"
+    },
+    {
+     "label": "B",
+     "text": "Buffet"
+    },
+    {
+     "label": "C",
+     "text": "À la carte"
+    },
+    {
+     "label": "D",
+     "text": "Complimentary"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 47,
+   "sourcePage": 10
+  },
+  {
+   "id": 643,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A meal setup where guests serve themselves from a wide selection of dishes displayed on counters is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Set menu"
+    },
+    {
+     "label": "B",
+     "text": "Buffet"
+    },
+    {
+     "label": "C",
+     "text": "Banquet à la carte"
+    },
+    {
+     "label": "D",
+     "text": "Portion"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 48,
+   "sourcePage": 10
+  },
+  {
+   "id": 644,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "If an item on a bill is marked \"Complimentary\", it means the item is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Extraordinarily expensive"
+    },
+    {
+     "label": "B",
+     "text": "Prepared with artificial sweeteners"
+    },
+    {
+     "label": "C",
+     "text": "Free of charge, provided as a gift by management"
+    },
+    {
+     "label": "D",
+     "text": "Reserved strictly for VIP celebrities"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 49,
+   "sourcePage": 10
+  },
+  {
+   "id": 645,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A substance (such as nuts, dairy, or gluten) that causes an allergic reaction in sensitive individuals is an:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Additive"
+    },
+    {
+     "label": "B",
+     "text": "Allergen"
+    },
+    {
+     "label": "C",
+     "text": "Emulsifier"
+    },
+    {
+     "label": "D",
+     "text": "Aromatic"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 50,
+   "sourcePage": 10
+  },
+  {
+   "id": 646,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A trained wine specialist in a fine-dining restaurant who recommends wine pairings is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Concierge"
+    },
+    {
+     "label": "B",
+     "text": "Valet"
+    },
+    {
+     "label": "C",
+     "text": "Sommelier"
+    },
+    {
+     "label": "D",
+     "text": "Maître d'hôtel"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 51,
+   "sourcePage": 10
+  },
+  {
+   "id": 647,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "The French culinary phrase \"mise en place\" literally translates to:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Cooking at high heat"
+    },
+    {
+     "label": "B",
+     "text": "\"Everything in its place\": full kitchen preparation and setup before service"
+    },
+    {
+     "label": "C",
+     "text": "Cleaning dishes after closing"
+    },
+    {
+     "label": "D",
+     "text": "Handing over guest bills"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 52,
+   "sourcePage": 10
+  },
+  {
+   "id": 648,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A decorative, edible item (such as fresh herbs, citrus twists, or microgreens) added to a finished dish is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Portion"
+    },
+    {
+     "label": "B",
+     "text": "Appetizer"
+    },
+    {
+     "label": "C",
+     "text": "Garnish"
+    },
+    {
+     "label": "D",
+     "text": "Sauce base"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 53,
+   "sourcePage": 10
+  },
+  {
+   "id": 649,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "When a steak is cooked so that the center remains warm, red, and juicy with a seared exterior, the guest has ordered it:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Well done"
+    },
+    {
+     "label": "B",
+     "text": "Burnt"
+    },
+    {
+     "label": "C",
+     "text": "Medium rare / rare"
+    },
+    {
+     "label": "D",
+     "text": "Overcooked"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 54,
+   "sourcePage": 11
+  },
+  {
+   "id": 650,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "An arrangement made in advance to secure a hotel room or restaurant table for specified dates is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Itinerary"
+    },
+    {
+     "label": "B",
+     "text": "Reservation"
+    },
+    {
+     "label": "C",
+     "text": "Excursion"
+    },
+    {
+     "label": "D",
+     "text": "Check-in"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 55,
+   "sourcePage": 11
+  },
+  {
+   "id": 651,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "Which hotel staff member assists guests with booking city tours, securing event tickets, and arranging transportation?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Housekeeper"
+    },
+    {
+     "label": "B",
+     "text": "Valet"
+    },
+    {
+     "label": "C",
+     "text": "Concierge"
+    },
+    {
+     "label": "D",
+     "text": "Sommelier"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 56,
+   "sourcePage": 11
+  },
+  {
+   "id": 652,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A large, premium hotel accommodation featuring separate connected living and sleeping areas is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Standard single"
+    },
+    {
+     "label": "B",
+     "text": "Suite"
+    },
+    {
+     "label": "C",
+     "text": "Dormitory"
+    },
+    {
+     "label": "D",
+     "text": "Cabana"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 57,
+   "sourcePage": 11
+  },
+  {
+   "id": 653,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "Free facilities and services provided to hotel guests (such as high-speed Wi-Fi, swimming pool access, gym, and bathrobes) are called:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Tariffs"
+    },
+    {
+     "label": "B",
+     "text": "Amenities"
+    },
+    {
+     "label": "C",
+     "text": "Surcharges"
+    },
+    {
+     "label": "D",
+     "text": "Luggage"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 58,
+   "sourcePage": 11
+  },
+  {
+   "id": 654,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "The hotel department responsible for cleaning, sanitizing, and servicing guest rooms and public areas is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Front office"
+    },
+    {
+     "label": "B",
+     "text": "Concierge"
+    },
+    {
+     "label": "C",
+     "text": "Housekeeping"
+    },
+    {
+     "label": "D",
+     "text": "Security"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 59,
+   "sourcePage": 11
+  },
+  {
+   "id": 655,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "The metric expressing the percentage of total hotel rooms occupied by paying guests on a given night is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Room turnover"
+    },
+    {
+     "label": "B",
+     "text": "Occupancy"
+    },
+    {
+     "label": "C",
+     "text": "Yield quota"
+    },
+    {
+     "label": "D",
+     "text": "Density"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 60,
+   "sourcePage": 11
+  },
+  {
+   "id": 656,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A specialized parking service where hotel staff park and retrieve guests' personal motor vehicles is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Transit"
+    },
+    {
+     "label": "B",
+     "text": "Concierge"
+    },
+    {
+     "label": "C",
+     "text": "Valet service"
+    },
+    {
+     "label": "D",
+     "text": "Housekeeping"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 61,
+   "sourcePage": 12
+  },
+  {
+   "id": 657,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "The evening hotel service where housekeeping prepares the bed, dims lighting, and places chocolates on pillows is called:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Early check-in"
+    },
+    {
+     "label": "B",
+     "text": "Room turnover"
+    },
+    {
+     "label": "C",
+     "text": "Turndown service"
+    },
+    {
+     "label": "D",
+     "text": "Room audit"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 62,
+   "sourcePage": 12
+  },
+  {
+   "id": 658,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "When a guest receives permission to vacate their hotel room past the standard checkout time (e.g., at 3:00 PM instead of 11:00 AM), it is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Early departure"
+    },
+    {
+     "label": "B",
+     "text": "Late check-out"
+    },
+    {
+     "label": "C",
+     "text": "Check-in delay"
+    },
+    {
+     "label": "D",
+     "text": "Turndown extension"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 63,
+   "sourcePage": 12
+  },
+  {
+   "id": 659,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A detailed, structured schedule or travel plan outlining destinations, times, and activities for a journey is an:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Boarding pass"
+    },
+    {
+     "label": "B",
+     "text": "Visa"
+    },
+    {
+     "label": "C",
+     "text": "Itinerary"
+    },
+    {
+     "label": "D",
+     "text": "Excursion"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 64,
+   "sourcePage": 12
+  },
+  {
+   "id": 660,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A short, organized recreational trip or tour taken during a larger vacation is an:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Transit"
+    },
+    {
+     "label": "B",
+     "text": "Excursion"
+    },
+    {
+     "label": "C",
+     "text": "Transfer"
+    },
+    {
+     "label": "D",
+     "text": "Itinerary"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 65,
+   "sourcePage": 12
+  },
+  {
+   "id": 661,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "An official government endorsement stamped into a passport granting permission to enter a specific foreign country is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Boarding pass"
+    },
+    {
+     "label": "B",
+     "text": "Identity card"
+    },
+    {
+     "label": "C",
+     "text": "Visa"
+    },
+    {
+     "label": "D",
+     "text": "Customs receipt"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 66,
+   "sourcePage": 12
+  },
+  {
+   "id": 662,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "Passing through an intermediate airport or city solely on the way to another final destination is termed:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Transfer"
+    },
+    {
+     "label": "B",
+     "text": "Transit"
+    },
+    {
+     "label": "C",
+     "text": "Destination"
+    },
+    {
+     "label": "D",
+     "text": "Excursion"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 67,
+   "sourcePage": 12
+  },
+  {
+   "id": 663,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "Pre-arranged passenger transportation between an airport terminal and a hotel property is called an airport:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Transit"
+    },
+    {
+     "label": "B",
+     "text": "Transfer"
+    },
+    {
+     "label": "C",
+     "text": "Visa"
+    },
+    {
+     "label": "D",
+     "text": "Excursion"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 68,
+   "sourcePage": 12
+  },
+  {
+   "id": 664,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "The official document containing flight numbers, seat assignments, and boarding gate details that allows a passenger onto an aircraft is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Passport"
+    },
+    {
+     "label": "B",
+     "text": "Boarding pass"
+    },
+    {
+     "label": "C",
+     "text": "Travel itinerary"
+    },
+    {
+     "label": "D",
+     "text": "Visa slip"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 69,
+   "sourcePage": 13
+  },
+  {
+   "id": 665,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "A vacation product that bundles airfare, hotel accommodation, ground transportation, and activities into a single fixed price is a:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Eco-tour"
+    },
+    {
+     "label": "B",
+     "text": "À la carte journey"
+    },
+    {
+     "label": "C",
+     "text": "Package tour"
+    },
+    {
+     "label": "D",
+     "text": "Transit pass"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 70,
+   "sourcePage": 13
+  },
+  {
+   "id": 666,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "Responsible travel to natural areas that conserves the environment, respects wildlife, and sustains local communities is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Mass tourism"
+    },
+    {
+     "label": "B",
+     "text": "Eco-tourism"
+    },
+    {
+     "label": "C",
+     "text": "Package touring"
+    },
+    {
+     "label": "D",
+     "text": "Corporate transit"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 71,
+   "sourcePage": 13
+  },
+  {
+   "id": 667,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "The ultimate geographic location to which a traveler is journeying is their:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Origin"
+    },
+    {
+     "label": "B",
+     "text": "Transit point"
+    },
+    {
+     "label": "C",
+     "text": "Destination"
+    },
+    {
+     "label": "D",
+     "text": "Itinerary"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 72,
+   "sourcePage": 13
+  },
+  {
+   "id": 668,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "\"May I help you with your luggage?\" and \"How may I assist you today?\" represent which professional sentence pattern?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Pattern 2: Describing / Informing"
+    },
+    {
+     "label": "B",
+     "text": "Pattern 1: Offering Help"
+    },
+    {
+     "label": "C",
+     "text": "Pattern 3: Confirming"
+    },
+    {
+     "label": "D",
+     "text": "Pattern 4: Polite Requests"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 73,
+   "sourcePage": 13
+  },
+  {
+   "id": 669,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "\"Breakfast is served from 7:00 AM to 10:00 AM in the Garden Restaurant.\" is an example of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Offering help"
+    },
+    {
+     "label": "B",
+     "text": "Confirming details"
+    },
+    {
+     "label": "C",
+     "text": "Describing / Informing"
+    },
+    {
+     "label": "D",
+     "text": "Making a request"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 74,
+   "sourcePage": 13
+  },
+  {
+   "id": 670,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "\"Just to confirm: a deluxe room for two nights, correct?\" represents:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Pattern 1: Offering Help"
+    },
+    {
+     "label": "B",
+     "text": "Pattern 2: Describing"
+    },
+    {
+     "label": "C",
+     "text": "Pattern 3: Confirming Details"
+    },
+    {
+     "label": "D",
+     "text": "Pattern 4: Complaining"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 75,
+   "sourcePage": 13
+  },
+  {
+   "id": 671,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "\"Could you please spell your last name for me?\" and \"Would you mind waiting for just one moment?\" represent:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Offering assistance"
+    },
+    {
+     "label": "B",
+     "text": "Confirming dates"
+    },
+    {
+     "label": "C",
+     "text": "Polite requests"
+    },
+    {
+     "label": "D",
+     "text": "Describing facilities"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 76,
+   "sourcePage": 13
+  },
+  {
+   "id": 672,
+   "chapterId": "comm-03",
+   "subtopic": "Basic English for the Workplace",
+   "question": "Why must a hospitality professional always repeat back key details (room numbers, dates, food modifications)?",
+   "options": [
+    {
+     "label": "A",
+     "text": "To make the conversation last longer"
+    },
+    {
+     "label": "B",
+     "text": "To prevent costly operational errors and ensure mutual understanding"
+    },
+    {
+     "label": "C",
+     "text": "To test the guest's memory"
+    },
+    {
+     "label": "D",
+     "text": "To practice their spoken English grammar INTERPERSONAL COMMUNICATION (pp. 24–28)"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 77,
+   "sourcePage": 14
+  },
+  {
+   "id": 673,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "A question that can be answered only with a simple \"Yes\" or \"No\" (such as \"Do you have a reservation?\") is a(n):",
+   "options": [
+    {
+     "label": "A",
+     "text": "Open question"
+    },
+    {
+     "label": "B",
+     "text": "Closed question"
+    },
+    {
+     "label": "C",
+     "text": "Probing question"
+    },
+    {
+     "label": "D",
+     "text": "Reflective question"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 78,
+   "sourcePage": 15
+  },
+  {
+   "id": 674,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "Which of the following is an example of an open question designed to gather detailed information?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Did you enjoy your meal?\""
+    },
+    {
+     "label": "B",
+     "text": "\"Would you like a window table?\""
+    },
+    {
+     "label": "C",
+     "text": "\"Is everything satisfactory?\""
+    },
+    {
+     "label": "D",
+     "text": "\"What type of room would you prefer for your stay?\""
+    }
+   ],
+   "correctOption": "D",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 79,
+   "sourcePage": 15
+  },
+  {
+   "id": 675,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "What is the professional rule of thumb regarding the strategic use of open and closed questions?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Start with closed questions, then switch to open questions to close the transaction"
+    },
+    {
+     "label": "B",
+     "text": "Start with an open question to discover needs, then use closed questions to confirm specific details"
+    },
+    {
+     "label": "C",
+     "text": "Avoid asking open questions because they take up too much time"
+    },
+    {
+     "label": "D",
+     "text": "Use closed questions exclusively during guest check-in"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 80,
+   "sourcePage": 15
+  },
+  {
+   "id": 676,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "In the professional CARE Formula for giving answers, what does the letter C stand for?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Calculate"
+    },
+    {
+     "label": "B",
+     "text": "Confirm (acknowledge the request warmly, e.g., \"The swimming pool, of course!\")"
+    },
+    {
+     "label": "C",
+     "text": "Close"
+    },
+    {
+     "label": "D",
+     "text": "Correct"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 81,
+   "sourcePage": 15
+  },
+  {
+   "id": 677,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "In the CARE Formula, what action does the step R require?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Refuse the request"
+    },
+    {
+     "label": "B",
+     "text": "Repeat the rules"
+    },
+    {
+     "label": "C",
+     "text": "Recommend (provide helpful extra suggestions, e.g., \"We also have a gym right next to it.\")"
+    },
+    {
+     "label": "D",
+     "text": "Report to security"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 82,
+   "sourcePage": 15
+  },
+  {
+   "id": 678,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "What are the complete four stages of the CARE Formula?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Call → Assist → Resolve → Exit"
+    },
+    {
+     "label": "B",
+     "text": "Confirm → Answer → Recommend → End politely"
+    },
+    {
+     "label": "C",
+     "text": "Check → Apologize → Refund → Explain"
+    },
+    {
+     "label": "D",
+     "text": "Connect → Ask → Review → Evaluate"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 83,
+   "sourcePage": 15
+  },
+  {
+   "id": 679,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "What is the correct way to execute the E (End) step of the CARE Formula?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Walk away immediately after delivering the answer"
+    },
+    {
+     "label": "B",
+     "text": "Ask the guest for a cash tip"
+    },
+    {
+     "label": "C",
+     "text": "Ask a closing service question: \"Is there anything else I can help you with?\""
+    },
+    {
+     "label": "D",
+     "text": "Tell the guest to read the hotel brochure"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 84,
+   "sourcePage": 15
+  },
+  {
+   "id": 680,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "What is the core difference between hearing and active listening?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hearing is done with ears; listening is done with eyes"
+    },
+    {
+     "label": "B",
+     "text": "Hearing is a passive biological process; active listening is a professional skill requiring conscious focus and deliberate effort"
+    },
+    {
+     "label": "C",
+     "text": "Hearing is an active skill; listening is purely accidental"
+    },
+    {
+     "label": "D",
+     "text": "There is no difference; they are exact synonyms"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 85,
+   "sourcePage": 16
+  },
+  {
+   "id": 681,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "What are the 5 steps of active listening in correct order?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Hear → Think → Speak → Argue → Forget"
+    },
+    {
+     "label": "B",
+     "text": "Focus → Observe → Listen → Confirm → Respond"
+    },
+    {
+     "label": "C",
+     "text": "Greet → Recommend → Answer → Confirm → End"
+    },
+    {
+     "label": "D",
+     "text": "Look → Write → Promise → Deliver → Check"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 86,
+   "sourcePage": 16
+  },
+  {
+   "id": 682,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "What is a key behavior of a poor listener in hospitality?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Maintains supportive eye contact"
+    },
+    {
+     "label": "B",
+     "text": "Nods and uses vocal cues like \"I see\""
+    },
+    {
+     "label": "C",
+     "text": "Interrupts the guest before they finish speaking or looks at their mobile phone"
+    },
+    {
+     "label": "D",
+     "text": "Paraphrases key points to ensure understanding"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 87,
+   "sourcePage": 16
+  },
+  {
+   "id": 683,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "Which practice builds strong interpersonal relationships with repeat hotel guests?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Treating all guests like complete strangers to stay formal"
+    },
+    {
+     "label": "B",
+     "text": "Using the guest's name when known and remembering their individual preferences"
+    },
+    {
+     "label": "C",
+     "text": "Asking guests personal questions regarding their finances"
+    },
+    {
+     "label": "D",
+     "text": "Sharing internal staff gossip with dining guests"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 88,
+   "sourcePage": 16
+  },
+  {
+   "id": 684,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "How does empathy transform hospitality service?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It allows staff to charge higher rates for rooms"
+    },
+    {
+     "label": "B",
+     "text": "It transforms a cold, mechanical transaction into a genuine human connection"
+    },
+    {
+     "label": "C",
+     "text": "It replaces the need for standard operating procedures"
+    },
+    {
+     "label": "D",
+     "text": "It forces guests to agree with management decisions"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 89,
+   "sourcePage": 16
+  },
+  {
+   "id": 685,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "An exhausted guest arrives at the front desk after a 14-hour delayed flight. Which response demonstrates true empathy?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Passport and credit card, please.\""
+    },
+    {
+     "label": "B",
+     "text": "\"Check-in is at 3:00 PM, you'll have to sit in the lobby.\""
+    },
+    {
+     "label": "C",
+     "text": "\"Welcome! You must be tired after such a long journey. Let me get you checked in as quickly as possible. Can I bring you some water while I process this?\""
+    },
+    {
+     "label": "D",
+     "text": "\"Flights are always delayed, it happens to everyone.\""
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 90,
+   "sourcePage": 16
+  },
+  {
+   "id": 686,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "What phrase should you use when you need a guest to wait for a few seconds while you pull up their file?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Wait a minute.\""
+    },
+    {
+     "label": "B",
+     "text": "\"Hold on.\""
+    },
+    {
+     "label": "C",
+     "text": "\"Just one moment, please.\""
+    },
+    {
+     "label": "D",
+     "text": "\"Stop talking.\""
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 91,
+   "sourcePage": 16
+  },
+  {
+   "id": 687,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "When taking a heavy coat or carrying bags for a guest, the most polished expression is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Give that to me.\""
+    },
+    {
+     "label": "B",
+     "text": "\"Allow me.\""
+    },
+    {
+     "label": "C",
+     "text": "\"I have to take this.\""
+    },
+    {
+     "label": "D",
+     "text": "\"Let's go.\""
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 92,
+   "sourcePage": 16
+  },
+  {
+   "id": 688,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "When escorting a guest through a dining room or corridor to their table, you should say:",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Follow behind me.\""
+    },
+    {
+     "label": "B",
+     "text": "\"Right this way, please.\""
+    },
+    {
+     "label": "C",
+     "text": "\"Move over there.\""
+    },
+    {
+     "label": "D",
+     "text": "\"Your table is somewhere in the corner.\""
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 93,
+   "sourcePage": 17
+  },
+  {
+   "id": 689,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "During a meal service, when checking whether guests are pleased with their dishes, the professional question is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Are you done eating yet?\""
+    },
+    {
+     "label": "B",
+     "text": "\"Is the food okay or what?\""
+    },
+    {
+     "label": "C",
+     "text": "\"Is everything to your satisfaction?\""
+    },
+    {
+     "label": "D",
+     "text": "\"Do you want more food?\""
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 94,
+   "sourcePage": 17
+  },
+  {
+   "id": 690,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "When service is unavoidably delayed, what should staff say to waiting guests?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Don't blame me, the kitchen is slow.\""
+    },
+    {
+     "label": "B",
+     "text": "\"We appreciate your patience.\""
+    },
+    {
+     "label": "C",
+     "text": "\"You have to wait your turn.\""
+    },
+    {
+     "label": "D",
+     "text": "\"There is nothing I can do.\""
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 95,
+   "sourcePage": 17
+  },
+  {
+   "id": 691,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "When a guest says \"Thank you so much for your wonderful service!\", what is the mandatory professional response?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"No problem.\""
+    },
+    {
+     "label": "B",
+     "text": "\"Yup.\""
+    },
+    {
+     "label": "C",
+     "text": "\"My pleasure!\" (never say \"No problem\" in hospitality)"
+    },
+    {
+     "label": "D",
+     "text": "\"It's just my job.\""
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 96,
+   "sourcePage": 17
+  },
+  {
+   "id": 692,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "Why is saying \"No problem\" considered unprofessional in luxury hospitality?",
+   "options": [
+    {
+     "label": "A",
+     "text": "It is too difficult to pronounce"
+    },
+    {
+     "label": "B",
+     "text": "It implies that serving the guest could have been a problem or burden, whereas \"My pleasure\" affirms delight in serving them"
+    },
+    {
+     "label": "C",
+     "text": "Guests do not understand modern slang"
+    },
+    {
+     "label": "D",
+     "text": "It is an illegal phrase under hospitality labor laws"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 97,
+   "sourcePage": 17
+  },
+  {
+   "id": 693,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "What is the correct phrase when an error has occurred on an order or bill?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"The computer made a mistake.\""
+    },
+    {
+     "label": "B",
+     "text": "\"I sincerely apologize.\""
+    },
+    {
+     "label": "C",
+     "text": "\"It's not my fault.\""
+    },
+    {
+     "label": "D",
+     "text": "\"You misunderstood the menu.\""
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 98,
+   "sourcePage": 17
+  },
+  {
+   "id": 694,
+   "chapterId": "comm-04",
+   "subtopic": "Everyday & Interpersonal Communication",
+   "question": "When speaking officially on behalf of your establishment at a banquet or check-in, you say:",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"From my side...\""
+    },
+    {
+     "label": "B",
+     "text": "\"According to me...\""
+    },
+    {
+     "label": "C",
+     "text": "\"On behalf of [Hotel Name]...\""
+    },
+    {
+     "label": "D",
+     "text": "\"My friends and I welcome you...\" (pp. 29–31)"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 99,
+   "sourcePage": 17
+  },
+  {
+   "id": 695,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Which statement reflects an employee who takes professional ownership?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"I didn't know it was my responsibility.\""
+    },
+    {
+     "label": "B",
+     "text": "\"That is not in my job description.\""
+    },
+    {
+     "label": "C",
+     "text": "\"I noticed the issue and fixed it before the guest saw it.\""
+    },
+    {
+     "label": "D",
+     "text": "\"I don't know how that happened. Not my fault.\""
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 100,
+   "sourcePage": 18
+  },
+  {
+   "id": 696,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "When an employee makes a service error, an irresponsible worker hides it, while a responsible professional:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Blames the trainee on duty"
+    },
+    {
+     "label": "B",
+     "text": "Acknowledges the error proactively and reports that it has already been corrected"
+    },
+    {
+     "label": "C",
+     "text": "Waits until the guest posts an online complaint"
+    },
+    {
+     "label": "D",
+     "text": "Pretends the error never took place"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 101,
+   "sourcePage": 18
+  },
+  {
+   "id": 697,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "What is the ethical definition of integrity in the workplace?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Working hard only when the General Manager is standing in the room"
+    },
+    {
+     "label": "B",
+     "text": "Doing the right thing even when no one is watching"
+    },
+    {
+     "label": "C",
+     "text": "Ensuring you never get caught breaking company rules"
+    },
+    {
+     "label": "D",
+     "text": "Agreeing with everything senior colleagues say"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 102,
+   "sourcePage": 18
+  },
+  {
+   "id": 698,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "A guest leaves an expensive leather wallet containing cash on a restaurant table. The ethical protocol is:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Keep it in your locker until the end of the week to see if someone asks"
+    },
+    {
+     "label": "B",
+     "text": "Split the cash with the busser and turn in the empty wallet"
+    },
+    {
+     "label": "C",
+     "text": "Hand it in to Lost & Found immediately with zero hesitation"
+    },
+    {
+     "label": "D",
+     "text": "Leave it on the table for the next dining party to handle"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 103,
+   "sourcePage": 18
+  },
+  {
+   "id": 699,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "You realize you accidentally undercharged a guest on their final checkout bill. What does professional integrity require?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Ignore it so the guest leaves happy"
+    },
+    {
+     "label": "B",
+     "text": "Pay the difference out of your own pocket without telling anyone"
+    },
+    {
+     "label": "C",
+     "text": "Correct the bill transparently and inform your manager immediately"
+    },
+    {
+     "label": "D",
+     "text": "Alter the computer records to conceal the mistake"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 104,
+   "sourcePage": 18
+  },
+  {
+   "id": 700,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "What is the hospitality standard regarding company stock and supplies (food ingredients, linens, toiletries)?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Small amounts of food can be taken home without permission after shifts"
+    },
+    {
+     "label": "B",
+     "text": "Company resources are strictly not personal; employees must never take food, supplies, or equipment for personal use"
+    },
+    {
+     "label": "C",
+     "text": "Broken equipment may be taken home without logging it"
+    },
+    {
+     "label": "D",
+     "text": "Unused guest amenities belong to the housekeeping staff"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 105,
+   "sourcePage": 18
+  },
+  {
+   "id": 701,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "What are the ethical rules regarding guest privacy and social media?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Interesting guest interactions can be posted on personal social media if names are omitted"
+    },
+    {
+     "label": "B",
+     "text": "Guest data is strictly confidential; staff must never share guest information or post about guests, management, or internal issues online"
+    },
+    {
+     "label": "C",
+     "text": "Photographs of celebrity guests in hotel lobbies may be uploaded to private WhatsApp groups"
+    },
+    {
+     "label": "D",
+     "text": "Staff may share VIP room numbers with friends outside work"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 106,
+   "sourcePage": 18
+  },
+  {
+   "id": 702,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "What is the professional standard for arriving for a hospitality shift?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Arrive exactly at the start time and change into your uniform on company time"
+    },
+    {
+     "label": "B",
+     "text": "Arrive 10 minutes early, fully changed into uniform, briefed, and ready to work at the start time"
+    },
+    {
+     "label": "C",
+     "text": "Arrive 5 minutes late if public transit is congested"
+    },
+    {
+     "label": "D",
+     "text": "Clock in first, then eat breakfast in the staff canteen"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 107,
+   "sourcePage": 19
+  },
+  {
+   "id": 703,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "How should daily hospitality tasks be prioritized?",
+   "options": [
+    {
+     "label": "A",
+     "text": "By personal preference (doing the easiest tasks first)"
+    },
+    {
+     "label": "B",
+     "text": "By urgency and guest impact, not personal preference"
+    },
+    {
+     "label": "C",
+     "text": "By alphabetical order of guest names"
+    },
+    {
+     "label": "D",
+     "text": "By whichever supervisor is shouting the loudest"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 108,
+   "sourcePage": 19
+  },
+  {
+   "id": 704,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "If an employee realizes they cannot meet an agreed deadline or task commitment, what must they do?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Wait until the deadline passes, then apologize"
+    },
+    {
+     "label": "B",
+     "text": "Hope that the manager forgets about the task"
+    },
+    {
+     "label": "C",
+     "text": "Communicate proactively BEFORE the deadline, not after"
+    },
+    {
+     "label": "D",
+     "text": "Clock out and leave the unfinished task for the next shift"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 109,
+   "sourcePage": 19
+  },
+  {
+   "id": 705,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "When transferring shift duties to the incoming team during a handover, staff must:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Leave immediately as soon as the clock strikes the hour"
+    },
+    {
+     "label": "B",
+     "text": "Complete the handover briefing thoroughly without rushing"
+    },
+    {
+     "label": "C",
+     "text": "Send a brief text message from the parking lot"
+    },
+    {
+     "label": "D",
+     "text": "Assume the incoming team knows all current issues"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 110,
+   "sourcePage": 19
+  },
+  {
+   "id": 706,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "What is the first immediate physical technique recommended to manage acute stress in a difficult situation?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Drink a caffeinated beverage"
+    },
+    {
+     "label": "B",
+     "text": "Take one slow, deep breath before responding to the situation"
+    },
+    {
+     "label": "C",
+     "text": "Speak as rapidly as possible to finish the transaction"
+    },
+    {
+     "label": "D",
+     "text": "Walk into the back office and slam the door"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 111,
+   "sourcePage": 19
+  },
+  {
+   "id": 707,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "When facing an overwhelming list of tasks during peak service hours, you should:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Try to execute all 10 tasks at the same time"
+    },
+    {
+     "label": "B",
+     "text": "Prioritize: write down your top 3 tasks and execute them one at a time"
+    },
+    {
+     "label": "C",
+     "text": "Stop working until the manager arrives"
+    },
+    {
+     "label": "D",
+     "text": "Hand all tasks over to a junior trainee"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 112,
+   "sourcePage": 19
+  },
+  {
+   "id": 708,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "What does debriefing mean in professional stress management?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Arguing with kitchen staff after closing"
+    },
+    {
+     "label": "B",
+     "text": "Complaining about difficult guests on social media"
+    },
+    {
+     "label": "C",
+     "text": "Talking through a challenging shift with a trusted colleague or supervisor to process and learn from the experience"
+    },
+    {
+     "label": "D",
+     "text": "Skipping sleep to socialize after work"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 113,
+   "sourcePage": 19
+  },
+  {
+   "id": 709,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "What is the core philosophy of leadership taught in Chapter 5?",
+   "options": [
+    {
+     "label": "A",
+     "text": "You can only lead if you hold the official title of General Manager"
+    },
+    {
+     "label": "B",
+     "text": "\"You Do Not Need a Title to Lead\": entry-level staff can demonstrate leadership through initiative, reliability, and positivity"
+    },
+    {
+     "label": "C",
+     "text": "Leadership means telling other people what to do while doing no physical work"
+    },
+    {
+     "label": "D",
+     "text": "Only employees with ten years of tenure possess leadership qualities"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 114,
+   "sourcePage": 19
+  },
+  {
+   "id": 710,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Seeing what needs to be done and taking action without waiting to be told is the quality of:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Mentoring"
+    },
+    {
+     "label": "B",
+     "text": "Initiative"
+    },
+    {
+     "label": "C",
+     "text": "Reliability"
+    },
+    {
+     "label": "D",
+     "text": "Compliance"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 115,
+   "sourcePage": 20
+  },
+  {
+   "id": 711,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Consistently delivering on promises so your team never has to wonder if you will complete your duties represents:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Positivity"
+    },
+    {
+     "label": "B",
+     "text": "Reliability"
+    },
+    {
+     "label": "C",
+     "text": "Empathy"
+    },
+    {
+     "label": "D",
+     "text": "Humility"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 116,
+   "sourcePage": 20
+  },
+  {
+   "id": 712,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Helping new or junior colleagues patiently without arrogance or condescension demonstrates:",
+   "options": [
+    {
+     "label": "A",
+     "text": "Initiative"
+    },
+    {
+     "label": "B",
+     "text": "Feedback"
+    },
+    {
+     "label": "C",
+     "text": "Mentoring"
+    },
+    {
+     "label": "D",
+     "text": "Authority"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 117,
+   "sourcePage": 20
+  },
+  {
+   "id": 713,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "A true hospitality leader views constructive criticism and workplace feedback as:",
+   "options": [
+    {
+     "label": "A",
+     "text": "An insult to their personal pride"
+    },
+    {
+     "label": "B",
+     "text": "An excuse to look for another job"
+    },
+    {
+     "label": "C",
+     "text": "A valuable gift that fosters professional growth"
+    },
+    {
+     "label": "D",
+     "text": "Proof that the management is unfair"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 118,
+   "sourcePage": 20
+  },
+  {
+   "id": 714,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Scenario: A server speaks polite, scripted words of welcome, but sighs heavily, crosses their arms, and avoids eye contact. According to Mehrabian's rule, what will the guest believe?",
+   "options": [
+    {
+     "label": "A",
+     "text": "The guest will believe the polite words because words represent 90% of communication"
+    },
+    {
+     "label": "B",
+     "text": "The guest will perceive the server as unwelcoming and annoyed, because non-verbal body language and tone account for 93% of the impact"
+    },
+    {
+     "label": "C",
+     "text": "The guest will not notice the body language at all"
+    },
+    {
+     "label": "D",
+     "text": "The guest will assume the server is extremely confident"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 119,
+   "sourcePage": 20
+  },
+  {
+   "id": 715,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Scenario: A guest approaches the concierge desk asking, \"Where is the business center?\" Which response correctly applies the CARE Formula?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"On the 2nd floor.\""
+    },
+    {
+     "label": "B",
+     "text": "\"Read the directory behind you.\""
+    },
+    {
+     "label": "C",
+     "text": "\"The business center, of course! [Confirm] It is located on the 2nd floor, open 24 hours. [Answer] We also have printing services available right by the elevators. [Recommend] May I assist you with anything else today? [End]\""
+    },
+    {
+     "label": "D",
+     "text": "\"I don't work in the business center, sorry.\""
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 120,
+   "sourcePage": 20
+  },
+  {
+   "id": 716,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Scenario: A guest is speaking in an upset tone about a cold soup. Which action demonstrates an active listener?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Rolling your eyes and interrupting with \"Our chef never sends out cold food.\""
+    },
+    {
+     "label": "B",
+     "text": "Looking down at your order pad and nodding mechanically without making eye contact"
+    },
+    {
+     "label": "C",
+     "text": "Facing the guest, listening fully without interrupting, acknowledging their frustration, and confirming the issue before offering an immediate resolution"
+    },
+    {
+     "label": "D",
+     "text": "Calling the head chef out to the dining room to debate the guest"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 121,
+   "sourcePage": 20
+  },
+  {
+   "id": 717,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Pronunciation & spelling check: What is the correct pronunciation guide for the fine-dining wine specialist term \"Sommelier\"?",
+   "options": [
+    {
+     "label": "A",
+     "text": "SOM-uh-leer"
+    },
+    {
+     "label": "B",
+     "text": "sum-ul-YAY"
+    },
+    {
+     "label": "C",
+     "text": "SO-mee-lee-er"
+    },
+    {
+     "label": "D",
+     "text": "SAH-muh-lyer"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 122,
+   "sourcePage": 21
+  },
+  {
+   "id": 718,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Pronunciation & spelling check: What is the correct pronunciation guide for \"Concierge\"?",
+   "options": [
+    {
+     "label": "A",
+     "text": "con-SEER-gee"
+    },
+    {
+     "label": "B",
+     "text": "CON-kee-erj"
+    },
+    {
+     "label": "C",
+     "text": "kon-see-AIRZH"
+    },
+    {
+     "label": "D",
+     "text": "kon-SERJ-ee"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 123,
+   "sourcePage": 21
+  },
+  {
+   "id": 719,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Pronunciation & spelling check: What is the correct pronunciation guide for \"Mise en place\"?",
+   "options": [
+    {
+     "label": "A",
+     "text": "MIZE-en-place"
+    },
+    {
+     "label": "B",
+     "text": "meez-ahn-PLAS"
+    },
+    {
+     "label": "C",
+     "text": "MISS-on-plak"
+    },
+    {
+     "label": "D",
+     "text": "my-ZEN-plass"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 124,
+   "sourcePage": 21
+  },
+  {
+   "id": 720,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Scenario: You are walking through the hotel lobby and pass a guest who stayed at the property last month. Which greeting is correct?",
+   "options": [
+    {
+     "label": "A",
+     "text": "\"Hey! What's up, John?\""
+    },
+    {
+     "label": "B",
+     "text": "\"Hi there! Good to see you again.\""
+    },
+    {
+     "label": "C",
+     "text": "\"Good morning, Mr. Smith! Welcome back to [Hotel Name]. How may I assist you today?\""
+    },
+    {
+     "label": "D",
+     "text": "Give a silent head nod without speaking"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 125,
+   "sourcePage": 21
+  },
+  {
+   "id": 721,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Scenario: A hotel front desk agent receives a phone call: \"I need a room for next Friday.\" What is the correct sequence of questions to discover and confirm the booking?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Closed question → Demand credit card → Hang up"
+    },
+    {
+     "label": "B",
+     "text": "Open question (\"What type of room would you prefer for your stay?\") → Closed question (\"Just to confirm, that is one deluxe king room for Friday the 12th, correct?\")"
+    },
+    {
+     "label": "C",
+     "text": "Only ask \"Yes/No\" questions throughout the conversation"
+    },
+    {
+     "label": "D",
+     "text": "Transfer the call immediately without asking any questions"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 126,
+   "sourcePage": 21
+  },
+  {
+   "id": 722,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Scenario: An airline passenger at passport control is in transit. What does this mean?",
+   "options": [
+    {
+     "label": "A",
+     "text": "They have reached their final holiday resort"
+    },
+    {
+     "label": "B",
+     "text": "They are passing through an intermediate airport solely on their way to another destination country"
+    },
+    {
+     "label": "C",
+     "text": "They have lost their luggage"
+    },
+    {
+     "label": "D",
+     "text": "They are applying for permanent citizenship"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 127,
+   "sourcePage": 21
+  },
+  {
+   "id": 723,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Scenario: A server accidentally drops a tray of glasses in the kitchen service area. An irresponsible worker runs away. What does a worker with integrity and ownership do?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Accuse the dishwasher of leaving the floor slippery"
+    },
+    {
+     "label": "B",
+     "text": "Immediately clear the broken glass safely to protect team members, notify the supervisor, and log the breakage honestly"
+    },
+    {
+     "label": "C",
+     "text": "Hide the broken glass in the linen hamper"
+    },
+    {
+     "label": "D",
+     "text": "Ignore the mess and start serving food immediately"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 128,
+   "sourcePage": 21
+  },
+  {
+   "id": 724,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "In the hospitality phrase \"à la carte\", how is it pronounced and what is its grammatical function?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Pronounced ay-la-cart; means an all-inclusive set buffet"
+    },
+    {
+     "label": "B",
+     "text": "Pronounced ah-lah-KART; functions as an adverb/adjective meaning dishes ordered individually from the menu"
+    },
+    {
+     "label": "C",
+     "text": "Pronounced ah-la-CAR-tay; means food cooked in a cart"
+    },
+    {
+     "label": "D",
+     "text": "Pronounced al-CART; means free food given to guests"
+    }
+   ],
+   "correctOption": "B",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 129,
+   "sourcePage": 21
+  },
+  {
+   "id": 725,
+   "chapterId": "comm-05",
+   "subtopic": "Responsibility, Ethics & Leadership",
+   "question": "Scenario: A room attendant completes cleaning their assigned rooms 20 minutes before the end of their shift. Which action demonstrates leadership at every level?",
+   "options": [
+    {
+     "label": "A",
+     "text": "Sit in the linen closet and look at their mobile phone until clock-out time"
+    },
+    {
+     "label": "B",
+     "text": "Clock out early and leave without telling the floor supervisor"
+    },
+    {
+     "label": "C",
+     "text": "Approach their teammates and supervisor to ask: \"I have finished my allocated rooms. How can I help the team finish the floor?\""
+    },
+    {
+     "label": "D",
+     "text": "Complain that other room attendants work too slowly"
+    }
+   ],
+   "correctOption": "C",
+   "sourceTitle": "Communication & Workplace Skills (Chapters 1–5) — Question Bank",
+   "sourceQuestionId": 130,
+   "sourcePage": 22
+  }
+ ]
+}

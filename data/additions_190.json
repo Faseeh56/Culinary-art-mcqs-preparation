@@ -1,0 +1,5378 @@
+{
+  "chapters": [
+    {
+      "id": "part2-veg",
+      "title": "Advanced Vegetables & Legumes",
+      "from": 286,
+      "to": 300
+    },
+    {
+      "id": "part2-potatoes",
+      "title": "Potatoes & Potato Products",
+      "from": 301,
+      "to": 350
+    },
+    {
+      "id": "part2-dairy",
+      "title": "Dairy Products: Butter & Beyond",
+      "from": 351,
+      "to": 388
+    },
+    {
+      "id": "part2-rice",
+      "title": "Rice, Grains & Pasta",
+      "from": 389,
+      "to": 410
+    },
+    {
+      "id": "special-thermo",
+      "title": "Thermometers",
+      "from": 411,
+      "to": 425
+    },
+    {
+      "id": "special-immersion",
+      "title": "Immersion Blenders",
+      "from": 426,
+      "to": 432
+    },
+    {
+      "id": "special-chinois",
+      "title": "Chinois & Straining Equipment",
+      "from": 433,
+      "to": 442
+    },
+    {
+      "id": "special-gelatin",
+      "title": "Gelatin",
+      "from": 443,
+      "to": 455
+    },
+    {
+      "id": "special-extraction",
+      "title": "Extraction & Stock Making",
+      "from": 456,
+      "to": 465
+    },
+    {
+      "id": "special-reduction",
+      "title": "Reduction Techniques",
+      "from": 466,
+      "to": 475
+    }
+  ],
+  "questions": [
+    {
+      "id": 286,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "When preparing artichokes, the choke (fuzzy center) must be removed because it is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nutritious"
+        },
+        {
+          "label": "B",
+          "text": "Inedible/fibrous"
+        },
+        {
+          "label": "C",
+          "text": "Toxic"
+        },
+        {
+          "label": "D",
+          "text": "Too bitter"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 1,
+      "sourcePage": 2
+    },
+    {
+      "id": 287,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "To prevent enzymatic browning in cut artichokes, they should be held in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hot water"
+        },
+        {
+          "label": "B",
+          "text": "Acidulated water (water + lemon juice/vinegar)"
+        },
+        {
+          "label": "C",
+          "text": "Oil"
+        },
+        {
+          "label": "D",
+          "text": "Salt water"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 2,
+      "sourcePage": 2
+    },
+    {
+      "id": 288,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "Asparagus spears should be snapped (not cut) at their natural breaking point to remove:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The flower"
+        },
+        {
+          "label": "B",
+          "text": "The woody/tough lower portion"
+        },
+        {
+          "label": "C",
+          "text": "The tip"
+        },
+        {
+          "label": "D",
+          "text": "The skin"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 3,
+      "sourcePage": 2
+    },
+    {
+      "id": 289,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "Brussels sprouts grow on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Vines"
+        },
+        {
+          "label": "B",
+          "text": "Stalks (and are usually cut/off before sale)"
+        },
+        {
+          "label": "C",
+          "text": "Trees"
+        },
+        {
+          "label": "D",
+          "text": "Underground"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 4,
+      "sourcePage": 2
+    },
+    {
+      "id": 290,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "The outer leaves of Brussels sprouts are often removed because they are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "The most nutritious"
+        },
+        {
+          "label": "B",
+          "text": "Tough, damaged or dirty"
+        },
+        {
+          "label": "C",
+          "text": "Too small"
+        },
+        {
+          "label": "D",
+          "text": "Green"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 5,
+      "sourcePage": 2
+    },
+    {
+      "id": 291,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "When glazing root vegetables (carrots, turnips) in a shallow liquid (glacer):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cook uncovered"
+        },
+        {
+          "label": "B",
+          "text": "Cook until the liquid evaporates and coats the vegetables with a glossy sheen"
+        },
+        {
+          "label": "C",
+          "text": "Submerge completely"
+        },
+        {
+          "label": "D",
+          "text": "Steam only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 6,
+      "sourcePage": 2
+    },
+    {
+      "id": 292,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "Glazed vegetables are finished when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "They are mushy"
+        },
+        {
+          "label": "B",
+          "text": "They appear shiny and the liquid has reduced to a syrup/glaze"
+        },
+        {
+          "label": "C",
+          "text": "They are pale"
+        },
+        {
+          "label": "D",
+          "text": "They are dry"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 7,
+      "sourcePage": 2
+    },
+    {
+      "id": 293,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "Blanching and shocking (ice bath) accomplishes all EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Setting color"
+        },
+        {
+          "label": "B",
+          "text": "Killing all spores (it does NOT sterilize — only reduces enzymes)"
+        },
+        {
+          "label": "C",
+          "text": "Loosening skins"
+        },
+        {
+          "label": "D",
+          "text": "Cleaning surface"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 8,
+      "sourcePage": 2
+    },
+    {
+      "id": 294,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "Frozen vegetables are typically blanched before freezing primarily to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Add flavor"
+        },
+        {
+          "label": "B",
+          "text": "Inactivate enzymes that cause deterioration during storage"
+        },
+        {
+          "label": "C",
+          "text": "Freeze faster"
+        },
+        {
+          "label": "D",
+          "text": "Add color"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 9,
+      "sourcePage": 3
+    },
+    {
+      "id": 295,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "Dried vegetables (like dried mushrooms or tomatoes) should be rehydrated by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiling rapidly"
+        },
+        {
+          "label": "B",
+          "text": "Soaking in warm/room-temperature liquid (often the cooking liquid)"
+        },
+        {
+          "label": "C",
+          "text": "Frying"
+        },
+        {
+          "label": "D",
+          "text": "Roasting"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 10,
+      "sourcePage": 3
+    },
+    {
+      "id": 296,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "When using canned vegetables, the liquid (brine) should usually be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Used as is (too salty)"
+        },
+        {
+          "label": "B",
+          "text": "Drained and rinsed, or adjusted for seasoning"
+        },
+        {
+          "label": "C",
+          "text": "Thrown away immediately without tasting"
+        },
+        {
+          "label": "D",
+          "text": "Reduced heavily"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 11,
+      "sourcePage": 3
+    },
+    {
+      "id": 297,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "The term à l'anglaise (English style) for boiling vegetables means:",
+      "options": [
+        {
+          "label": "A",
+          "text": "In butter"
+        },
+        {
+          "label": "B",
+          "text": "In plenty of rapidly boiling, salted water, served plain or with butter"
+        },
+        {
+          "label": "C",
+          "text": "In cream"
+        },
+        {
+          "label": "D",
+          "text": "In broth"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 12,
+      "sourcePage": 3
+    },
+    {
+      "id": 298,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "À la crème refers to vegetables cooked/served with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Oil"
+        },
+        {
+          "label": "B",
+          "text": "Béchamel or heavy cream sauce"
+        },
+        {
+          "label": "C",
+          "text": "Vinegar"
+        },
+        {
+          "label": "D",
+          "text": "Tomato sauce"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 13,
+      "sourcePage": 3
+    },
+    {
+      "id": 299,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "When sautéing hard vegetables (carrots, celery) alongside soft ones (zucchini, peppers):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Add all together"
+        },
+        {
+          "label": "B",
+          "text": "Add hard vegetables first (or cut them smaller/thinner) to ensure even doneness"
+        },
+        {
+          "label": "C",
+          "text": "Add soft first"
+        },
+        {
+          "label": "D",
+          "text": "Do not mix"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 14,
+      "sourcePage": 3
+    },
+    {
+      "id": 300,
+      "chapterId": "part2-veg",
+      "subtopic": "Advanced Vegetable Preparation & Preservation",
+      "question": "Roasting vegetables at high heat (400–425 °F / 200–220 °C) enhances flavor through:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Steaming"
+        },
+        {
+          "label": "B",
+          "text": "Caramelization of natural sugars and Maillard browning"
+        },
+        {
+          "label": "C",
+          "text": "Boiling"
+        },
+        {
+          "label": "D",
+          "text": "Fermentation"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 15,
+      "sourcePage": 3
+    },
+    {
+      "id": 301,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Botanically, the potato is classified as a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Root"
+        },
+        {
+          "label": "B",
+          "text": "Tuber (modified underground stem)"
+        },
+        {
+          "label": "C",
+          "text": "Bulb"
+        },
+        {
+          "label": "D",
+          "text": "Rhizome"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 16,
+      "sourcePage": 4
+    },
+    {
+      "id": 302,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "The two main culinary classifications of potatoes are based on:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Color"
+        },
+        {
+          "label": "B",
+          "text": "Starch content: high-starch (floury) vs. low-starch (waxy)"
+        },
+        {
+          "label": "C",
+          "text": "Size"
+        },
+        {
+          "label": "D",
+          "text": "Country of origin"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 17,
+      "sourcePage": 4
+    },
+    {
+      "id": 303,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "High-starch/floury potatoes (e.g., Russet/Burbank, Idaho) are characterized by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Waxy texture"
+        },
+        {
+          "label": "B",
+          "text": "Dry, fluffy texture when cooked; low sugar content; skin separates easily"
+        },
+        {
+          "label": "C",
+          "text": "Firm, moist, holds shape"
+        },
+        {
+          "label": "D",
+          "text": "Very sweet"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 18,
+      "sourcePage": 4
+    },
+    {
+      "id": 304,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Low-starch/waxy potatoes (e.g., red, new, fingerling, Yukon Gold) have:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluffy texture"
+        },
+        {
+          "label": "B",
+          "text": "Higher moisture and sugar; firm, waxy texture; holds shape well"
+        },
+        {
+          "label": "C",
+          "text": "Dry, mealy"
+        },
+        {
+          "label": "D",
+          "text": "No starch"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 19,
+      "sourcePage": 4
+    },
+    {
+      "id": 305,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "All-purpose potatoes (medium starch) are best suited for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only mashing"
+        },
+        {
+          "label": "B",
+          "text": "Most general cooking (boiling, roasting, pan-frying, soups)"
+        },
+        {
+          "label": "C",
+          "text": "Only frying"
+        },
+        {
+          "label": "D",
+          "text": "Only salads"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 20,
+      "sourcePage": 4
+    },
+    {
+      "id": 306,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "For mashed potatoes (purée), the best choice is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Waxy"
+        },
+        {
+          "label": "B",
+          "text": "High-starch/floury (Russet) — yields light, fluffy texture"
+        },
+        {
+          "label": "C",
+          "text": "Only red"
+        },
+        {
+          "label": "D",
+          "text": "Sweet potato"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 21,
+      "sourcePage": 4
+    },
+    {
+      "id": 307,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "For potato salads where you want slices to hold shape, use:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Floury"
+        },
+        {
+          "label": "B",
+          "text": "Waxy (red, new) or all-purpose"
+        },
+        {
+          "label": "C",
+          "text": "Only baking potatoes"
+        },
+        {
+          "label": "D",
+          "text": "Sweet potatoes"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 22,
+      "sourcePage": 4
+    },
+    {
+      "id": 308,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "To test whether a potato is floury or waxy, you can perform a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Taste test"
+        },
+        {
+          "label": "B",
+          "text": "Specific gravity test (float in brine — high-starch sinks more)"
+        },
+        {
+          "label": "C",
+          "text": "Color test"
+        },
+        {
+          "label": "D",
+          "text": "Smell test"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 23,
+      "sourcePage": 4
+    },
+    {
+      "id": 309,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Green discoloration on potatoes indicates the presence of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chlorophyll (harmless alone)"
+        },
+        {
+          "label": "B",
+          "text": "Solanine — a toxic glycoalkaloid (must be peeled/cut away deeply)"
+        },
+        {
+          "label": "C",
+          "text": "Mold"
+        },
+        {
+          "label": "D",
+          "text": "Iron oxidation"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 24,
+      "sourcePage": 4
+    },
+    {
+      "id": 310,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Solanine poisoning from potatoes causes symptoms including:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Happiness"
+        },
+        {
+          "label": "B",
+          "text": "Nausea, headache, and neurological issues (avoid eating green parts/sprouts)"
+        },
+        {
+          "label": "C",
+          "text": "Energy boost"
+        },
+        {
+          "label": "D",
+          "text": "Vitamin C overdose"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 25,
+      "sourcePage": 5
+    },
+    {
+      "id": 311,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Black spots inside potatoes are caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron"
+        },
+        {
+          "label": "B",
+          "text": "Bruising/damage (oxidation) or disease — should be cut out"
+        },
+        {
+          "label": "C",
+          "text": "Cooking too fast"
+        },
+        {
+          "label": "D",
+          "text": "Undercooking"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 26,
+      "sourcePage": 5
+    },
+    {
+      "id": 312,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Potatoes should be stored:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Refrigerated (cold converts starch to sugar = bad texture/sweetness)"
+        },
+        {
+          "label": "B",
+          "text": "Cool (45–50 °F / 7–10 °C), dark, dry, ventilated, away from onions"
+        },
+        {
+          "label": "C",
+          "text": "Warm"
+        },
+        {
+          "label": "D",
+          "text": "In sunlight"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 27,
+      "sourcePage": 5
+    },
+    {
+      "id": 313,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Refrigerating raw potatoes for long periods causes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Faster cooking"
+        },
+        {
+          "label": "B",
+          "text": "Starch-to-sugar conversion (makes them sweet and dark when fried)"
+        },
+        {
+          "label": "C",
+          "text": "Sprouting inhibition"
+        },
+        {
+          "label": "D",
+          "text": "Softening"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 28,
+      "sourcePage": 5
+    },
+    {
+      "id": 314,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Peeling potatoes should be done:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Long before cooking"
+        },
+        {
+          "label": "B",
+          "text": "As close to cooking as possible to prevent discoloration/waste"
+        },
+        {
+          "label": "C",
+          "text": "After boiling"
+        },
+        {
+          "label": "D",
+          "text": "Never"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 29,
+      "sourcePage": 5
+    },
+    {
+      "id": 315,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Cut potatoes turn gray/brown due to enzymatic browning (tyrosinase); to prevent this, hold cut potatoes in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hot water"
+        },
+        {
+          "label": "B",
+          "text": "Cold water (submerged to exclude air) or acidulated water"
+        },
+        {
+          "label": "C",
+          "text": "Oil"
+        },
+        {
+          "label": "D",
+          "text": "Open air"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 30,
+      "sourcePage": 5
+    },
+    {
+      "id": 316,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Soaking cut potatoes in water:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adds nutrients"
+        },
+        {
+          "label": "B",
+          "text": "Leaches some water-soluble vitamins (vitamin C) but prevents browning"
+        },
+        {
+          "label": "C",
+          "text": "Adds starch"
+        },
+        {
+          "label": "D",
+          "text": "Is never necessary"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 31,
+      "sourcePage": 5
+    },
+    {
+      "id": 317,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "When boiling potatoes, start them in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cold water (allows even heating through to center before exterior overcooks)"
+        },
+        {
+          "label": "B",
+          "text": "Rapidly boiling water"
+        },
+        {
+          "label": "C",
+          "text": "Oil"
+        },
+        {
+          "label": "D",
+          "text": "Steam"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 32,
+      "sourcePage": 5
+    },
+    {
+      "id": 318,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Starting potatoes in cold water vs. boiling water affects:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Color only"
+        },
+        {
+          "label": "B",
+          "text": "Evenness of cooking (cold start = more even; hot start = may be uneven/outside mushy)"
+        },
+        {
+          "label": "C",
+          "text": "Flavor"
+        },
+        {
+          "label": "D",
+          "text": "Nutritional value only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 33,
+      "sourcePage": 6
+    },
+    {
+      "id": 319,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Potatoes are done boiling when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "They float"
+        },
+        {
+          "label": "B",
+          "text": "A paring knife or skewer slips through with little resistance (tender throughout)"
+        },
+        {
+          "label": "C",
+          "text": "They burst"
+        },
+        {
+          "label": "D",
+          "text": "Water turns cloudy"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 34,
+      "sourcePage": 6
+    },
+    {
+      "id": 320,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Over-boiled potatoes become:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Firm"
+        },
+        {
+          "label": "B",
+          "text": "Waterlogged, watery, and may disintegrate"
+        },
+        {
+          "label": "C",
+          "text": "Better for frying"
+        },
+        {
+          "label": "D",
+          "text": "Sweeter"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 35,
+      "sourcePage": 6
+    },
+    {
+      "id": 321,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Steaming potatoes versus boiling results in:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Soggy potatoes"
+        },
+        {
+          "label": "B",
+          "text": "Less nutrient loss, better texture/flavor (not waterlogged)"
+        },
+        {
+          "label": "C",
+          "text": "Faster cooking always"
+        },
+        {
+          "label": "D",
+          "text": "Darker color"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 36,
+      "sourcePage": 6
+    },
+    {
+      "id": 322,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "For potato purée (mashed), potatoes are best:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiled, cooled, then mashed"
+        },
+        {
+          "label": "B",
+          "text": "Boiled hot, dried off briefly over heat to evaporate moisture, then riced/mashed"
+        },
+        {
+          "label": "C",
+          "text": "Fried"
+        },
+        {
+          "label": "D",
+          "text": "Raw"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 37,
+      "sourcePage": 6
+    },
+    {
+      "id": 323,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Ricing potatoes (using a potato ricer) creates a smoother purée because it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adds air"
+        },
+        {
+          "label": "B",
+          "text": "Breaks down lumps uniformly without overworking (avoids gummy, sticky texture)"
+        },
+        {
+          "label": "C",
+          "text": "Removes fiber"
+        },
+        {
+          "label": "D",
+          "text": "Adds fat"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 38,
+      "sourcePage": 6
+    },
+    {
+      "id": 324,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Classic French potato purée (Pommes Purée) contains roughly:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only potatoes"
+        },
+        {
+          "label": "B",
+          "text": "Approximately 1 part butter to 4 parts potato (by weight), plus hot milk/cream"
+        },
+        {
+          "label": "C",
+          "text": "Equal butter and potato"
+        },
+        {
+          "label": "D",
+          "text": "No fat"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 39,
+      "sourcePage": 6
+    },
+    {
+      "id": 325,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Pommes Duchesse is made by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiling and mashing"
+        },
+        {
+          "label": "B",
+          "text": "Mixing potato purée with egg yolks and butter, then piping into shapes and baking/browning"
+        },
+        {
+          "label": "C",
+          "text": "Frying"
+        },
+        {
+          "label": "D",
+          "text": "Grilling"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 40,
+      "sourcePage": 6
+    },
+    {
+      "id": 326,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Pommes Duchesse piped shapes are usually finished by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Steaming"
+        },
+        {
+          "label": "B",
+          "text": "Baking/gilding in oven until golden brown"
+        },
+        {
+          "label": "C",
+          "text": "Boiling"
+        },
+        {
+          "label": "D",
+          "text": "Deep-frying"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 41,
+      "sourcePage": 6
+    },
+    {
+      "id": 327,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Baked potatoes should have skins:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scrubbed, oiled/salted (optional), pricked to allow steam escape"
+        },
+        {
+          "label": "B",
+          "text": "Peeled"
+        },
+        {
+          "label": "C",
+          "text": "Wrapped tightly in foil (steams instead of bakes)"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 42,
+      "sourcePage": 7
+    },
+    {
+      "id": 328,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Pricking baked potatoes before baking prevents:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Drying out"
+        },
+        {
+          "label": "B",
+          "text": "Bursting from internal steam pressure"
+        },
+        {
+          "label": "C",
+          "text": "Browning"
+        },
+        {
+          "label": "D",
+          "text": "Seasoning absorption"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 43,
+      "sourcePage": 7
+    },
+    {
+      "id": 329,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Ideal baking temperature for potatoes is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "300 °F"
+        },
+        {
+          "label": "B",
+          "text": "400–425 °F (200–220 °C) until tender (45 min – 1 hr)"
+        },
+        {
+          "label": "C",
+          "text": "500 °F"
+        },
+        {
+          "label": "D",
+          "text": "200 °F"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 44,
+      "sourcePage": 7
+    },
+    {
+      "id": 330,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "To test a baked potato for doneness, it should yield to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Gentle squeeze (soft throughout)"
+        },
+        {
+          "label": "B",
+          "text": "Hard touch"
+        },
+        {
+          "label": "C",
+          "text": "Knife slip (squeeze is the traditional test)"
+        },
+        {
+          "label": "D",
+          "text": "Color change"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 45,
+      "sourcePage": 7
+    },
+    {
+      "id": 331,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Roasted potatoes differ from baked in that they are usually:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Whole and unpeeled"
+        },
+        {
+          "label": "B",
+          "text": "Cut into pieces, often tossed with fat/herbs, high heat for browning"
+        },
+        {
+          "label": "C",
+          "text": "Boiled first"
+        },
+        {
+          "label": "D",
+          "text": "Wrapped"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 46,
+      "sourcePage": 7
+    },
+    {
+      "id": 332,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "For crispy roasted potatoes, the key technique is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiling thoroughly first"
+        },
+        {
+          "label": "B",
+          "text": "Parboiling/blanching briefly, then roughing up the surface (fluffing edges), roasting in hot fat"
+        },
+        {
+          "label": "C",
+          "text": "Using no oil"
+        },
+        {
+          "label": "D",
+          "text": "Low temperature"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 47,
+      "sourcePage": 7
+    },
+    {
+      "id": 333,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Sautéed potatoes (Pommes Sautées) are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Deep-fried"
+        },
+        {
+          "label": "B",
+          "text": "Pan-fried in a moderate amount of fat until golden and tender, often finished with herbs"
+        },
+        {
+          "label": "C",
+          "text": "Boiled"
+        },
+        {
+          "label": "D",
+          "text": "Raw"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 48,
+      "sourcePage": 7
+    },
+    {
+      "id": 334,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Pommes Lyonnaise (Lyon-style potatoes) are sautéed with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cream"
+        },
+        {
+          "label": "B",
+          "text": "Onions and parsley (sometimes finished in oven)"
+        },
+        {
+          "label": "C",
+          "text": "Bacon only"
+        },
+        {
+          "label": "D",
+          "text": "Cheese"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 49,
+      "sourcePage": 7
+    },
+    {
+      "id": 335,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "When pan-frying/sautéing raw potatoes, do NOT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use enough fat"
+        },
+        {
+          "label": "B",
+          "text": "Crowd the pan (lowers temperature = steaming instead of browning)"
+        },
+        {
+          "label": "C",
+          "text": "Use medium-high heat"
+        },
+        {
+          "label": "D",
+          "text": "Season"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 50,
+      "sourcePage": 7
+    },
+    {
+      "id": 336,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Hash browns / shredded pan-fried potatoes require:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiling first"
+        },
+        {
+          "label": "B",
+          "text": "Raw shredded potatoes, squeezed dry of excess moisture, pressed flat in hot fat"
+        },
+        {
+          "label": "C",
+          "text": "Mashing"
+        },
+        {
+          "label": "D",
+          "text": "Baking"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 51,
+      "sourcePage": 8
+    },
+    {
+      "id": 337,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "French fries (Pommes Frites) are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiled"
+        },
+        {
+          "label": "B",
+          "text": "Deep-fried in fat (usually twice — once to cook/blanch, second to crisp/brown)"
+        },
+        {
+          "label": "C",
+          "text": "Baked"
+        },
+        {
+          "label": "D",
+          "text": "Sautéed"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 52,
+      "sourcePage": 8
+    },
+    {
+      "id": 338,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "The double-frying method for french fries:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Takes longer unnecessarily"
+        },
+        {
+          "label": "B",
+          "text": "First fry at lower temperature (325–350 °F) to cook through; second fry at higher (375 °F) to crisp and brown"
+        },
+        {
+          "label": "C",
+          "text": "Fries once only"
+        },
+        {
+          "label": "D",
+          "text": "Uses oil then butter"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 53,
+      "sourcePage": 8
+    },
+    {
+      "id": 339,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Before frying, cut potatoes should be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dried thoroughly"
+        },
+        {
+          "label": "B",
+          "text": "Rinsed of excess surface starch AND patted very dry (prevents splattering, ensures crispness)"
+        },
+        {
+          "label": "C",
+          "text": "Soaked in water until fried"
+        },
+        {
+          "label": "D",
+          "text": "Sugared"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 54,
+      "sourcePage": 8
+    },
+    {
+      "id": 340,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Oil temperature for frying potatoes should typically be maintained around:",
+      "options": [
+        {
+          "label": "A",
+          "text": "250 °F"
+        },
+        {
+          "label": "B",
+          "text": "325–375 °F (165–190 °C) — too cool = greasy, too hot = burns outside/raw inside"
+        },
+        {
+          "label": "C",
+          "text": "500 °F"
+        },
+        {
+          "label": "D",
+          "text": "212 °F"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 55,
+      "sourcePage": 8
+    },
+    {
+      "id": 341,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Pommes Soufflées (puffed potatoes) achieve their hollow, puffed interior through:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baking"
+        },
+        {
+          "label": "B",
+          "text": "Double-frying at different temperatures causing steam puffing"
+        },
+        {
+          "label": "C",
+          "text": "Whipping air in"
+        },
+        {
+          "label": "D",
+          "text": "Yeast"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 56,
+      "sourcePage": 8
+    },
+    {
+      "id": 342,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Pommes Paillasson (hash brown cake / Rösti style) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mashed"
+        },
+        {
+          "label": "B",
+          "text": "Shredded raw potato formed into a cake, pressed, and pan-fried/browned on both sides"
+        },
+        {
+          "label": "C",
+          "text": "Boiled"
+        },
+        {
+          "label": "D",
+          "text": "Souffléed"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 57,
+      "sourcePage": 8
+    },
+    {
+      "id": 343,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "A gratin is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A soup"
+        },
+        {
+          "label": "B",
+          "text": "A dish topped with breadcrumbs, cheese, and/or butter, browned under a salamander/broiler/gratin oven"
+        },
+        {
+          "label": "C",
+          "text": "A salad"
+        },
+        {
+          "label": "D",
+          "text": "A sauce"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 58,
+      "sourcePage": 8
+    },
+    {
+      "id": 344,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Gratin Dauphinois is a classic French dish of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thinly sliced raw potatoes baked in cream/garlic/seasonings (often no egg) with cheese crust"
+        },
+        {
+          "label": "B",
+          "text": "Mashed potatoes with ham"
+        },
+        {
+          "label": "C",
+          "text": "Fried potatoes"
+        },
+        {
+          "label": "D",
+          "text": "Boiled potatoes"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 59,
+      "sourcePage": 9
+    },
+    {
+      "id": 345,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Key to preventing Gratin Dauphinois from curdling/separating:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High heat"
+        },
+        {
+          "label": "B",
+          "text": "Gentle baking, not boiling the cream excessively; some flour coating on potatoes helps stabilize"
+        },
+        {
+          "label": "C",
+          "text": "No cream"
+        },
+        {
+          "label": "D",
+          "text": "No cheese"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 60,
+      "sourcePage": 9
+    },
+    {
+      "id": 346,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Boulangère potatoes are baked with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cream"
+        },
+        {
+          "label": "B",
+          "text": "Onions and stock/broth (no cream), sometimes with lamb drippings"
+        },
+        {
+          "label": "C",
+          "text": "Cheese only"
+        },
+        {
+          "label": "D",
+          "text": "Sugar"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 61,
+      "sourcePage": 9
+    },
+    {
+      "id": 347,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Anna potatoes (Pommes Anna) are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mashed"
+        },
+        {
+          "label": "B",
+          "text": "Very thinly sliced potatoes arranged in layers in a special pan with butter, cooked until crisp/golden (turned out like a cake)"
+        },
+        {
+          "label": "C",
+          "text": "Shredded"
+        },
+        {
+          "label": "D",
+          "text": "Boiled G. Other Preparations"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 62,
+      "sourcePage": 9
+    },
+    {
+      "id": 348,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Potato croquettes are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Baked"
+        },
+        {
+          "label": "B",
+          "text": "Breaded and deep-fried balls of potato purée (often mixed with egg/binder)"
+        },
+        {
+          "label": "C",
+          "text": "Boiled"
+        },
+        {
+          "label": "D",
+          "text": "Raw"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 63,
+      "sourcePage": 9
+    },
+    {
+      "id": 349,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "Stuffed potatoes (baked jackets) should have the flesh scooped out while:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cold"
+        },
+        {
+          "label": "B",
+          "text": "Hot"
+        },
+        {
+          "label": "C",
+          "text": "Frozen"
+        },
+        {
+          "label": "D",
+          "text": "Raw, mixed with other ingredients, then returned to shell to bake again"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 64,
+      "sourcePage": 9
+    },
+    {
+      "id": 350,
+      "chapterId": "part2-potatoes",
+      "subtopic": "Potatoes & Potato Products",
+      "question": "When making hash (corned beef hash, etc.), the potatoes should be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raw"
+        },
+        {
+          "label": "B",
+          "text": "Cooked (boiled/baked) previously, then diced and pan-fried"
+        },
+        {
+          "label": "C",
+          "text": "Pureed"
+        },
+        {
+          "label": "D",
+          "text": "Fried only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 65,
+      "sourcePage": 9
+    },
+    {
+      "id": 351,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "By US legal standard, butter must contain at least:",
+      "options": [
+        {
+          "label": "A",
+          "text": "60% fat"
+        },
+        {
+          "label": "B",
+          "text": "80% milkfat"
+        },
+        {
+          "label": "C",
+          "text": "90% fat"
+        },
+        {
+          "label": "D",
+          "text": "70% fat"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 66,
+      "sourcePage": 10
+    },
+    {
+      "id": 352,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "The remaining approximate composition of butter (besides the ~80% fat) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Protein and sugar"
+        },
+        {
+          "label": "B",
+          "text": "16–18% water and 2–4% milk solids (nonfat solids)"
+        },
+        {
+          "label": "C",
+          "text": "Air"
+        },
+        {
+          "label": "D",
+          "text": "Salt"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 67,
+      "sourcePage": 10
+    },
+    {
+      "id": 353,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Sweet cream butter is made from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sour cream"
+        },
+        {
+          "label": "B",
+          "text": "Fresh/sweet pasteurized cream"
+        },
+        {
+          "label": "C",
+          "text": "Cultured/fermented cream only"
+        },
+        {
+          "label": "D",
+          "text": "Skim milk"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 68,
+      "sourcePage": 10
+    },
+    {
+      "id": 354,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Cultured butter is made from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fresh cream"
+        },
+        {
+          "label": "B",
+          "text": "Cream that has been fermented with lactic acid bacteria (adds tangy flavor)"
+        },
+        {
+          "label": "C",
+          "text": "Skim milk"
+        },
+        {
+          "label": "D",
+          "text": "Whey"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 69,
+      "sourcePage": 10
+    },
+    {
+      "id": 355,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Salted butter typically contains about:",
+      "options": [
+        {
+          "label": "A",
+          "text": "0% salt"
+        },
+        {
+          "label": "B",
+          "text": "1.5–2% salt (by weight) — acts as preservative and flavor"
+        },
+        {
+          "label": "C",
+          "text": "10% salt"
+        },
+        {
+          "label": "D",
+          "text": "20% salt"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 70,
+      "sourcePage": 10
+    },
+    {
+      "id": 356,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Unsalted (sweet) butter is preferred for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Spreading only"
+        },
+        {
+          "label": "B",
+          "text": "Cooking and baking — allows control over salt content; fresher taste"
+        },
+        {
+          "label": "C",
+          "text": "Table use only"
+        },
+        {
+          "label": "D",
+          "text": "Sauces only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 71,
+      "sourcePage": 10
+    },
+    {
+      "id": 357,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Whipped butter has:",
+      "options": [
+        {
+          "label": "A",
+          "text": "More fat"
+        },
+        {
+          "label": "B",
+          "text": "Air or nitrogen whipped in — spreadable when cold, less fat per volume"
+        },
+        {
+          "label": "C",
+          "text": "Less water"
+        },
+        {
+          "label": "D",
+          "text": "Added sugar"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 72,
+      "sourcePage": 10
+    },
+    {
+      "id": 358,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Clarified butter (beurre clarifié / ghee) is made by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Freezing butter"
+        },
+        {
+          "label": "B",
+          "text": "Melting butter and separating the milk solids from the pure butterfat"
+        },
+        {
+          "label": "C",
+          "text": "Churning"
+        },
+        {
+          "label": "D",
+          "text": "Salting"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 73,
+      "sourcePage": 10
+    },
+    {
+      "id": 359,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "The primary advantage of clarified butter for cooking is its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Lower cost"
+        },
+        {
+          "label": "B",
+          "text": "Higher smoke point (~450 °F / 232 °C vs. ~250 °F / 121 °C for regular butter) — doesn't burn as easily"
+        },
+        {
+          "label": "C",
+          "text": "Lower calories"
+        },
+        {
+          "label": "D",
+          "text": "Sweeter taste"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 74,
+      "sourcePage": 11
+    },
+    {
+      "id": 360,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Clarified butter also has the advantage of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Being cheaper"
+        },
+        {
+          "label": "B",
+          "text": "Longer shelf life (removal of milk solids prevents spoilage/rancidity)"
+        },
+        {
+          "label": "C",
+          "text": "More flavor"
+        },
+        {
+          "label": "D",
+          "text": "Being vegan"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 75,
+      "sourcePage": 11
+    },
+    {
+      "id": 361,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Beurre noisette (brown/nutty butter) is made by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Melting gently"
+        },
+        {
+          "label": "B",
+          "text": "Heating butter until the milk solids turn golden brown and smell nutty/toasty"
+        },
+        {
+          "label": "C",
+          "text": "Burning it black"
+        },
+        {
+          "label": "D",
+          "text": "Freezing it"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 76,
+      "sourcePage": 11
+    },
+    {
+      "id": 362,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Beurre noir (black butter) is made by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Light browning"
+        },
+        {
+          "label": "B",
+          "text": "Heating butter further than noisette until the solids are very dark brown/almost black (often finished with vinegar/capers)"
+        },
+        {
+          "label": "C",
+          "text": "Clarifying"
+        },
+        {
+          "label": "D",
+          "text": "Churning"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 77,
+      "sourcePage": 11
+    },
+    {
+      "id": 363,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Compound butters (flavored butters like maître d'hôtel, garlic herb) are made by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Heating"
+        },
+        {
+          "label": "B",
+          "text": "Softening butter and mixing in flavorings (herbs, spices, wine, shallots), then rolling/chilling"
+        },
+        {
+          "label": "C",
+          "text": "Clarifying"
+        },
+        {
+          "label": "D",
+          "text": "Browning"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 78,
+      "sourcePage": 11
+    },
+    {
+      "id": 364,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Beurre monté is an emulsion technique where:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Butter is melted separately"
+        },
+        {
+          "label": "B",
+          "text": "Small cubes of cold butter are whisked into a small amount of warm liquid to create a stable, creamy emulsion"
+        },
+        {
+          "label": "C",
+          "text": "Butter is fried"
+        },
+        {
+          "label": "D",
+          "text": "Butter is frozen"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 79,
+      "sourcePage": 11
+    },
+    {
+      "id": 365,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "When making clarified butter, if the milk solids burn/turn black during separation:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It improves flavor"
+        },
+        {
+          "label": "B",
+          "text": "The clarified fat may taste bitter; strain carefully or start over"
+        },
+        {
+          "label": "C",
+          "text": "It becomes healthier"
+        },
+        {
+          "label": "D",
+          "text": "It thickens better"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 80,
+      "sourcePage": 11
+    },
+    {
+      "id": 366,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Heavy cream (heavy whipping cream) must contain:",
+      "options": [
+        {
+          "label": "A",
+          "text": "18% fat"
+        },
+        {
+          "label": "B",
+          "text": "At least 36% milkfat (30–36% in some regions for \"whipping\")"
+        },
+        {
+          "label": "C",
+          "text": "10%"
+        },
+        {
+          "label": "D",
+          "text": "48%"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 81,
+      "sourcePage": 11
+    },
+    {
+      "id": 367,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Light cream (coffee cream) contains approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "36% fat"
+        },
+        {
+          "label": "B",
+          "text": "18–30% milkfat"
+        },
+        {
+          "label": "C",
+          "text": "10%"
+        },
+        {
+          "label": "D",
+          "text": "40%"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 82,
+      "sourcePage": 11
+    },
+    {
+      "id": 368,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Half-and-half is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Equal cream and milk"
+        },
+        {
+          "label": "B",
+          "text": "A mixture of milk and cream containing 10.5–12% fat"
+        },
+        {
+          "label": "C",
+          "text": "All milk"
+        },
+        {
+          "label": "D",
+          "text": "All cream"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 83,
+      "sourcePage": 12
+    },
+    {
+      "id": 369,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Sour cream is produced by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adding acid directly"
+        },
+        {
+          "label": "B",
+          "text": "Bacterial fermentation (lactic acid) of pasteurized light cream"
+        },
+        {
+          "label": "C",
+          "text": "Churning butter"
+        },
+        {
+          "label": "D",
+          "text": "Skimming milk"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 84,
+      "sourcePage": 12
+    },
+    {
+      "id": 370,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Crème fraîche differs from sour cream because it has:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less fat"
+        },
+        {
+          "label": "B",
+          "text": "Higher fat content (30–40%), milder tang, and is heat stable (won't curdle easily in hot sauces)"
+        },
+        {
+          "label": "C",
+          "text": "More acidity"
+        },
+        {
+          "label": "D",
+          "text": "Lower calories"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 85,
+      "sourcePage": 12
+    },
+    {
+      "id": 371,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Clotted cream (Devon/Cornish cream) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Whipped"
+        },
+        {
+          "label": "B",
+          "text": "Heated cream that forms a thick, yellowish layer of clotted fat on top — very high fat (~55%+)"
+        },
+        {
+          "label": "C",
+          "text": "Fermented"
+        },
+        {
+          "label": "D",
+          "text": "Churned"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 86,
+      "sourcePage": 12
+    },
+    {
+      "id": 372,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "When heating cream or milk for sauces, scorching on the bottom can be prevented by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "High heat"
+        },
+        {
+          "label": "B",
+          "text": "Using a heavy-bottomed pan, stirring frequently, and not leaving it unattended"
+        },
+        {
+          "label": "C",
+          "text": "Adding sugar first"
+        },
+        {
+          "label": "D",
+          "text": "Using aluminum pans"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 87,
+      "sourcePage": 12
+    },
+    {
+      "id": 373,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "If a dairy sauce breaks/curdles (separates):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Throw away immediately"
+        },
+        {
+          "label": "B",
+          "text": "Can sometimes be rescued by adding a small amount of cold liquid or an ice cube and whisking vigorously off heat, or blending"
+        },
+        {
+          "label": "C",
+          "text": "Keep boiling"
+        },
+        {
+          "label": "D",
+          "text": "Add salt"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 88,
+      "sourcePage": 12
+    },
+    {
+      "id": 374,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "An egg grade (AA, A, B) refers to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Size"
+        },
+        {
+          "label": "B",
+          "text": "Interior quality (air cell size, white firmness, yolk prominence) and shell condition"
+        },
+        {
+          "label": "C",
+          "text": "Weight only"
+        },
+        {
+          "label": "D",
+          "text": "Color"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 89,
+      "sourcePage": 12
+    },
+    {
+      "id": 375,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Egg sizes (Small, Medium, Large, XL, Jumbo) refer to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shell thickness"
+        },
+        {
+          "label": "B",
+          "text": "Minimum weight per dozen (Large = approx. 24 oz / 680 g per dozen)"
+        },
+        {
+          "label": "C",
+          "text": "Yolk size"
+        },
+        {
+          "label": "D",
+          "text": "Age"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 90,
+      "sourcePage": 12
+    },
+    {
+      "id": 376,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "The white (albumen) begins to coagulate (set) at approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "180 °F"
+        },
+        {
+          "label": "B",
+          "text": "140–149 °F (60–65 °C)"
+        },
+        {
+          "label": "C",
+          "text": "212 °F"
+        },
+        {
+          "label": "D",
+          "text": "100 °F"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 91,
+      "sourcePage": 13
+    },
+    {
+      "id": 377,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "The yolk begins to thicken/coagulate at approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "130 °F"
+        },
+        {
+          "label": "B",
+          "text": "144–158 °F (62–70 °C)"
+        },
+        {
+          "label": "C",
+          "text": "180 °F"
+        },
+        {
+          "label": "D",
+          "text": "200 °F"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 92,
+      "sourcePage": 13
+    },
+    {
+      "id": 378,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "A soft-cooked egg (soft white, runny yolk) is achieved by cooking:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 minute"
+        },
+        {
+          "label": "B",
+          "text": "Approximately 4–6 minutes in simmering water (depending on size/temperature)"
+        },
+        {
+          "label": "C",
+          "text": "15 seconds"
+        },
+        {
+          "label": "D",
+          "text": "20 minutes"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 93,
+      "sourcePage": 13
+    },
+    {
+      "id": 379,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "A hard-cooked egg (fully set yolk and white) requires:",
+      "options": [
+        {
+          "label": "A",
+          "text": "3 minutes"
+        },
+        {
+          "label": "B",
+          "text": "Approximately 10–13 minutes in simmering water (then shocked in ice to stop cooking and prevent green ring)"
+        },
+        {
+          "label": "C",
+          "text": "1 hour"
+        },
+        {
+          "label": "D",
+          "text": "30 seconds"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 94,
+      "sourcePage": 13
+    },
+    {
+      "id": 380,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "The gray-green ring around a hard-cooked yolk is caused by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Iron from the yolk"
+        },
+        {
+          "label": "B",
+          "text": "Reaction between iron in the yolk and sulfur in the white (overcooking/high heat)"
+        },
+        {
+          "label": "C",
+          "text": "Copper pans"
+        },
+        {
+          "label": "D",
+          "text": "Oxidation outside"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 95,
+      "sourcePage": 13
+    },
+    {
+      "id": 381,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "To prevent the green ring on hard-cooked eggs:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cook longer"
+        },
+        {
+          "label": "B",
+          "text": "Don't overcook; shock immediately in ice water after cooking"
+        },
+        {
+          "label": "C",
+          "text": "Add baking soda"
+        },
+        {
+          "label": "D",
+          "text": "Use old eggs"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 96,
+      "sourcePage": 13
+    },
+    {
+      "id": 382,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Poached eggs should be cooked in water at:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rolling boil"
+        },
+        {
+          "label": "B",
+          "text": "Gentle simmer (160–180 °F / 71–82 °C) — vigorous boiling breaks the white apart"
+        },
+        {
+          "label": "C",
+          "text": "Cold water"
+        },
+        {
+          "label": "D",
+          "text": "Oil"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 97,
+      "sourcePage": 13
+    },
+    {
+      "id": 383,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "Adding vinegar/lemon juice to poaching water helps:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flavor"
+        },
+        {
+          "label": "B",
+          "text": "Coagulate the white quickly, keeping it neat and compact"
+        },
+        {
+          "label": "C",
+          "text": "Prevent sticking"
+        },
+        {
+          "label": "D",
+          "text": "Add nutrition"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 98,
+      "sourcePage": 13
+    },
+    {
+      "id": 384,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "When frying eggs (sunny-side up), the white sets faster than the yolk due to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fat content"
+        },
+        {
+          "label": "B",
+          "text": "Lower coagulation temperature and higher protein/albumen content"
+        },
+        {
+          "label": "C",
+          "text": "Size"
+        },
+        {
+          "label": "D",
+          "text": "Position in pan"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 99,
+      "sourcePage": 13
+    },
+    {
+      "id": 385,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "An omelet is technically defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scrambled eggs"
+        },
+        {
+          "label": "B",
+          "text": "Beaten eggs cooked without stirring until set, often folded around a filling"
+        },
+        {
+          "label": "C",
+          "text": "Poached eggs"
+        },
+        {
+          "label": "D",
+          "text": "Boiled eggs"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 100,
+      "sourcePage": 13
+    },
+    {
+      "id": 386,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "A French omelet is cooked:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Until brown"
+        },
+        {
+          "label": "B",
+          "text": "Quickly over high heat, creamy/loose interior (baveuse), pale color, no browning"
+        },
+        {
+          "label": "C",
+          "text": "Slowly until crisp"
+        },
+        {
+          "label": "D",
+          "text": "Boiled"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 101,
+      "sourcePage": 14
+    },
+    {
+      "id": 387,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "An American-style omelet differs from French because it is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Smaller"
+        },
+        {
+          "label": "B",
+          "text": "Usually firmer, often browned (golden), and sometimes finished under a broiler/topped"
+        },
+        {
+          "label": "C",
+          "text": "Made with whites only"
+        },
+        {
+          "label": "D",
+          "text": "Eaten cold"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 102,
+      "sourcePage": 14
+    },
+    {
+      "id": 388,
+      "chapterId": "part2-dairy",
+      "subtopic": "Dairy Products: Butter & Beyond",
+      "question": "A soufflé omelet (omelette soufflée) incorporates:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flour"
+        },
+        {
+          "label": "B",
+          "text": "Beaten egg whites (meringue) into the yolk mixture before cooking, making it light/puffy"
+        },
+        {
+          "label": "C",
+          "text": "Cream"
+        },
+        {
+          "label": "D",
+          "text": "Butter only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 103,
+      "sourcePage": 14
+    },
+    {
+      "id": 389,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Rice is the seed of the grass species:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Triticum"
+        },
+        {
+          "label": "B",
+          "text": "Oryza sativa (Asian) or Oryza glaberrima (African)"
+        },
+        {
+          "label": "C",
+          "text": "Zea mays"
+        },
+        {
+          "label": "D",
+          "text": "Hordeum vulgare"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 104,
+      "sourcePage": 15
+    },
+    {
+      "id": 390,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "The three main grain lengths (classifications) of rice are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Long-grain, Medium-grain, Short-grain"
+        },
+        {
+          "label": "B",
+          "text": "Red, White, Black"
+        },
+        {
+          "label": "C",
+          "text": "Brown, White, Parboiled"
+        },
+        {
+          "label": "D",
+          "text": "Aromatic, Non-aromatic, Sticky"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 105,
+      "sourcePage": 15
+    },
+    {
+      "id": 391,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Long-grain rice (e.g., Basmati, Jasmine, Carolina long grain) has a grain length of:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than 5 mm"
+        },
+        {
+          "label": "B",
+          "text": "6–8 mm or longer (typically >6 mm; basmati can be 7–9 mm)"
+        },
+        {
+          "label": "C",
+          "text": "4–5 mm"
+        },
+        {
+          "label": "D",
+          "text": "2–3 mm"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 106,
+      "sourcePage": 15
+    },
+    {
+      "id": 392,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "After cooking, long-grain rice characteristically:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sticks together"
+        },
+        {
+          "label": "B",
+          "text": "Remains separate, fluffy, and light (high amylose starch)"
+        },
+        {
+          "label": "C",
+          "text": "Becomes sticky/clumpy"
+        },
+        {
+          "label": "D",
+          "text": "Turns to paste"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 107,
+      "sourcePage": 15
+    },
+    {
+      "id": 393,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Medium-grain rice (e.g., Arborio, Valencia, Carnaroli) is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "8 mm long"
+        },
+        {
+          "label": "B",
+          "text": "5–6 mm in length"
+        },
+        {
+          "label": "C",
+          "text": "3 mm"
+        },
+        {
+          "label": "D",
+          "text": "10 mm"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 108,
+      "sourcePage": 15
+    },
+    {
+      "id": 394,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Medium-grain rice tends to cook up:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fluffy and separate"
+        },
+        {
+          "label": "B",
+          "text": "Moist, tender, and slightly sticky/clinging (higher amylopectin)"
+        },
+        {
+          "label": "C",
+          "text": "Dry and hard"
+        },
+        {
+          "label": "D",
+          "text": "Into porridge only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 109,
+      "sourcePage": 15
+    },
+    {
+      "id": 395,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Short-grain rice (e.g., Japanese sushi rice, risotto rice, glutinous/sticky rice) is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less than 4 mm"
+        },
+        {
+          "label": "B",
+          "text": "Short, almost round/plump (approx. 4 mm or less)"
+        },
+        {
+          "label": "C",
+          "text": "Very long"
+        },
+        {
+          "label": "D",
+          "text": "Oval only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 110,
+      "sourcePage": 15
+    },
+    {
+      "id": 396,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Short-grain rice cooks up:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Separate"
+        },
+        {
+          "label": "B",
+          "text": "Very sticky, cohesive, and clumpy (very high amylopectin, ideal for sushi bonding or risotto creaminess)"
+        },
+        {
+          "label": "C",
+          "text": "Like long-grain"
+        },
+        {
+          "label": "D",
+          "text": "Fluffy"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 111,
+      "sourcePage": 15
+    },
+    {
+      "id": 397,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Aromatic rice varieties (like Basmati and Jasmine) contain natural compounds that give them a:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bland smell"
+        },
+        {
+          "label": "B",
+          "text": "Distinctive fragrance (popcorn-like or floral aroma) when cooked"
+        },
+        {
+          "label": "C",
+          "text": "Fishy odor"
+        },
+        {
+          "label": "D",
+          "text": "No smell"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 112,
+      "sourcePage": 15
+    },
+    {
+      "id": 398,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Basmati rice is traditionally:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Short-grain"
+        },
+        {
+          "label": "B",
+          "text": "Aged for several months to a year after harvest to develop flavor and reduce moisture for better cooking"
+        },
+        {
+          "label": "C",
+          "text": "Eaten raw"
+        },
+        {
+          "label": "D",
+          "text": "Used only for desserts"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 113,
+      "sourcePage": 16
+    },
+    {
+      "id": 399,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Jasmine rice is originally from:",
+      "options": [
+        {
+          "label": "A",
+          "text": "India"
+        },
+        {
+          "label": "B",
+          "text": "Thailand (Southeast Asia)"
+        },
+        {
+          "label": "C",
+          "text": "Italy"
+        },
+        {
+          "label": "D",
+          "text": "Japan"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 114,
+      "sourcePage": 16
+    },
+    {
+      "id": 400,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "The milling/polishing process that produces white rice removes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nothing"
+        },
+        {
+          "label": "B",
+          "text": "The bran (outer layer) and germ (embryo), leaving mostly starchy endosperm"
+        },
+        {
+          "label": "C",
+          "text": "Only dirt"
+        },
+        {
+          "label": "D",
+          "text": "Water"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 115,
+      "sourcePage": 16
+    },
+    {
+      "id": 401,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Brown rice retains:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Only endosperm"
+        },
+        {
+          "label": "B",
+          "text": "The bran and germ (whole grain), giving more fiber, nutrients, oils and a nuttier flavor"
+        },
+        {
+          "label": "C",
+          "text": "Less nutrition than white"
+        },
+        {
+          "label": "D",
+          "text": "No bran"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 116,
+      "sourcePage": 16
+    },
+    {
+      "id": 402,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Brown rice requires:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Less cooking time"
+        },
+        {
+          "label": "B",
+          "text": "Longer cooking time and more water than white rice (due to bran barrier)"
+        },
+        {
+          "label": "C",
+          "text": "No water"
+        },
+        {
+          "label": "D",
+          "text": "Same time as white"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 117,
+      "sourcePage": 16
+    },
+    {
+      "id": 403,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Parboiled (converted) rice is processed by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Frying"
+        },
+        {
+          "label": "B",
+          "text": "Steaming under pressure BEFORE milling (drives nutrients into kernel, gelatinizes starch, firms grain)"
+        },
+        {
+          "label": "C",
+          "text": "Freezing"
+        },
+        {
+          "label": "D",
+          "text": "Smoking"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 118,
+      "sourcePage": 16
+    },
+    {
+      "id": 404,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Advantages of parboiled rice include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sticky texture"
+        },
+        {
+          "label": "B",
+          "text": "More nutrients retained, firmer grains that separate well, resistant to overcooking"
+        },
+        {
+          "label": "C",
+          "text": "Quick cooking (instant)"
+        },
+        {
+          "label": "D",
+          "text": "Always brown color"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 119,
+      "sourcePage": 16
+    },
+    {
+      "id": 405,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "When cooking rice using the absorption (pilaf) method:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rice is boiled in excess water"
+        },
+        {
+          "label": "B",
+          "text": "Measured rice is sautéed in fat (optional), then measured hot liquid is added, covered, and simmered until absorbed"
+        },
+        {
+          "label": "C",
+          "text": "Steamed in bamboo"
+        },
+        {
+          "label": "D",
+          "text": "Fried"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 120,
+      "sourcePage": 16
+    },
+    {
+      "id": 406,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "The typical ratio for cooking long-grain white rice by the absorption method is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1:1"
+        },
+        {
+          "label": "B",
+          "text": "1 part rice : 1.5 to 2 parts liquid (by volume)"
+        },
+        {
+          "label": "C",
+          "text": "1:4"
+        },
+        {
+          "label": "D",
+          "text": "4:1"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 121,
+      "sourcePage": 17
+    },
+    {
+      "id": 407,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "For risotto (using Arborio/Carnaroli), the technique differs because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "All liquid is added at once"
+        },
+        {
+          "label": "B",
+          "text": "Hot stock is added gradually (ladle by ladle) while stirring constantly to release starch for creaminess"
+        },
+        {
+          "label": "C",
+          "text": "No stirring allowed"
+        },
+        {
+          "label": "D",
+          "text": "It is boiled in excess water and drained"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 122,
+      "sourcePage": 17
+    },
+    {
+      "id": 408,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "You should NOT rinse Arborio or Carnaroli rice before making risotto because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It adds flavor"
+        },
+        {
+          "label": "B",
+          "text": "You want to retain the surface starch that creates the creamy texture when released during stirring"
+        },
+        {
+          "label": "C",
+          "text": "It removes dirt only"
+        },
+        {
+          "label": "D",
+          "text": "It prevents sticking to the pan"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 123,
+      "sourcePage": 17
+    },
+    {
+      "id": 409,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Long-grain rice (for pilaf or plain boiled) is often rinsed to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Add starch"
+        },
+        {
+          "label": "B",
+          "text": "Remove excess surface starch that would make it gummy/sticky"
+        },
+        {
+          "label": "C",
+          "text": "Remove flavor"
+        },
+        {
+          "label": "D",
+          "text": "Cook faster"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 124,
+      "sourcePage": 17
+    },
+    {
+      "id": 410,
+      "chapterId": "part2-rice",
+      "subtopic": "Rice, Grains & Pasta",
+      "question": "Properly cooked rice (al dente for risotto; tender but separate for long-grain) should have:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A crunchy center"
+        },
+        {
+          "label": "B",
+          "text": "No hard chalky core (raw center) — fully hydrated but not mushy/overblown"
+        },
+        {
+          "label": "C",
+          "text": "Exploded grains"
+        },
+        {
+          "label": "D",
+          "text": "Pasted consistency"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Part II",
+      "sourceQuestionId": 125,
+      "sourcePage": 17
+    },
+    {
+      "id": 411,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "In professional kitchens, the most accurate type of thermometer for checking internal food temperatures is the:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Candy/jam thermometer"
+        },
+        {
+          "label": "B",
+          "text": "Digital instant-read thermometer (or high-quality bi-metallic stem thermometer)"
+        },
+        {
+          "label": "C",
+          "text": "Oven mercury thermometer"
+        },
+        {
+          "label": "D",
+          "text": "Infrared surface scanner only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 1,
+      "sourcePage": 2
+    },
+    {
+      "id": 412,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "A bi-metallic coil thermometer works by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electronic sensor"
+        },
+        {
+          "label": "B",
+          "text": "Two different metals bonded together that expand/contract at different rates when heated, causing the coil to unwind and turn the dial"
+        },
+        {
+          "label": "C",
+          "text": "Liquid expansion (like alcohol)"
+        },
+        {
+          "label": "D",
+          "text": "Infrared radiation"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 2,
+      "sourcePage": 2
+    },
+    {
+      "id": 413,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "The thermocouple (digital probe) differs from standard bi-metallic thermometers because it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Is slower to read"
+        },
+        {
+          "label": "B",
+          "text": "Uses two dissimilar metal wires joined at the tip and measures voltage change (extremely fast reading, about 2–5 seconds)"
+        },
+        {
+          "label": "C",
+          "text": "Contains mercury"
+        },
+        {
+          "label": "D",
+          "text": "Is only used for ovens"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 3,
+      "sourcePage": 2
+    },
+    {
+      "id": 414,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "An infrared (laser) thermometer measures:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Internal core temperature accurately"
+        },
+        {
+          "label": "B",
+          "text": "Surface temperature only (by measuring emitted infrared energy); does NOT penetrate food"
+        },
+        {
+          "label": "C",
+          "text": "Air temperature inside an oven"
+        },
+        {
+          "label": "D",
+          "text": "Liquid temperature in a pot"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 4,
+      "sourcePage": 2
+    },
+    {
+      "id": 415,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "Oven thermometers (the kind that hang or sit inside) typically measure:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Food internal temperature"
+        },
+        {
+          "label": "B",
+          "text": "The actual air temperature inside the oven cavity (to verify oven accuracy)"
+        },
+        {
+          "label": "C",
+          "text": "Surface temperature of the rack"
+        },
+        {
+          "label": "D",
+          "text": "Humidity"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 5,
+      "sourcePage": 2
+    },
+    {
+      "id": 416,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "A candy/deep-fry thermometer is designed with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Short stem for thin foods"
+        },
+        {
+          "label": "B",
+          "text": "Longer stem and higher temperature range (100–400 °F / 40–200 °C+) to measure sugar stages or hot oil"
+        },
+        {
+          "label": "C",
+          "text": "Instant digital readout only"
+        },
+        {
+          "label": "D",
+          "text": "Waterproof casing for sous-vide"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 6,
+      "sourcePage": 2
+    },
+    {
+      "id": 417,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "Refrigerator/freezer thermometers should be placed:",
+      "options": [
+        {
+          "label": "A",
+          "text": "On the door shelf"
+        },
+        {
+          "label": "B",
+          "text": "In the warmest area of the unit (usually near the door or top) to ensure the entire unit stays safe"
+        },
+        {
+          "label": "C",
+          "text": "Inside a sealed container of food"
+        },
+        {
+          "label": "D",
+          "text": "On the floor"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 7,
+      "sourcePage": 2
+    },
+    {
+      "id": 418,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "When checking the internal temperature of a roast or turkey, the thermometer probe must be inserted:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Just until it touches fat"
+        },
+        {
+          "label": "B",
+          "text": "Into the thickest part of the muscle, avoiding bone, fat, or the pan bottom (which give false readings)"
+        },
+        {
+          "label": "C",
+          "text": "From the top only"
+        },
+        {
+          "label": "D",
+          "text": "After removing from the oven entirely"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 8,
+      "sourcePage": 3
+    },
+    {
+      "id": 419,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "When checking a thin item (burger patty, chicken breast), insert the probe:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Horizontally from the side"
+        },
+        {
+          "label": "B",
+          "text": "From the side (horizontally) so the sensing element is centered in the thickest part, without exiting the other side"
+        },
+        {
+          "label": "C",
+          "text": "Vertically from the top only"
+        },
+        {
+          "label": "D",
+          "text": "At an angle through the crust only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 9,
+      "sourcePage": 3
+    },
+    {
+      "id": 420,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "To get an accurate reading, you must wait for the temperature to stabilize; for a standard bi-metallic stem thermometer this takes approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 second"
+        },
+        {
+          "label": "B",
+          "text": "10–15 seconds (or until the dial stops moving)"
+        },
+        {
+          "label": "C",
+          "text": "2 minutes"
+        },
+        {
+          "label": "D",
+          "text": "Instantly (no wait needed)"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 10,
+      "sourcePage": 3
+    },
+    {
+      "id": 421,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "When checking liquid temperatures (stock, soup, oil), the probe should be:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Touching the bottom of the pot"
+        },
+        {
+          "label": "B",
+          "text": "Submerged in the center of the liquid, not touching the sides or bottom of the container"
+        },
+        {
+          "label": "C",
+          "text": "Held above the steam"
+        },
+        {
+          "label": "D",
+          "text": "Dipped quickly then removed"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 11,
+      "sourcePage": 3
+    },
+    {
+      "id": 422,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "Calibration of thermometers means:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Changing the battery"
+        },
+        {
+          "label": "B",
+          "text": "Checking and adjusting accuracy against a known reference (ice water at 32 °F / 0 °C or boiling water at 212 °F / 100 °C)"
+        },
+        {
+          "label": "C",
+          "text": "Cleaning the probe"
+        },
+        {
+          "label": "D",
+          "text": "Sharpening the tip"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 12,
+      "sourcePage": 3
+    },
+    {
+      "id": 423,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "The ice-point method for calibrating involves:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Freezing the thermometer"
+        },
+        {
+          "label": "B",
+          "text": "Submerging the stem in a slush of ice and water; it should read 32 °F (0 °C)"
+        },
+        {
+          "label": "C",
+          "text": "Boiling water"
+        },
+        {
+          "label": "D",
+          "text": "Putting it in the freezer"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 13,
+      "sourcePage": 3
+    },
+    {
+      "id": 424,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "If a bi-metallic thermometer reads incorrectly after calibration and cannot be adjusted:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use it anyway with a mental note"
+        },
+        {
+          "label": "B",
+          "text": "It must be replaced or marked with the correction factor (e.g., \"reads 5° high\")"
+        },
+        {
+          "label": "C",
+          "text": "Be used only for cold foods"
+        },
+        {
+          "label": "D",
+          "text": "Be used only for meats"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 14,
+      "sourcePage": 3
+    },
+    {
+      "id": 425,
+      "chapterId": "special-thermo",
+      "subtopic": "Thermometers",
+      "question": "Thermometer sanitization between uses requires:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Wiping on apron"
+        },
+        {
+          "label": "B",
+          "text": "Wiping clean, then sanitizing with an alcohol swab or sanitizing solution (or rinsing in hot water above 171 °F if waterproof)"
+        },
+        {
+          "label": "C",
+          "text": "Rinsing in cold water only"
+        },
+        {
+          "label": "D",
+          "text": "Air drying only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 15,
+      "sourcePage": 3
+    },
+    {
+      "id": 426,
+      "chapterId": "special-immersion",
+      "subtopic": "Immersion Blenders",
+      "question": "An immersion blender (stick blender, hand blender) is primarily used to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chop vegetables"
+        },
+        {
+          "label": "B",
+          "text": "Purée, blend, or emulsify foods directly in the cooking vessel (pot, bowl, or container) without transferring"
+        },
+        {
+          "label": "C",
+          "text": "Whip cream only"
+        },
+        {
+          "label": "D",
+          "text": "Slice meat"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 16,
+      "sourcePage": 4
+    },
+    {
+      "id": 427,
+      "chapterId": "special-immersion",
+      "subtopic": "Immersion Blenders",
+      "question": "Compared to a countertop blender or food processor, a key advantage of the immersion blender is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "More powerful motor"
+        },
+        {
+          "label": "B",
+          "text": "Ability to work directly in the hot pot on the stove (safety, less cleanup, no transfer burns)"
+        },
+        {
+          "label": "C",
+          "text": "Can chop ice only"
+        },
+        {
+          "label": "D",
+          "text": "Cheaper replacement parts"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 17,
+      "sourcePage": 4
+    },
+    {
+      "id": 428,
+      "chapterId": "special-immersion",
+      "subtopic": "Immersion Blenders",
+      "question": "When puréeing a hot soup with an immersion blender, you should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Turn the stove to maximum heat while blending"
+        },
+        {
+          "label": "B",
+          "text": "Remove the pot from heat (or turn off), let it cool slightly if very full, immerse the blender fully before turning it on, move slowly, and keep the blade submerged to avoid splashing hot liquid"
+        },
+        {
+          "label": "C",
+          "text": "Blend while rapidly boiling over high flame"
+        },
+        {
+          "label": "D",
+          "text": "Fill the pot to the brim before blending"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 18,
+      "sourcePage": 4
+    },
+    {
+      "id": 429,
+      "chapterId": "special-immersion",
+      "subtopic": "Immersion Blenders",
+      "question": "The shaft/tube of an immersion blender (the part surrounding the blade):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Should be removed for cleaning only"
+        },
+        {
+          "label": "B",
+          "text": "Acts as a guard and helps create suction and circulation to draw food into the blades for even puréeing"
+        },
+        {
+          "label": "C",
+          "text": "Is purely decorative"
+        },
+        {
+          "label": "D",
+          "text": "Must be made of plastic only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 19,
+      "sourcePage": 4
+    },
+    {
+      "id": 430,
+      "chapterId": "special-immersion",
+      "subtopic": "Immersion Blenders",
+      "question": "To avoid damaging an immersion blender, you should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blend frozen-solid blocks of ice"
+        },
+        {
+          "label": "B",
+          "text": "Ensure the blade is fully submerged in liquid before turning it on (to prevent air cavitation and burning out the motor)"
+        },
+        {
+          "label": "C",
+          "text": "Use it to grind coffee beans"
+        },
+        {
+          "label": "D",
+          "text": "Submerge the motor housing (handle) in liquid"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 20,
+      "sourcePage": 4
+    },
+    {
+      "id": 431,
+      "chapterId": "special-immersion",
+      "subtopic": "Immersion Blenders",
+      "question": "For making emulsions (vinaigrette, mayonnaise) with an immersion blender:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Blend oil alone first"
+        },
+        {
+          "label": "B",
+          "text": "Place ingredients in a tall, narrow container (taller than the blender shaft), start the blender at the bottom, and slowly incorporate oil while running"
+        },
+        {
+          "label": "C",
+          "text": "Add all oil at once at top speed immediately"
+        },
+        {
+          "label": "D",
+          "text": "Use a flat, wide bowl"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 21,
+      "sourcePage": 4
+    },
+    {
+      "id": 432,
+      "chapterId": "special-immersion",
+      "subtopic": "Immersion Blenders",
+      "question": "Cleaning an immersion blender that is NOT fully waterproof (many are not submersible above the seal):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Put the entire unit in the dishwasher"
+        },
+        {
+          "label": "B",
+          "text": "Detach the shaft/blade (if designed) and wash that part; wipe the motor body with a damp cloth (never submerge the motor)"
+        },
+        {
+          "label": "C",
+          "text": "Soak the handle in the sink"
+        },
+        {
+          "label": "D",
+          "text": "Use steel wool on the blade"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 22,
+      "sourcePage": 5
+    },
+    {
+      "id": 433,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "A chinois (china cap / conical strainer) is distinguished by its:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flat bottom"
+        },
+        {
+          "label": "B",
+          "text": "Fine mesh (often stainless steel) in a cone shape, usually with a handle, used for fine straining and puréeing"
+        },
+        {
+          "label": "C",
+          "text": "Large holes like a colander"
+        },
+        {
+          "label": "D",
+          "text": "Plastic construction"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 23,
+      "sourcePage": 6
+    },
+    {
+      "id": 434,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "A fine-mesh chinois (sometimes called a chinois étroit, or a tamis when extremely fine) is used for:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Draining pasta"
+        },
+        {
+          "label": "B",
+          "text": "Producing perfectly smooth, silky sauces, soups, and purées by removing all particles and lumps"
+        },
+        {
+          "label": "C",
+          "text": "Sifting flour only"
+        },
+        {
+          "label": "D",
+          "text": "Draining fried foods"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 24,
+      "sourcePage": 6
+    },
+    {
+      "id": 435,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "The difference between a standard China cap (coarse mesh) and a fine chinois is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Shape only"
+        },
+        {
+          "label": "B",
+          "text": "Mesh size: a China cap has larger perforations (for draining liquids and rough straining); a fine chinois has very tight mesh (for smoothing)"
+        },
+        {
+          "label": "C",
+          "text": "Material (one is tin, one is steel)"
+        },
+        {
+          "label": "D",
+          "text": "No difference (they are synonyms)"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 25,
+      "sourcePage": 6
+    },
+    {
+      "id": 436,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "A bouillon strainer (chinois) used for clarification (consommé) often works in conjunction with:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A blender"
+        },
+        {
+          "label": "B",
+          "text": "A \"clearmeat\" (raft) of ground meat, egg whites, mirepoix, and acid that traps impurities as it cooks, then strained through the chinois"
+        },
+        {
+          "label": "C",
+          "text": "A food mill"
+        },
+        {
+          "label": "D",
+          "text": "A colander"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 26,
+      "sourcePage": 6
+    },
+    {
+      "id": 437,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "A tamis (drum sieve) differs from a chinois in that it is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cone-shaped"
+        },
+        {
+          "label": "B",
+          "text": "Flat and circular, with a fine mesh held in a ring, used for sifting dry ingredients or forcing cooked foods through with a scraper or palette knife"
+        },
+        {
+          "label": "C",
+          "text": "Used only for hot liquids"
+        },
+        {
+          "label": "D",
+          "text": "Made of plastic"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 27,
+      "sourcePage": 6
+    },
+    {
+      "id": 438,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "When pushing a thick purée or soft food through a fine chinois or tamis, the proper technique uses:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Your fist"
+        },
+        {
+          "label": "B",
+          "text": "A rigid bench scraper or plastic/rubber spatula to press firmly in circular motions (not your hand, because sharp edges cut)"
+        },
+        {
+          "label": "C",
+          "text": "A wooden spoon (usually too flexible for pressure)"
+        },
+        {
+          "label": "D",
+          "text": "A whisk"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 28,
+      "sourcePage": 6
+    },
+    {
+      "id": 439,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "A cheesecloth-lined chinois is used when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "You want large chunks"
+        },
+        {
+          "label": "B",
+          "text": "You need ultra-clarity (such as for crystal-clear consommé or delicate fining) and want to catch even micro-particles"
+        },
+        {
+          "label": "C",
+          "text": "Straining heavy solids only"
+        },
+        {
+          "label": "D",
+          "text": "Sifting flour"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 29,
+      "sourcePage": 7
+    },
+    {
+      "id": 440,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "Maintaining a chinois properly includes:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Leaving food residue in it to dry"
+        },
+        {
+          "label": "B",
+          "text": "Rinsing immediately after use (before food dries or hardens) and occasionally descaling with acid if mineral buildup occurs"
+        },
+        {
+          "label": "C",
+          "text": "Using abrasive pads on the mesh"
+        },
+        {
+          "label": "D",
+          "text": "Storing it wet in a closed cupboard"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 30,
+      "sourcePage": 7
+    },
+    {
+      "id": 441,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "The term \"passer au chinois\" (to pass through a china cap) in a recipe instruction means:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Fry it"
+        },
+        {
+          "label": "B",
+          "text": "Strain it through a fine-mesh conical strainer to achieve smoothness"
+        },
+        {
+          "label": "C",
+          "text": "Cook it in Chinese style"
+        },
+        {
+          "label": "D",
+          "text": "Freeze it"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 31,
+      "sourcePage": 7
+    },
+    {
+      "id": 442,
+      "chapterId": "special-chinois",
+      "subtopic": "Chinois and Straining",
+      "question": "For straining hot liquids (stock, consommé) through a chinois, you should:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pour rapidly from a height"
+        },
+        {
+          "label": "B",
+          "text": "Pre-warm the chinois (so cold metal doesn't shock hot liquid) and, when clarifying, strain into a container set in ice to stop cooking immediately"
+        },
+        {
+          "label": "C",
+          "text": "Use the chinois dry and cold"
+        },
+        {
+          "label": "D",
+          "text": "Press hard on hot solids immediately"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 32,
+      "sourcePage": 7
+    },
+    {
+      "id": 443,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Gelatin is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "A dairy product"
+        },
+        {
+          "label": "B",
+          "text": "A protein product derived from collagen (found in animal connective tissue, bones, skin), hydrolyzed to extract"
+        },
+        {
+          "label": "C",
+          "text": "A starch from corn"
+        },
+        {
+          "label": "D",
+          "text": "A synthetic chemical"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 33,
+      "sourcePage": 8
+    },
+    {
+      "id": 444,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Commercial culinary gelatin comes primarily in two forms:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Liquid and gas"
+        },
+        {
+          "label": "B",
+          "text": "Powdered (dry powder) and sheet/leaf gelatin (thin transparent sheets)"
+        },
+        {
+          "label": "C",
+          "text": "Granules and blocks only"
+        },
+        {
+          "label": "D",
+          "text": "Paste and crystals"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 34,
+      "sourcePage": 8
+    },
+    {
+      "id": 445,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Sheet (leaf) gelatin vs. powdered gelatin conversion depends on bloom strength (gel strength), but roughly:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 sheet = 1 tbsp powder"
+        },
+        {
+          "label": "B",
+          "text": "1 standard sheet (approx. 2.5 g) ≈ 3 g (about 1 tsp) of powdered gelatin (check the package bloom rating)"
+        },
+        {
+          "label": "C",
+          "text": "1 sheet = 1 cup powder"
+        },
+        {
+          "label": "D",
+          "text": "They are never interchangeable"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 35,
+      "sourcePage": 8
+    },
+    {
+      "id": 446,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Before adding gelatin to a hot liquid (base), it must be bloomed (hydrated), which means:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiling it for 10 minutes"
+        },
+        {
+          "label": "B",
+          "text": "Sprinkling it over cold liquid (usually 5× its weight in water or the recipe liquid) and letting it sit for 5–10 minutes to absorb fluid and swell (no lumps)"
+        },
+        {
+          "label": "C",
+          "text": "Frying it"
+        },
+        {
+          "label": "D",
+          "text": "Adding it directly to boiling liquid"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 36,
+      "sourcePage": 8
+    },
+    {
+      "id": 447,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Why must gelatin not be boiled after it has been added to the base?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It turns blue"
+        },
+        {
+          "label": "B",
+          "text": "Boiling breaks down the protein structure, destroying its gelling ability (it won't set)"
+        },
+        {
+          "label": "C",
+          "text": "It becomes toxic"
+        },
+        {
+          "label": "D",
+          "text": "It curdles milk instantly"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 37,
+      "sourcePage": 8
+    },
+    {
+      "id": 448,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "The correct temperature range to dissolve bloomed gelatin into a base is:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiling (212 °F)"
+        },
+        {
+          "label": "B",
+          "text": "Warm to hot but NOT boiling (ideally 104–122 °F / 40–50 °C minimum to dissolve; stay under a boil once dissolved)"
+        },
+        {
+          "label": "C",
+          "text": "Refrigeration temperature"
+        },
+        {
+          "label": "D",
+          "text": "Room temperature only (it won't dissolve)"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 38,
+      "sourcePage": 8
+    },
+    {
+      "id": 449,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Gelatin sets (gels) when cooled to approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Room temperature only"
+        },
+        {
+          "label": "B",
+          "text": "Below 68 °F (20 °C); ideally refrigerated below 40 °F (4 °C) for a firm set; melts again above about 95 °F (35 °C)"
+        },
+        {
+          "label": "C",
+          "text": "Freezing point only"
+        },
+        {
+          "label": "D",
+          "text": "It sets when heated"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 39,
+      "sourcePage": 8
+    },
+    {
+      "id": 450,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Foods containing raw pineapple, kiwi, papaya, or figs (which contain proteolytic enzymes such as bromelain) will not set with gelatin unless:",
+      "options": [
+        {
+          "label": "A",
+          "text": "You add more gelatin"
+        },
+        {
+          "label": "B",
+          "text": "The fruits are first cooked (heat inactivates the enzymes that break down gelatin protein)"
+        },
+        {
+          "label": "C",
+          "text": "You use less liquid"
+        },
+        {
+          "label": "D",
+          "text": "You freeze the mixture"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 40,
+      "sourcePage": 9
+    },
+    {
+      "id": 451,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "A basic ratio for a firm gelatin dessert or mold (aspic) is approximately:",
+      "options": [
+        {
+          "label": "A",
+          "text": "1 tsp gelatin per gallon"
+        },
+        {
+          "label": "B",
+          "text": "1 oz (28 g) powdered gelatin per quart (liter) of liquid for a firm set; less for softer, spoonable textures"
+        },
+        {
+          "label": "C",
+          "text": "1 lb gelatin per cup"
+        },
+        {
+          "label": "D",
+          "text": "No standard ratio (it's random)"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 41,
+      "sourcePage": 9
+    },
+    {
+      "id": 452,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Vegetarian/vegan alternatives to animal-based gelatin include:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Jello brand mix"
+        },
+        {
+          "label": "B",
+          "text": "Agar-agar (seaweed derivative), pectin (fruit), carrageenan, or vegan \"gelatin\" powders (carrageenan/guar gum blends)"
+        },
+        {
+          "label": "C",
+          "text": "Cornstarch only (doesn't give a true gel)"
+        },
+        {
+          "label": "D",
+          "text": "Flour"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 42,
+      "sourcePage": 9
+    },
+    {
+      "id": 453,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "Agar-agar differs from gelatin in that it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Melts easily"
+        },
+        {
+          "label": "B",
+          "text": "Sets at a much higher temperature (around 85 °F / 35 °C vs. gelatin's melt) and does not require refrigeration to set (sets at room temperature)"
+        },
+        {
+          "label": "C",
+          "text": "Is made from animals"
+        },
+        {
+          "label": "D",
+          "text": "Is clear and flavorless only (both can be)"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 43,
+      "sourcePage": 9
+    },
+    {
+      "id": 454,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "When making a savory jelly (aspic) for garnish or coating (chaud-froid):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Add gelatin to boiling stock"
+        },
+        {
+          "label": "B",
+          "text": "Dissolve bloomed gelatin in warm flavored stock (consommé or seasoned stock), coat items while the liquid is still liquid but cooling, then chill to set"
+        },
+        {
+          "label": "C",
+          "text": "Use unflavored water"
+        },
+        {
+          "label": "D",
+          "text": "Freeze immediately"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 44,
+      "sourcePage": 9
+    },
+    {
+      "id": 455,
+      "chapterId": "special-gelatin",
+      "subtopic": "Gelatin",
+      "question": "If a gelatin mixture \"weeps\" (separates and releases liquid) after setting, possible causes are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Too much gelatin"
+        },
+        {
+          "label": "B",
+          "text": "Over-stirring while setting, temperature fluctuations (slight melting), or an incorrect gelatin-to-liquid ratio"
+        },
+        {
+          "label": "C",
+          "text": "Not enough liquid"
+        },
+        {
+          "label": "D",
+          "text": "Using cold liquid initially"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 45,
+      "sourcePage": 9
+    },
+    {
+      "id": 456,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "In culinary terms, extraction refers specifically to:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Removing teeth"
+        },
+        {
+          "label": "B",
+          "text": "The process of drawing out flavors, colors, nutrients, and gelatin from solid ingredients (bones, vegetables, aromatics) into a liquid medium (water) through simmering"
+        },
+        {
+          "label": "C",
+          "text": "Juice pressing only"
+        },
+        {
+          "label": "D",
+          "text": "Fat rendering only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 46,
+      "sourcePage": 10
+    },
+    {
+      "id": 457,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "The primary agents that drive extraction in stock making are:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Freezing and thawing"
+        },
+        {
+          "label": "B",
+          "text": "Time, temperature (simmering, not boiling), and the surface area of the solids (cutting or smashing bones)"
+        },
+        {
+          "label": "C",
+          "text": "Pressure cooking only"
+        },
+        {
+          "label": "D",
+          "text": "Microwave radiation"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 47,
+      "sourcePage": 10
+    },
+    {
+      "id": 458,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "Why should stock be simmered gently rather than boiled vigorously during extraction?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Boiling extracts faster"
+        },
+        {
+          "label": "B",
+          "text": "Vigorous boiling creates turbidity (cloudiness), emulsifies fat improperly, and can make the stock bitter or greasy; a gentle simmer allows slow, clear extraction"
+        },
+        {
+          "label": "C",
+          "text": "Simmering kills bacteria better"
+        },
+        {
+          "label": "D",
+          "text": "Boiling uses less energy"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 48,
+      "sourcePage": 10
+    },
+    {
+      "id": 459,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "Blanching bones before making white stock affects extraction by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adding more flavor"
+        },
+        {
+          "label": "B",
+          "text": "Removing impurities (blood, scum) that would cloud the stock, resulting in cleaner extraction of flavors later"
+        },
+        {
+          "label": "C",
+          "text": "Extracting all flavor immediately"
+        },
+        {
+          "label": "D",
+          "text": "Preventing any gelatin extraction"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 49,
+      "sourcePage": 10
+    },
+    {
+      "id": 460,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "Roasting bones before brown stock affects extraction by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reducing flavor"
+        },
+        {
+          "label": "B",
+          "text": "The Maillard reaction develops deeper, richer flavors (caramelized sugars and proteins) that then extract into the liquid, and adds color to the final stock"
+        },
+        {
+          "label": "C",
+          "text": "Removing all collagen"
+        },
+        {
+          "label": "D",
+          "text": "Making extraction faster (it actually takes the same time)"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 50,
+      "sourcePage": 10
+    },
+    {
+      "id": 461,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "Cutting or smashing marrow bones before making stock improves extraction because it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adds calcium only"
+        },
+        {
+          "label": "B",
+          "text": "Increases surface area, allowing water better access to extract marrow fats and collagen/gelatin from inside the bone"
+        },
+        {
+          "label": "C",
+          "text": "Makes the pot look fuller"
+        },
+        {
+          "label": "D",
+          "text": "Reduces cooking time to 10 minutes"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 51,
+      "sourcePage": 10
+    },
+    {
+      "id": 462,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "Mirepoix (onion, carrot, celery) added to stocks aids extraction by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thickening the stock"
+        },
+        {
+          "label": "B",
+          "text": "Providing additional soluble sugars, aromatic compounds, and subtle sweetness and flavor depth that extract into the liquid"
+        },
+        {
+          "label": "C",
+          "text": "Acting only as a garnish"
+        },
+        {
+          "label": "D",
+          "text": "Clouding the stock intentionally"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 52,
+      "sourcePage": 11
+    },
+    {
+      "id": 463,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "The cold-start method (starting bones in cold water and bringing them to a simmer together) aids extraction by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Cooking faster"
+        },
+        {
+          "label": "B",
+          "text": "Allowing proteins to coagulate slowly and rise gently as scum, rather than seizing instantly, resulting in clearer stock with better removal of impurities to be skimmed"
+        },
+        {
+          "label": "C",
+          "text": "Killing bacteria instantly"
+        },
+        {
+          "label": "D",
+          "text": "Preventing any dissolving of solids"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 53,
+      "sourcePage": 11
+    },
+    {
+      "id": 464,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "Stock should not be over-reduced during initial extraction because:",
+      "options": [
+        {
+          "label": "A",
+          "text": "It becomes too salty"
+        },
+        {
+          "label": "B",
+          "text": "Concentrated impurities and overly intense flavors may become bitter, and too high a salt concentration can inhibit further gentle extraction of delicate flavors"
+        },
+        {
+          "label": "C",
+          "text": "It spoils faster"
+        },
+        {
+          "label": "D",
+          "text": "It costs more money"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 54,
+      "sourcePage": 11
+    },
+    {
+      "id": 465,
+      "chapterId": "special-extraction",
+      "subtopic": "Extraction & Stock Making",
+      "question": "Straining through a chinois at the end of extraction ensures:",
+      "options": [
+        {
+          "label": "A",
+          "text": "You lose all flavor"
+        },
+        {
+          "label": "B",
+          "text": "Removal of all exhausted solids (spent bones, mirepoix, sachet), leaving only the extracted clear, flavorful liquid"
+        },
+        {
+          "label": "C",
+          "text": "Sterilization"
+        },
+        {
+          "label": "D",
+          "text": "Adding back fat"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 55,
+      "sourcePage": 11
+    },
+    {
+      "id": 466,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "Reduction in cooking is defined as:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adding liquid to thicken"
+        },
+        {
+          "label": "B",
+          "text": "Simmering or boiling a liquid to evaporate water, thereby concentrating flavors, thickness, and intensity"
+        },
+        {
+          "label": "C",
+          "text": "Freezing to shrink volume"
+        },
+        {
+          "label": "D",
+          "text": "Adding starch"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 56,
+      "sourcePage": 12
+    },
+    {
+      "id": 467,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "The primary purposes of reduction include all EXCEPT:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Concentrating flavor"
+        },
+        {
+          "label": "B",
+          "text": "Thickening consistency naturally"
+        },
+        {
+          "label": "C",
+          "text": "Adjusting seasoning intensity"
+        },
+        {
+          "label": "D",
+          "text": "Adding volume or diluting the sauce (reduction removes volume)"
+        }
+      ],
+      "correctOption": "D",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 57,
+      "sourcePage": 12
+    },
+    {
+      "id": 468,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "When reducing a sauce, if you reduce it too much (too far or too fast):",
+      "options": [
+        {
+          "label": "A",
+          "text": "It becomes thinner"
+        },
+        {
+          "label": "B",
+          "text": "It may become overly salty (salt doesn't evaporate), bitter (caramelized sugars burn), too thick or gluey, or the color darkens excessively"
+        },
+        {
+          "label": "C",
+          "text": "It separates"
+        },
+        {
+          "label": "D",
+          "text": "It becomes sweeter always"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 58,
+      "sourcePage": 12
+    },
+    {
+      "id": 469,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "Deglazing is closely related to reduction because it:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thickens the sauce"
+        },
+        {
+          "label": "B",
+          "text": "Dissolves fond (brown, flavorful bits from sautéing or searing) into the liquid, which is then reduced to concentrate those flavors into the sauce"
+        },
+        {
+          "label": "C",
+          "text": "Removes fat"
+        },
+        {
+          "label": "D",
+          "text": "Cleans the pan only"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 59,
+      "sourcePage": 12
+    },
+    {
+      "id": 470,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "A glace (meat glaze) is created by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adding flour"
+        },
+        {
+          "label": "B",
+          "text": "Reducing brown stock (or espagnole) by about three-quarters (75%) or more until it heavily coats a spoon, a highly concentrated, paint-like consistency"
+        },
+        {
+          "label": "C",
+          "text": "Freezing stock"
+        },
+        {
+          "label": "D",
+          "text": "Adding butter"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 60,
+      "sourcePage": 12
+    },
+    {
+      "id": 471,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "When reducing acidic liquids (wine, vinegar, citrus juices) for sauces:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduce extremely fast over high heat"
+        },
+        {
+          "label": "B",
+          "text": "Reduce gently; acids can become harsh or bitter if reduced too aggressively (volatile compounds concentrate sharply); a pinch of sugar can help balance"
+        },
+        {
+          "label": "C",
+          "text": "Never cover the pan"
+        },
+        {
+          "label": "D",
+          "text": "Add baking soda"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 61,
+      "sourcePage": 12
+    },
+    {
+      "id": 472,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "Flash reduction (rapid boiling to reduce quickly) is appropriate when:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Making delicate cream sauces"
+        },
+        {
+          "label": "B",
+          "text": "You need to reduce a large volume quickly to save time, or when making a syrup or glaze where caramelization of natural sugars is desired (as opposed to slow reduction for clarity)"
+        },
+        {
+          "label": "C",
+          "text": "Making consommé"
+        },
+        {
+          "label": "D",
+          "text": "Holding a sauce"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 62,
+      "sourcePage": 13
+    },
+    {
+      "id": 473,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "Properly stopping or finalizing a reduction at the desired consistency is done by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Covering tightly and ignoring it"
+        },
+        {
+          "label": "B",
+          "text": "Removing it from heat, possibly finishing with cold butter or cream (monté au beurre), or transferring it to a bain-marie to hold without continuing to cook or reduce"
+        },
+        {
+          "label": "C",
+          "text": "Adding water to cool it"
+        },
+        {
+          "label": "D",
+          "text": "Freezing it instantly"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 63,
+      "sourcePage": 13
+    },
+    {
+      "id": 474,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "Evaporation rate during reduction is affected by:",
+      "options": [
+        {
+          "label": "A",
+          "text": "Color of the pot"
+        },
+        {
+          "label": "B",
+          "text": "Surface area of the liquid (wider pans evaporate faster), temperature (higher is faster), and air movement (ventilation)"
+        },
+        {
+          "label": "C",
+          "text": "The chef's mood"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 64,
+      "sourcePage": 13
+    },
+    {
+      "id": 475,
+      "chapterId": "special-reduction",
+      "subtopic": "Reduction Techniques",
+      "question": "When reducing a cream-based sauce (which already contains milk solids):",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reduce uncovered over high heat, aggressively"
+        },
+        {
+          "label": "B",
+          "text": "Reduce gently and uncovered over low-to-medium heat; high heat can cause milk proteins to coagulate (graininess) or separate (breaking)"
+        },
+        {
+          "label": "C",
+          "text": "Cover completely to retain moisture"
+        },
+        {
+          "label": "D",
+          "text": "Add water constantly"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "The Professional Chef — Special Topics",
+      "sourceQuestionId": 65,
+      "sourcePage": 13
+    }
+  ]
+}
