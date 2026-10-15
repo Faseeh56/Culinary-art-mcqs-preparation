@@ -1,0 +1,26 @@
+name: Validate Question Bank
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check data and build
+        run: |
+          python scripts/validate.py
+          python scripts/build.py
+          python - <<'PY'
+          from pathlib import Path
+          s = Path('index.html').read_text(encoding='utf-8')
+          assert '"id": 475' in s or '"id":475' in s
+          assert 'part2-potatoes' in s and 'special-thermo' in s
+          print('Built page contains expanded question data.')
+          PY
