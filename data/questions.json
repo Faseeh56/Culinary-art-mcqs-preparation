@@ -221,6 +221,42 @@
       "title": "Communication: Responsibility, Ethics & Leadership",
       "from": 695,
       "to": 725
+    },
+    {
+      "id": "comm-06",
+      "title": "Communication: Listening and Speaking Practice",
+      "from": 971,
+      "to": 990
+    },
+    {
+      "id": "comm-07",
+      "title": "Communication: All English Tenses with Hospitality Examples",
+      "from": 991,
+      "to": 1010
+    },
+    {
+      "id": "comm-08",
+      "title": "Communication: Email and WhatsApp Communication",
+      "from": 1011,
+      "to": 1030
+    },
+    {
+      "id": "comm-09",
+      "title": "Communication: Serving Customers Professionally",
+      "from": 1031,
+      "to": 1050
+    },
+    {
+      "id": "comm-10",
+      "title": "Communication: Cultural Intelligence for Global Hospitality",
+      "from": 1051,
+      "to": 1070
+    },
+    {
+      "id": "comm-11",
+      "title": "Communication: Basic Interview Skills",
+      "from": 1071,
+      "to": 1090
     }
   ],
   "questions": [
@@ -27279,6 +27315,3486 @@
       "sourceQuestionId": 134,
       "sourceChapterNumber": 9,
       "sourceChapterTitle": "HACCP from Purchase to Service"
+    },
+    {
+      "id": 971,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "What is the main communication benefit of active listening in hospitality?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It makes a staff member speak faster"
+        },
+        {
+          "label": "B",
+          "text": "It helps staff respond accurately and appropriately"
+        },
+        {
+          "label": "C",
+          "text": "It removes the need to ask questions"
+        },
+        {
+          "label": "D",
+          "text": "It guarantees every guest will agree"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 1,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 972,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "Which pronunciation advice is given for the TH sound in “Thank you”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Replace TH with T"
+        },
+        {
+          "label": "B",
+          "text": "Place the tongue between the teeth"
+        },
+        {
+          "label": "C",
+          "text": "Pronounce it like F"
+        },
+        {
+          "label": "D",
+          "text": "Leave the sound out"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 2,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 973,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "How should the V in “very” be produced, according to the pronunciation clinic?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Touch the upper teeth to the lower lip"
+        },
+        {
+          "label": "B",
+          "text": "Put both lips together"
+        },
+        {
+          "label": "C",
+          "text": "Use the tongue between the teeth"
+        },
+        {
+          "label": "D",
+          "text": "Make it identical to W"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 3,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 974,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "What should a speaker do with final consonants in words such as “guest” and “night”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Drop them to sound relaxed"
+        },
+        {
+          "label": "B",
+          "text": "Pronounce them clearly"
+        },
+        {
+          "label": "C",
+          "text": "Replace them with a vowel"
+        },
+        {
+          "label": "D",
+          "text": "Whisper them"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 4,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 975,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "Which statement about the K in “knife” is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is strongly pronounced"
+        },
+        {
+          "label": "B",
+          "text": "It is silent"
+        },
+        {
+          "label": "C",
+          "text": "It is pronounced as G"
+        },
+        {
+          "label": "D",
+          "text": "It is pronounced only at the end"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 5,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 976,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "How is “suite” pronounced in the chapter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "SWEET"
+        },
+        {
+          "label": "B",
+          "text": "SYOOT"
+        },
+        {
+          "label": "C",
+          "text": "SUIT-ee"
+        },
+        {
+          "label": "D",
+          "text": "SUT"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 6,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 977,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "Where is the stress in “itinerary” according to the pronunciation guide?",
+      "options": [
+        {
+          "label": "A",
+          "text": "On the first syllable"
+        },
+        {
+          "label": "B",
+          "text": "On the second syllable"
+        },
+        {
+          "label": "C",
+          "text": "On the last syllable"
+        },
+        {
+          "label": "D",
+          "text": "All syllables equally"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 7,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 978,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "Which pronunciation is recommended for “buffet”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "BUF-et"
+        },
+        {
+          "label": "B",
+          "text": "buh-FAY"
+        },
+        {
+          "label": "C",
+          "text": "BUFF-it"
+        },
+        {
+          "label": "D",
+          "text": "boo-FET"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 8,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 979,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "In the SPEAK framework, what does S stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Smile broadly"
+        },
+        {
+          "label": "B",
+          "text": "Slow down"
+        },
+        {
+          "label": "C",
+          "text": "Speak loudly"
+        },
+        {
+          "label": "D",
+          "text": "Stand up"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 9,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 980,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "In the SPEAK framework, why should a speaker pause briefly before answering?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To show composure"
+        },
+        {
+          "label": "B",
+          "text": "To make the guest wait"
+        },
+        {
+          "label": "C",
+          "text": "To avoid eye contact"
+        },
+        {
+          "label": "D",
+          "text": "To speak less clearly"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 10,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 981,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "What does the E in SPEAK remind a hospitality worker to do?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Explain every policy"
+        },
+        {
+          "label": "B",
+          "text": "Maintain natural eye contact"
+        },
+        {
+          "label": "C",
+          "text": "End the conversation quickly"
+        },
+        {
+          "label": "D",
+          "text": "Emphasise every word"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 11,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 982,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "What does A in SPEAK stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ask repeatedly"
+        },
+        {
+          "label": "B",
+          "text": "Articulate clearly"
+        },
+        {
+          "label": "C",
+          "text": "Apologise first"
+        },
+        {
+          "label": "D",
+          "text": "Avoid pauses"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 12,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 983,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "Which action completes the SPEAK framework?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keep smiling"
+        },
+        {
+          "label": "B",
+          "text": "Keep moving"
+        },
+        {
+          "label": "C",
+          "text": "Keep silent"
+        },
+        {
+          "label": "D",
+          "text": "Keep looking away"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 13,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 984,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "When taking the sample food order, what follow-up question does the server ask about the salmon?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Whether the guest wants dessert"
+        },
+        {
+          "label": "B",
+          "text": "How the guest would like it cooked"
+        },
+        {
+          "label": "C",
+          "text": "Whether the guest wants a room"
+        },
+        {
+          "label": "D",
+          "text": "What time the guest is leaving"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 14,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 985,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "Why does the server ask about food allergies?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To upsell a drink"
+        },
+        {
+          "label": "B",
+          "text": "To check an important dietary-safety need"
+        },
+        {
+          "label": "C",
+          "text": "To delay the order"
+        },
+        {
+          "label": "D",
+          "text": "To learn the guest’s room number"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 15,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 986,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "In the tour-guide dialogue, what is the first stop?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Badshahi Mosque"
+        },
+        {
+          "label": "B",
+          "text": "Lahore Fort"
+        },
+        {
+          "label": "C",
+          "text": "Shalimar Gardens"
+        },
+        {
+          "label": "D",
+          "text": "The city museum"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 16,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 987,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "What daily practice is recommended for minutes 4–5?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Read five new words"
+        },
+        {
+          "label": "B",
+          "text": "Record yourself and listen back"
+        },
+        {
+          "label": "C",
+          "text": "Memorise a full speech"
+        },
+        {
+          "label": "D",
+          "text": "Write an email"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 17,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 988,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "How long does the chapter recommend following its daily speaking plan?",
+      "options": [
+        {
+          "label": "A",
+          "text": "7 days"
+        },
+        {
+          "label": "B",
+          "text": "14 days"
+        },
+        {
+          "label": "C",
+          "text": "30 days"
+        },
+        {
+          "label": "D",
+          "text": "One year"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 18,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 989,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "Which activity asks learners to speak for one minute without notes?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pronunciation Relay"
+        },
+        {
+          "label": "B",
+          "text": "Blind Order"
+        },
+        {
+          "label": "C",
+          "text": "60-Second Presentation"
+        },
+        {
+          "label": "D",
+          "text": "Tense Role Play"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 19,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 990,
+      "chapterId": "comm-06",
+      "subtopic": "Listening and Speaking Practice",
+      "question": "What does the chapter say guests want from staff?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Perfect accents only"
+        },
+        {
+          "label": "B",
+          "text": "Warmth and effort, not perfection"
+        },
+        {
+          "label": "C",
+          "text": "Very fast speech"
+        },
+        {
+          "label": "D",
+          "text": "Long explanations in every interaction"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 20,
+      "sourceChapterNumber": 6,
+      "sourceChapterTitle": "Listening and Speaking Practice"
+    },
+    {
+      "id": 991,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which tense is used for regular routines, such as “Breakfast starts at 7 AM”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Present Simple"
+        },
+        {
+          "label": "B",
+          "text": "Present Continuous"
+        },
+        {
+          "label": "C",
+          "text": "Past Perfect"
+        },
+        {
+          "label": "D",
+          "text": "Future Continuous"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 1,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 992,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which sentence uses the Present Continuous?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The chef prepares lunch every day."
+        },
+        {
+          "label": "B",
+          "text": "The chef is preparing the specials."
+        },
+        {
+          "label": "C",
+          "text": "The chef prepared lunch yesterday."
+        },
+        {
+          "label": "D",
+          "text": "The chef will prepare lunch tomorrow."
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 2,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 993,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which auxiliary verb combination is used in the Present Perfect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "did + base verb"
+        },
+        {
+          "label": "B",
+          "text": "has/have + past participle (V3)"
+        },
+        {
+          "label": "C",
+          "text": "was/were + V-ing"
+        },
+        {
+          "label": "D",
+          "text": "will + V-ing"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 3,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 994,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which sentence best illustrates the Present Perfect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "The guest checks in at noon."
+        },
+        {
+          "label": "B",
+          "text": "The guest has already checked in."
+        },
+        {
+          "label": "C",
+          "text": "The guest was checking in."
+        },
+        {
+          "label": "D",
+          "text": "The guest will check in."
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 4,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 995,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which structure forms the Present Perfect Continuous?",
+      "options": [
+        {
+          "label": "A",
+          "text": "has/have been + V-ing"
+        },
+        {
+          "label": "B",
+          "text": "had + V3"
+        },
+        {
+          "label": "C",
+          "text": "will be + V-ing"
+        },
+        {
+          "label": "D",
+          "text": "am/is/are + V3"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 5,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 996,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which sentence is in the Past Simple?",
+      "options": [
+        {
+          "label": "A",
+          "text": "We serve them now."
+        },
+        {
+          "label": "B",
+          "text": "We were serving them."
+        },
+        {
+          "label": "C",
+          "text": "We served them last night."
+        },
+        {
+          "label": "D",
+          "text": "We have served them."
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 6,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 997,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which example shows the Past Continuous?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I take an order."
+        },
+        {
+          "label": "B",
+          "text": "I was taking an order when you called."
+        },
+        {
+          "label": "C",
+          "text": "I had taken an order."
+        },
+        {
+          "label": "D",
+          "text": "I will take an order."
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 7,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 998,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which structure is used for the Past Perfect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "had + V3"
+        },
+        {
+          "label": "B",
+          "text": "has + V-ing"
+        },
+        {
+          "label": "C",
+          "text": "was + base verb"
+        },
+        {
+          "label": "D",
+          "text": "will have + V-ing"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 8,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 999,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which sentence correctly demonstrates the Past Perfect Continuous?",
+      "options": [
+        {
+          "label": "A",
+          "text": "They had been waiting before I arrived."
+        },
+        {
+          "label": "B",
+          "text": "They have waited tomorrow."
+        },
+        {
+          "label": "C",
+          "text": "They were wait before I arrived."
+        },
+        {
+          "label": "D",
+          "text": "They will been waiting."
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 9,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1000,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which sentence expresses a future promise in the chapter’s example?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I bring your order in ten minutes."
+        },
+        {
+          "label": "B",
+          "text": "I brought your order in ten minutes."
+        },
+        {
+          "label": "C",
+          "text": "I will bring your order in ten minutes."
+        },
+        {
+          "label": "D",
+          "text": "I am brought your order in ten minutes."
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 10,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1001,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which structure forms the Future Continuous?",
+      "options": [
+        {
+          "label": "A",
+          "text": "will + V3"
+        },
+        {
+          "label": "B",
+          "text": "will be + V-ing"
+        },
+        {
+          "label": "C",
+          "text": "will have + V-ing"
+        },
+        {
+          "label": "D",
+          "text": "am/is/are + V2"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 11,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1002,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which sentence illustrates the Future Perfect?",
+      "options": [
+        {
+          "label": "A",
+          "text": "By 3 PM, we will have prepared all rooms."
+        },
+        {
+          "label": "B",
+          "text": "By 3 PM, we prepare all rooms."
+        },
+        {
+          "label": "C",
+          "text": "We had prepared all rooms tomorrow."
+        },
+        {
+          "label": "D",
+          "text": "We will preparing all rooms."
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 12,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1003,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which phrase marks the “going to” future form in the chapter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "are going to + base verb"
+        },
+        {
+          "label": "B",
+          "text": "have going + V3"
+        },
+        {
+          "label": "C",
+          "text": "will have + V-ing"
+        },
+        {
+          "label": "D",
+          "text": "did + base verb"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 13,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1004,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Choose the correct form: “The restaurant ___ at 7.”",
+      "options": [
+        {
+          "label": "A",
+          "text": "open"
+        },
+        {
+          "label": "B",
+          "text": "opens"
+        },
+        {
+          "label": "C",
+          "text": "opening"
+        },
+        {
+          "label": "D",
+          "text": "is open at"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 14,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1005,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which is the correct negative sentence?",
+      "options": [
+        {
+          "label": "A",
+          "text": "She don’t speak English."
+        },
+        {
+          "label": "B",
+          "text": "She doesn’t speaks English."
+        },
+        {
+          "label": "C",
+          "text": "She doesn’t speak English."
+        },
+        {
+          "label": "D",
+          "text": "She not speak English."
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 15,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1006,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Choose the correct past sentence.",
+      "options": [
+        {
+          "label": "A",
+          "text": "We was fully booked on Saturday."
+        },
+        {
+          "label": "B",
+          "text": "We were fully booked on Saturday."
+        },
+        {
+          "label": "C",
+          "text": "We are fully booked last Saturday."
+        },
+        {
+          "label": "D",
+          "text": "We be fully booked on Saturday."
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 16,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1007,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which sentence avoids an unnecessary “am”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I am agree with you."
+        },
+        {
+          "label": "B",
+          "text": "I agree with you."
+        },
+        {
+          "label": "C",
+          "text": "I do agrees with you."
+        },
+        {
+          "label": "D",
+          "text": "I agreeing with you."
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 17,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1008,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which is the correct indirect question?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Can you tell me where is the pool?"
+        },
+        {
+          "label": "B",
+          "text": "Can you tell me where the pool is?"
+        },
+        {
+          "label": "C",
+          "text": "Can you tell where is pool?"
+        },
+        {
+          "label": "D",
+          "text": "Can you tell me where does the pool is?"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 18,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1009,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "I have went to the airport."
+        },
+        {
+          "label": "B",
+          "text": "I have gone to the airport."
+        },
+        {
+          "label": "C",
+          "text": "I has gone to the airport."
+        },
+        {
+          "label": "D",
+          "text": "I have go to the airport."
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 19,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1010,
+      "chapterId": "comm-07",
+      "subtopic": "All English Tenses with Hospitality Examples",
+      "question": "Which comparison is correct?",
+      "options": [
+        {
+          "label": "A",
+          "text": "She is more better today."
+        },
+        {
+          "label": "B",
+          "text": "She is best better today."
+        },
+        {
+          "label": "C",
+          "text": "She is better today."
+        },
+        {
+          "label": "D",
+          "text": "She is most better today."
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 20,
+      "sourceChapterNumber": 7,
+      "sourceChapterTitle": "All English Tenses with Hospitality Examples"
+    },
+    {
+      "id": 1011,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "How many parts are in the chapter’s professional email formula?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Five"
+        },
+        {
+          "label": "B",
+          "text": "Six"
+        },
+        {
+          "label": "C",
+          "text": "Seven"
+        },
+        {
+          "label": "D",
+          "text": "Eight"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 1,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1012,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "Which item is specifically identified as part of the email formula?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Body with relevant details, clearly organised"
+        },
+        {
+          "label": "B",
+          "text": "Personal social-media handle"
+        },
+        {
+          "label": "C",
+          "text": "Emoji greeting"
+        },
+        {
+          "label": "D",
+          "text": "Unverified attachment"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 2,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1013,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "Which subject line best matches the booking-confirmation template?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hello there"
+        },
+        {
+          "label": "B",
+          "text": "Booking Confirmation – Guest Name, Dates"
+        },
+        {
+          "label": "C",
+          "text": "Important!!!"
+        },
+        {
+          "label": "D",
+          "text": "My hotel booking"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 3,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1014,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What check-in time is shown in the booking confirmation template?",
+      "options": [
+        {
+          "label": "A",
+          "text": "12:00 noon"
+        },
+        {
+          "label": "B",
+          "text": "1:00 PM"
+        },
+        {
+          "label": "C",
+          "text": "3:00 PM"
+        },
+        {
+          "label": "D",
+          "text": "6:00 PM"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 4,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1015,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What check-out time is shown in the template?",
+      "options": [
+        {
+          "label": "A",
+          "text": "10:00 AM"
+        },
+        {
+          "label": "B",
+          "text": "12:00 noon"
+        },
+        {
+          "label": "C",
+          "text": "3:00 PM"
+        },
+        {
+          "label": "D",
+          "text": "5:00 PM"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 5,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1016,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What information is requested for arranging a complimentary airport transfer?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Flight details"
+        },
+        {
+          "label": "B",
+          "text": "Passport password"
+        },
+        {
+          "label": "C",
+          "text": "Home address only"
+        },
+        {
+          "label": "D",
+          "text": "Social-media account"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 6,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1017,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What is an appropriate opening for a complaint-response email?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Thank the guest for feedback and sincerely apologise"
+        },
+        {
+          "label": "B",
+          "text": "Tell the guest to stop complaining"
+        },
+        {
+          "label": "C",
+          "text": "Blame another department"
+        },
+        {
+          "label": "D",
+          "text": "Ignore the issue"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 7,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1018,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "Which recovery gesture is listed as a possible offer in the complaint template?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Complimentary night, upgrade or discount"
+        },
+        {
+          "label": "B",
+          "text": "A cash tip to the guest"
+        },
+        {
+          "label": "C",
+          "text": "A public apology post"
+        },
+        {
+          "label": "D",
+          "text": "A free airline ticket in every case"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 8,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1019,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "Which sign-off best matches the reservation and booking templates?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Warm regards / Kind regards"
+        },
+        {
+          "label": "B",
+          "text": "Later"
+        },
+        {
+          "label": "C",
+          "text": "Cheers mate"
+        },
+        {
+          "label": "D",
+          "text": "No sign-off"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 9,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1020,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What is the purpose of a reservation inquiry response?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To present room options and relevant terms"
+        },
+        {
+          "label": "B",
+          "text": "To ask the guest to write the hotel’s policy"
+        },
+        {
+          "label": "C",
+          "text": "To send unrelated promotional jokes"
+        },
+        {
+          "label": "D",
+          "text": "To confirm a flight has landed"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 10,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1021,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What benefits are stated as included in the room rates in the reservation response?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Breakfast and Wi-Fi"
+        },
+        {
+          "label": "B",
+          "text": "Lunch and laundry"
+        },
+        {
+          "label": "C",
+          "text": "Airport parking and spa"
+        },
+        {
+          "label": "D",
+          "text": "Dinner and minibar"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 11,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1022,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "Which package details appear in the Bali quotation example?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Return economy flights from Karachi"
+        },
+        {
+          "label": "B",
+          "text": "A one-way train from Lahore"
+        },
+        {
+          "label": "C",
+          "text": "Only a restaurant voucher"
+        },
+        {
+          "label": "D",
+          "text": "A cruise from Dubai"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 12,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1023,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What is included in the sample Bali package?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Seven hotel nights and daily breakfast"
+        },
+        {
+          "label": "B",
+          "text": "Only airfare"
+        },
+        {
+          "label": "C",
+          "text": "A monthly apartment lease"
+        },
+        {
+          "label": "D",
+          "text": "A business-class upgrade guaranteed"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 13,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1024,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "How should a WhatsApp message begin when writing to a named guest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "With only “Hi”"
+        },
+        {
+          "label": "B",
+          "text": "With a professional greeting, name and sender identity"
+        },
+        {
+          "label": "C",
+          "text": "With an emoji only"
+        },
+        {
+          "label": "D",
+          "text": "With an unexplained abbreviation"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 14,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1025,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "Which WhatsApp style is recommended?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Abbreviations such as “u” and “thx”"
+        },
+        {
+          "label": "B",
+          "text": "Full sentences with correct grammar"
+        },
+        {
+          "label": "C",
+          "text": "Several fragmented messages"
+        },
+        {
+          "label": "D",
+          "text": "Anonymous messages"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 15,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1026,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What response time does the chapter recommend during working hours?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Within 5 minutes"
+        },
+        {
+          "label": "B",
+          "text": "Within 30 minutes"
+        },
+        {
+          "label": "C",
+          "text": "Within 3 hours"
+        },
+        {
+          "label": "D",
+          "text": "At the end of the week"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 16,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1027,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "How should a staff member respond if a guest uses a casual tone?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Copy the casual tone exactly"
+        },
+        {
+          "label": "B",
+          "text": "Maintain a professional tone"
+        },
+        {
+          "label": "C",
+          "text": "Use slang and abbreviations"
+        },
+        {
+          "label": "D",
+          "text": "Stop replying"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 17,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1028,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "Which is the best way to send a multi-part message?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Send many short fragments"
+        },
+        {
+          "label": "B",
+          "text": "Send one clear, complete message"
+        },
+        {
+          "label": "C",
+          "text": "Send only “confirmed”"
+        },
+        {
+          "label": "D",
+          "text": "Send without context"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 18,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1029,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "What should the sender include at the end of a professional WhatsApp message?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Name and designation"
+        },
+        {
+          "label": "B",
+          "text": "A private password"
+        },
+        {
+          "label": "C",
+          "text": "A joke"
+        },
+        {
+          "label": "D",
+          "text": "Nothing identifying the sender"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 19,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1030,
+      "chapterId": "comm-08",
+      "subtopic": "Email and WhatsApp Communication",
+      "question": "Why should email templates be personalised?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To make every guest feel the message is relevant"
+        },
+        {
+          "label": "B",
+          "text": "To remove all booking details"
+        },
+        {
+          "label": "C",
+          "text": "To avoid using a greeting"
+        },
+        {
+          "label": "D",
+          "text": "To make the message longer"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 20,
+      "sourceChapterNumber": 8,
+      "sourceChapterTitle": "Email and WhatsApp Communication"
+    },
+    {
+      "id": 1031,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "Which welcome type begins before the guest reaches the employee?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Visual Welcome"
+        },
+        {
+          "label": "B",
+          "text": "Informational Welcome"
+        },
+        {
+          "label": "C",
+          "text": "Personal Welcome"
+        },
+        {
+          "label": "D",
+          "text": "Physical Welcome"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 1,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1032,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "What is an example of a Visual Welcome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A nod and smile from a distance"
+        },
+        {
+          "label": "B",
+          "text": "A printed invoice"
+        },
+        {
+          "label": "C",
+          "text": "A room key"
+        },
+        {
+          "label": "D",
+          "text": "A long complaint form"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 2,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1033,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "What should a Verbal Welcome include when possible?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A warm time-of-day greeting and the guest’s name"
+        },
+        {
+          "label": "B",
+          "text": "A list of staff schedules"
+        },
+        {
+          "label": "C",
+          "text": "A request for a tip"
+        },
+        {
+          "label": "D",
+          "text": "A technical explanation"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 3,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1034,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "What does the Physical Welcome involve?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Moving toward the guest, stepping from behind the desk if possible"
+        },
+        {
+          "label": "B",
+          "text": "Pointing from across the room"
+        },
+        {
+          "label": "C",
+          "text": "Continuing to sit without acknowledgement"
+        },
+        {
+          "label": "D",
+          "text": "Sending an anonymous text"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 4,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1035,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "What is the purpose of an Informational Welcome?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Give key information the guest needs immediately"
+        },
+        {
+          "label": "B",
+          "text": "Ask for a review before service"
+        },
+        {
+          "label": "C",
+          "text": "Explain staff rules only"
+        },
+        {
+          "label": "D",
+          "text": "Avoid answering questions"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 5,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1036,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "What makes a welcome Personal?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adding an individual, memorable touch"
+        },
+        {
+          "label": "B",
+          "text": "Using the same scripted line without noticing the guest"
+        },
+        {
+          "label": "C",
+          "text": "Giving no information"
+        },
+        {
+          "label": "D",
+          "text": "Speaking only to colleagues"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 6,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1037,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "What is the chapter’s 3-Step Response Rule?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ask – Wait – Leave"
+        },
+        {
+          "label": "B",
+          "text": "Acknowledge – Act – Confirm"
+        },
+        {
+          "label": "C",
+          "text": "Listen – Argue – End"
+        },
+        {
+          "label": "D",
+          "text": "Smile – Sell – Upsell"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 7,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1038,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "In the 3-Step Rule, what should happen first?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Act"
+        },
+        {
+          "label": "B",
+          "text": "Confirm"
+        },
+        {
+          "label": "C",
+          "text": "Acknowledge"
+        },
+        {
+          "label": "D",
+          "text": "Escalate automatically"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 8,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1039,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "A guest requests an item. Which response best demonstrates “Act”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "“I will have that brought to your room within 10 minutes.”"
+        },
+        {
+          "label": "B",
+          "text": "“That is not possible.”"
+        },
+        {
+          "label": "C",
+          "text": "“You should have asked earlier.”"
+        },
+        {
+          "label": "D",
+          "text": "“I don’t know.”"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 9,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1040,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "Why is the 7-step order-taking formula included in the chapter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "To help prevent order errors"
+        },
+        {
+          "label": "B",
+          "text": "To make service slower"
+        },
+        {
+          "label": "C",
+          "text": "To replace guest listening"
+        },
+        {
+          "label": "D",
+          "text": "To avoid confirming requests"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 10,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1041,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "A guest reports a nut allergy with a pesto pasta order. What does the example chef say they will do?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prepare it without pine nuts on a clean surface"
+        },
+        {
+          "label": "B",
+          "text": "Remove the allergy note"
+        },
+        {
+          "label": "C",
+          "text": "Serve it as usual"
+        },
+        {
+          "label": "D",
+          "text": "Ask another guest to decide"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 11,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1042,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "How is the duck confit described in the sample?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Slow-cooked for 12 hours and paired with cherry jus and truffle pomme purée"
+        },
+        {
+          "label": "B",
+          "text": "Raw and served with chocolate sauce"
+        },
+        {
+          "label": "C",
+          "text": "Fried for two minutes with ketchup"
+        },
+        {
+          "label": "D",
+          "text": "Baked with no accompaniment"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 12,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1043,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "When a guest is frustrated and escalation is needed, what should the staff member do?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Acknowledge the frustration and escalate to the duty manager"
+        },
+        {
+          "label": "B",
+          "text": "Argue about the policy"
+        },
+        {
+          "label": "C",
+          "text": "Promise an unapproved refund"
+        },
+        {
+          "label": "D",
+          "text": "Ignore the guest"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 13,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1044,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "In the coordination example, which department is asked to prioritise Room 305?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Housekeeping"
+        },
+        {
+          "label": "B",
+          "text": "Marketing"
+        },
+        {
+          "label": "C",
+          "text": "Accounts"
+        },
+        {
+          "label": "D",
+          "text": "Security"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 14,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1045,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "What should a tour guide tell a lost tourist in the example?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Stay where you are; the driver is being sent"
+        },
+        {
+          "label": "B",
+          "text": "Walk to an unknown location"
+        },
+        {
+          "label": "C",
+          "text": "Call another guest"
+        },
+        {
+          "label": "D",
+          "text": "Wait until tomorrow"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 15,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1046,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "What is a professional response to “I don’t know”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "“Let me find out for you right away.”"
+        },
+        {
+          "label": "B",
+          "text": "“Not my problem.”"
+        },
+        {
+          "label": "C",
+          "text": "“Ask someone else.”"
+        },
+        {
+          "label": "D",
+          "text": "“I don’t know” repeated"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 16,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1047,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "Which phrase should staff avoid saying to guests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "“Let me see what I can arrange for you.”"
+        },
+        {
+          "label": "B",
+          "text": "“I appreciate your patience.”"
+        },
+        {
+          "label": "C",
+          "text": "“That’s not my job.”"
+        },
+        {
+          "label": "D",
+          "text": "“Certainly.”"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 17,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1048,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "Which five departments are represented in the department simulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Culinary Arts, Hotel Management, Travel & Tourism, Food Safety, Baking & Patisserie"
+        },
+        {
+          "label": "B",
+          "text": "Sales, Finance, Legal, IT, Security"
+        },
+        {
+          "label": "C",
+          "text": "Only front office and housekeeping"
+        },
+        {
+          "label": "D",
+          "text": "Airline, rail, shipping, retail, banking"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 18,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1049,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "In the custom cake consultation, which filling is recommended?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Raspberry compote"
+        },
+        {
+          "label": "B",
+          "text": "Pineapple custard"
+        },
+        {
+          "label": "C",
+          "text": "Lemon curd"
+        },
+        {
+          "label": "D",
+          "text": "Chocolate mousse"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 19,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1050,
+      "chapterId": "comm-09",
+      "subtopic": "Serving Customers Professionally",
+      "question": "How should teams handle an international wedding group in the simulation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Coordinate communication across departments for the requested services"
+        },
+        {
+          "label": "B",
+          "text": "Each department should work without sharing information"
+        },
+        {
+          "label": "C",
+          "text": "Only prepare the cake"
+        },
+        {
+          "label": "D",
+          "text": "Send all guests to one employee"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 20,
+      "sourceChapterNumber": 9,
+      "sourceChapterTitle": "Serving Customers Professionally"
+    },
+    {
+      "id": 1051,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What does Cultural Intelligence (CQ) mean in the chapter summary?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Understanding and adapting to different cultures"
+        },
+        {
+          "label": "B",
+          "text": "Memorising every country’s laws"
+        },
+        {
+          "label": "C",
+          "text": "Speaking only one language"
+        },
+        {
+          "label": "D",
+          "text": "Treating every guest identically regardless of need"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 1,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1052,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What is the safest approach to a guest’s dietary needs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Assume from nationality"
+        },
+        {
+          "label": "B",
+          "text": "Always ask; never assume"
+        },
+        {
+          "label": "C",
+          "text": "Offer one meal to everyone"
+        },
+        {
+          "label": "D",
+          "text": "Avoid mentioning ingredients"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 2,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1053,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "Which communication styles are contrasted in the chapter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Direct styles in some cultures and indirect/polite styles in others"
+        },
+        {
+          "label": "B",
+          "text": "Loud versus silent only"
+        },
+        {
+          "label": "C",
+          "text": "Written versus printed only"
+        },
+        {
+          "label": "D",
+          "text": "Formal versus illegal"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 3,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1054,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "How should staff handle a concern that may embarrass an East Asian guest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Discuss it publicly"
+        },
+        {
+          "label": "B",
+          "text": "Handle it discreetly and privately"
+        },
+        {
+          "label": "C",
+          "text": "Ignore it"
+        },
+        {
+          "label": "D",
+          "text": "Announce it to the group"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 4,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1055,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "When addressing a guest whose East Asian name order is unfamiliar, what should staff do?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Guess which name to use"
+        },
+        {
+          "label": "B",
+          "text": "Confirm which name the guest prefers"
+        },
+        {
+          "label": "C",
+          "text": "Use only the first sound"
+        },
+        {
+          "label": "D",
+          "text": "Avoid using any name"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 5,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1056,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "Which gesture is recommended when directing an East Asian guest?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Point with one finger"
+        },
+        {
+          "label": "B",
+          "text": "Use an open hand"
+        },
+        {
+          "label": "C",
+          "text": "Wave a menu"
+        },
+        {
+          "label": "D",
+          "text": "Touch the guest’s shoulder"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 6,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1057,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What is a culturally considerate default offer for many East Asian guests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Hot water or tea"
+        },
+        {
+          "label": "B",
+          "text": "Milk in every case"
+        },
+        {
+          "label": "C",
+          "text": "Alcohol"
+        },
+        {
+          "label": "D",
+          "text": "No beverage"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 7,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1058,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "According to the chapter, what number may be considered unlucky in Chinese culture?",
+      "options": [
+        {
+          "label": "A",
+          "text": "4"
+        },
+        {
+          "label": "B",
+          "text": "7"
+        },
+        {
+          "label": "C",
+          "text": "9"
+        },
+        {
+          "label": "D",
+          "text": "12"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 8,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1059,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What does the chapter say about tipping for many East Asian guests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "It is not customary; do not expect it or draw attention to its absence"
+        },
+        {
+          "label": "B",
+          "text": "It is compulsory in every case"
+        },
+        {
+          "label": "C",
+          "text": "It must be requested aloud"
+        },
+        {
+          "label": "D",
+          "text": "It replaces the service charge"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 9,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1060,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "Which greeting is described as respectful for Middle Eastern guests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "As-Salamu Alaykum"
+        },
+        {
+          "label": "B",
+          "text": "Goodbye only"
+        },
+        {
+          "label": "C",
+          "text": "Bonjour in all situations"
+        },
+        {
+          "label": "D",
+          "text": "No greeting"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 10,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1061,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What should staff do regarding handshakes with a guest of the opposite gender?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Always initiate one"
+        },
+        {
+          "label": "B",
+          "text": "Do not initiate; respect the guest’s preference"
+        },
+        {
+          "label": "C",
+          "text": "Insist on a handshake"
+        },
+        {
+          "label": "D",
+          "text": "Avoid all verbal greetings"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 11,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1062,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What may staff provide when requested for prayer accommodation?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Prayer mat and Qibla direction"
+        },
+        {
+          "label": "B",
+          "text": "A restaurant menu"
+        },
+        {
+          "label": "C",
+          "text": "An airport ticket"
+        },
+        {
+          "label": "D",
+          "text": "A city map only"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 12,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1063,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "Which practice is recommended during Ramadan for guests who are fasting?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Keep food and drink visibly in front of them"
+        },
+        {
+          "label": "B",
+          "text": "Avoid visible food or drink during daylight and offer Iftar specials"
+        },
+        {
+          "label": "C",
+          "text": "Do not offer any meal after sunset"
+        },
+        {
+          "label": "D",
+          "text": "Assume every guest is fasting"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 13,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1064,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What hospitality gesture may be appreciated on arrival by Gulf guests?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dates, Arabic coffee (qahwa) or tea"
+        },
+        {
+          "label": "B",
+          "text": "A loud public announcement"
+        },
+        {
+          "label": "C",
+          "text": "An unsolicited handshake"
+        },
+        {
+          "label": "D",
+          "text": "A request for a tip"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 14,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1065,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What does the chapter note about some Middle Eastern guests and service preferences?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Some may prefer same-gender service; ask rather than assume"
+        },
+        {
+          "label": "B",
+          "text": "Everyone has identical preferences"
+        },
+        {
+          "label": "C",
+          "text": "Never ask about service preferences"
+        },
+        {
+          "label": "D",
+          "text": "Always assign the same staff member"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 15,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1066,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "Which statement best reflects inclusive communication?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Use simple, clear language and show patience and respect"
+        },
+        {
+          "label": "B",
+          "text": "Speak quickly to finish sooner"
+        },
+        {
+          "label": "C",
+          "text": "Assume everyone understands English"
+        },
+        {
+          "label": "D",
+          "text": "Make cultural differences a joke"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 16,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1067,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "Which pair is associated with direct communication in the chapter’s comparison?",
+      "options": [
+        {
+          "label": "A",
+          "text": "American and German"
+        },
+        {
+          "label": "B",
+          "text": "Japanese and Thai"
+        },
+        {
+          "label": "C",
+          "text": "Chinese and Japanese"
+        },
+        {
+          "label": "D",
+          "text": "Thai and Chinese"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 17,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1068,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What should a hospitality worker do to build cultural intelligence over time?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Learn, greet, reflect and adapt through guest interactions"
+        },
+        {
+          "label": "B",
+          "text": "Avoid international guests"
+        },
+        {
+          "label": "C",
+          "text": "Memorise stereotypes"
+        },
+        {
+          "label": "D",
+          "text": "Use one script without listening"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 18,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1069,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "How should staff handle dietary, religious or gender-related needs?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ask respectfully and avoid assumptions"
+        },
+        {
+          "label": "B",
+          "text": "Decide based solely on appearance"
+        },
+        {
+          "label": "C",
+          "text": "Discuss private needs publicly"
+        },
+        {
+          "label": "D",
+          "text": "Dismiss the request"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 19,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1070,
+      "chapterId": "comm-10",
+      "subtopic": "Cultural Intelligence for Global Hospitality",
+      "question": "What broad rule works across cultures according to the chapter summary?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Simple English, patience and genuine respect"
+        },
+        {
+          "label": "B",
+          "text": "Slang and jokes"
+        },
+        {
+          "label": "C",
+          "text": "Assumptions and fast speech"
+        },
+        {
+          "label": "D",
+          "text": "Avoiding all questions"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 20,
+      "sourceChapterNumber": 10,
+      "sourceChapterTitle": "Cultural Intelligence for Global Hospitality"
+    },
+    {
+      "id": 1071,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "How early does the chapter recommend arriving for an interview?",
+      "options": [
+        {
+          "label": "A",
+          "text": "5 minutes"
+        },
+        {
+          "label": "B",
+          "text": "10 minutes"
+        },
+        {
+          "label": "C",
+          "text": "15 minutes"
+        },
+        {
+          "label": "D",
+          "text": "30 minutes"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 1,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1072,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "Which company research is recommended before an interview?",
+      "options": [
+        {
+          "label": "A",
+          "text": "History, brand values and number of rooms or outlets"
+        },
+        {
+          "label": "B",
+          "text": "Only the staff’s personal social media"
+        },
+        {
+          "label": "C",
+          "text": "Nothing; research is unnecessary"
+        },
+        {
+          "label": "D",
+          "text": "The interviewer’s home address"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 2,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1073,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "How many copies of a CV does the checklist recommend printing?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One"
+        },
+        {
+          "label": "B",
+          "text": "Two"
+        },
+        {
+          "label": "C",
+          "text": "Five"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 3,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1074,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "How many intelligent questions should a candidate prepare to ask?",
+      "options": [
+        {
+          "label": "A",
+          "text": "One only"
+        },
+        {
+          "label": "B",
+          "text": "Two or three"
+        },
+        {
+          "label": "C",
+          "text": "Ten to fifteen"
+        },
+        {
+          "label": "D",
+          "text": "None"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 4,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1075,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "Which appearance choice is recommended?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Polished shoes, clean nails and no excessive perfume or jewellery"
+        },
+        {
+          "label": "B",
+          "text": "Strong perfume and flashy jewellery"
+        },
+        {
+          "label": "C",
+          "text": "Casual footwear for every role"
+        },
+        {
+          "label": "D",
+          "text": "Wrinkled clothing"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 5,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1076,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "What is a strong structure for “Tell me about yourself”?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Name, programme, key skills, why hospitality and career goal"
+        },
+        {
+          "label": "B",
+          "text": "A long personal history unrelated to the job"
+        },
+        {
+          "label": "C",
+          "text": "Only the candidate’s hobbies"
+        },
+        {
+          "label": "D",
+          "text": "A list of complaints"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 6,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1077,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "How should a candidate answer “What is your greatest strength?”",
+      "options": [
+        {
+          "label": "A",
+          "text": "Name a relevant strength and give a specific example"
+        },
+        {
+          "label": "B",
+          "text": "List many adjectives without evidence"
+        },
+        {
+          "label": "C",
+          "text": "Say they have no strengths"
+        },
+        {
+          "label": "D",
+          "text": "Criticise other candidates"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 7,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1078,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "What makes a good answer about a weakness?",
+      "options": [
+        {
+          "label": "A",
+          "text": "A real but improvable weakness and how it is being addressed"
+        },
+        {
+          "label": "B",
+          "text": "Claiming to have no weaknesses"
+        },
+        {
+          "label": "C",
+          "text": "Naming a weakness with no improvement plan"
+        },
+        {
+          "label": "D",
+          "text": "Blaming a former supervisor"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 8,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1079,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "What framework should be used for experience-based questions?",
+      "options": [
+        {
+          "label": "A",
+          "text": "STAR"
+        },
+        {
+          "label": "B",
+          "text": "SPEAK"
+        },
+        {
+          "label": "C",
+          "text": "SMART only"
+        },
+        {
+          "label": "D",
+          "text": "5 Welcomes"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 9,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1080,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "In STAR, what does S stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Strength"
+        },
+        {
+          "label": "B",
+          "text": "Situation"
+        },
+        {
+          "label": "C",
+          "text": "Service"
+        },
+        {
+          "label": "D",
+          "text": "Summary"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 10,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1081,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "In STAR, what does T stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Time"
+        },
+        {
+          "label": "B",
+          "text": "Team"
+        },
+        {
+          "label": "C",
+          "text": "Task"
+        },
+        {
+          "label": "D",
+          "text": "Training"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 11,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1082,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "In STAR, what does A stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Action"
+        },
+        {
+          "label": "B",
+          "text": "Answer"
+        },
+        {
+          "label": "C",
+          "text": "Ambition"
+        },
+        {
+          "label": "D",
+          "text": "Advice"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 12,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1083,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "In STAR, what does R stand for?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Research"
+        },
+        {
+          "label": "B",
+          "text": "Role"
+        },
+        {
+          "label": "C",
+          "text": "Result"
+        },
+        {
+          "label": "D",
+          "text": "Reason"
+        }
+      ],
+      "correctOption": "C",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 13,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1084,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "Which body-language signal is positive in the chapter?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Natural eye contact and upright posture"
+        },
+        {
+          "label": "B",
+          "text": "Looking repeatedly at the floor"
+        },
+        {
+          "label": "C",
+          "text": "Slouching casually"
+        },
+        {
+          "label": "D",
+          "text": "Limp or overly aggressive handshake"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 14,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1085,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "What should a candidate do in a telephone interview?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Speak slowly and clearly; have CV and notes visible"
+        },
+        {
+          "label": "B",
+          "text": "Rely on facial expressions"
+        },
+        {
+          "label": "C",
+          "text": "Keep the phone on speaker in a noisy room"
+        },
+        {
+          "label": "D",
+          "text": "Avoid preparing"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 15,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1086,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "Where should a candidate look during an online interview to simulate eye contact?",
+      "options": [
+        {
+          "label": "A",
+          "text": "At the camera"
+        },
+        {
+          "label": "B",
+          "text": "At the keyboard"
+        },
+        {
+          "label": "C",
+          "text": "At a second screen"
+        },
+        {
+          "label": "D",
+          "text": "Away from the device"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 16,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1087,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "What is good practice in a group interview?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Contribute confidently and allow others to speak"
+        },
+        {
+          "label": "B",
+          "text": "Dominate every answer"
+        },
+        {
+          "label": "C",
+          "text": "Remain silent throughout"
+        },
+        {
+          "label": "D",
+          "text": "Interrupt other candidates"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 17,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1088,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "Which is a common interview mistake to avoid?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Researching the company"
+        },
+        {
+          "label": "B",
+          "text": "Checking your phone during the interview"
+        },
+        {
+          "label": "C",
+          "text": "Preparing examples"
+        },
+        {
+          "label": "D",
+          "text": "Arriving early"
+        }
+      ],
+      "correctOption": "B",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 18,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1089,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "How should a candidate respond to an angry or difficult customer scenario?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Listen, empathise, apologise and resolve"
+        },
+        {
+          "label": "B",
+          "text": "Argue and blame policy"
+        },
+        {
+          "label": "C",
+          "text": "Ignore the customer"
+        },
+        {
+          "label": "D",
+          "text": "Promise anything without checking"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 19,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
+    },
+    {
+      "id": 1090,
+      "chapterId": "comm-11",
+      "subtopic": "Basic Interview Skills",
+      "question": "What is an appropriate question to ask the interviewer at the end?",
+      "options": [
+        {
+          "label": "A",
+          "text": "“What opportunities are there for training and growth?”"
+        },
+        {
+          "label": "B",
+          "text": "“Can I leave now?”"
+        },
+        {
+          "label": "C",
+          "text": "“No questions.”"
+        },
+        {
+          "label": "D",
+          "text": "“How soon can I avoid my duties?”"
+        }
+      ],
+      "correctOption": "A",
+      "sourceTitle": "Hospitality English — Comprehensive MCQ Study Bank (Chapters 06–11)",
+      "sourceQuestionId": 20,
+      "sourceChapterNumber": 11,
+      "sourceChapterTitle": "Basic Interview Skills"
     }
   ]
 }
