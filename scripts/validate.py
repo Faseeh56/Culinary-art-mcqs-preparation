@@ -1,6 +1,6 @@
 
 #!/usr/bin/env python3
-"""Validator for The Flavor Lab — 1090 questions, 43 chapters."""
+"""Validator for The Flavor Lab — 914 questions, 52 chapters."""
 
 import json
 import pathlib
@@ -17,16 +17,16 @@ chapters = bank["chapters"]
 errors = []
 
 # 1. Overall counts and sequential IDs
-if len(questions) != 1090:
-    errors.append(f"Expected 1090 questions; got {len(questions)}")
+if len(questions) != 914:
+    errors.append(f"Expected 914 questions; got {len(questions)}")
 
-if len(chapters) != 43:
-    errors.append(f"Expected 43 chapters; got {len(chapters)}")
+if len(chapters) != 52:
+    errors.append(f"Expected 52 chapters; got {len(chapters)}")
 
 ids = [q.get("id") for q in questions]
 
-if ids != list(range(1, 1091)):
-    errors.append("Question IDs must be sequential from 1 to 1090.")
+if ids != list(range(476, 1390)):
+    errors.append("Question IDs must be sequential from 476 to 1389.")
 
 if len(set(ids)) != len(ids):
     errors.append("Duplicate question IDs found.")
@@ -109,6 +109,6 @@ if errors:
         print(" - " + error)
     sys.exit(1)
 
-print("PASS: 1090 questions; 43 chapters.")
+print("PASS: 914 questions; 52 chapters.")
 print("PASS: Sequential IDs, unique chapters and valid answer keys.")
 print("PASS: Question structure and source metadata.")
