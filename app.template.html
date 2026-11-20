@@ -530,13 +530,14 @@
         const META = { ch1: ['#FF6578', '🧑‍🍳'], ch3: ['#FFAD36', '🔥'], ch4: ['#35B5EE', '🔪'], ch5: ['#B68DF2', '🍲'], ch6: ['#36C9AE', '🥕'], ch11: ['#35B5EE', '🐟'], ch12: ['#FFAD36', '🧀'], rapid: ['#7282FF', '⚡'], 'part2-veg': ['#36C9AE', '🥬'], 'part2-potatoes': ['#FFAD36', '🥔'], 'part2-dairy': ['#B68DF2', '🧈'], 'part2-rice': ['#35B5EE', '🍚'], 'special-thermo': ['#FF6578', '🌡️'], 'special-immersion': ['#7282FF', '🥣'], 'special-chinois': ['#36C9AE', '🫗'], 'special-gelatin': ['#B68DF2', '🍮'], 'special-extraction': ['#FFAD36', '🍲'], 'special-reduction': ['#FF6578', '🥄'] };
         // Three independent subject collections. Existing chapter IDs stay unchanged.
         const COURSES = [
-            { id: 'culinary', title: 'Culinary Arts', icon: '🍳', description: 'Professional Chef, Part II and Special Topics' },
+            { id: 'culinary', title: 'Culinary Arts', icon: '👨‍🍳', description: 'Professional Chef, Part II and Special Topics' },
             { id: 'food', title: 'Food Safety', icon: '🧼', description: 'Highfield Food Safety Level 2' },
-            { id: 'comm', title: 'Communication & Workplace Skills', icon: '💬', description: 'Communication, grooming, English and ethics' }
+            { id: 'comm', title: 'Communication & Workplace Skills', icon: '💬', description: 'Communication, grooming, English and ethics' },
+            { id: 'computer', title: 'Computer Applications', icon: '💻', description: 'COM 101 — Computer Applications (Weeks 1–12)' }
         ];
-        const courseOf = id => id.startsWith('food-') ? 'food' : id.startsWith('comm-') ? 'comm' : 'culinary';
+        const courseOf = id => id.startsWith('food-') ? 'food' : id.startsWith('comm-') ? 'comm' : id.startsWith('computer-') ? 'computer' : 'culinary';
         const chaptersFor = course => CHS.filter(ch => courseOf(ch.id) === course);
-        const CHB = Object.fromEntries(CHS.map(c => [c.id, { ...c, color: (META[c.id] || (c.id.startsWith('food-') ? ['#36C9AE','🧼'] : ['#B68DF2','💬']))[0], em: (META[c.id] || (c.id.startsWith('food-') ? ['#36C9AE','🧼'] : ['#B68DF2','💬']))[1], ids: QS.filter(q => q.chapterId === c.id).map(q => q.id) }]));
+        const CHB = Object.fromEntries(CHS.map(c => [c.id, { ...c, color: (META[c.id] || (c.id.startsWith('food-') ? ['#36C9AE','🧼'] : c.id.startsWith('computer-') ? ['#35B5EE','💻'] : c.id.startsWith('comm-') ? ['#B68DF2','💬'] : ['#FF6578','👨‍🍳']))[0], em: (META[c.id] || (c.id.startsWith('food-') ? ['#36C9AE','🧼'] : c.id.startsWith('computer-') ? ['#35B5EE','💻'] : c.id.startsWith('comm-') ? ['#B68DF2','💬'] : ['#FF6578','👨‍🍳']))[1], ids: QS.filter(q => q.chapterId === c.id).map(q => q.id) }]));
         const KEY = 'flavorlab.v1';
         const blank = () => ({ v: 1, att: {}, bm: [], mast: [], exams: [], days: [], theme: null, resume: null });
         let st = blank(), memOnly = false;
